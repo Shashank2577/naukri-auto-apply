@@ -1,8 +1,11 @@
 {
-  "generated": "15/10/2026, 11:29:49 pm",
+  "generated": "15/10/2026, 11:41:59 pm",
   "counts": {
     "applied": 1,
-    "unconfirmed": 2
+    "unconfirmed": 2,
+    "failed": 1,
+    "pending": 1,
+    "external-queued": 1
   },
   "verified": 1,
   "unanswered": 0,
@@ -39,6 +42,42 @@
       "kind": "naukri",
       "outcome": "unconfirmed",
       "reason": "apply clicked, success message not seen on page (checked against applied list separately)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "15/10/2026, 11:32:08 pm",
+      "title": "Instructional Design & Learning Development -Senior Associate",
+      "url": "https://www.naukri.com/job-listings-instructional-design-learning-development-senior",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "failed",
+      "reason": "submission did not register in the applied list",
+      "qa": [],
+      "verified": "missing",
+      "flags": []
+    },
+    {
+      "time": "15/10/2026, 11:33:39 pm",
+      "title": "GN-T&O - Talent Development and Learning - Sr Manager",
+      "url": "https://www.naukri.com/job-listings-gn-t-o-talent-development-and-learning-sr-manager-accent",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "pending",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "15/10/2026, 11:33:59 pm",
+      "title": "GN-T&O - Talent Development and Learning - Sr Manager",
+      "url": "https://www.naukri.com/job-listings-gn-t-o-talent-development-and-learning-sr-manager-acce",
+      "company": "see link",
+      "kind": "external",
+      "outcome": "external-queued",
+      "reason": "Apply on company site (followed to employer form)",
       "qa": [],
       "verified": null,
       "flags": []
