@@ -1,13 +1,13 @@
 {
-  "generated": "16/10/2026, 1:12:12 am",
+  "generated": "16/10/2026, 1:27:14 am",
   "counts": {
-    "applied": 19,
-    "external": 7,
+    "applied": 24,
+    "external": 10,
     "failed": 2,
-    "skipped": 17
+    "skipped": 18
   },
-  "verified": 19,
-  "unanswered": 11,
+  "verified": 24,
+  "unanswered": 12,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -793,6 +793,146 @@
       "reason": "",
       "qa": [],
       "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:12:53 am",
+      "title": "Sr Manager- Field Training, Allergan Aesthetics",
+      "url": "https://www.naukri.com/job-listings-sr-manager-field-training-allergan-aesthetics-abbvie-mumbai-12-to-17-years-141026506710",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:14:19 am",
+      "title": "Manager",
+      "url": "https://www.naukri.com/job-listings-manager-auto-international-gurugram-11-to-16-years-190325510173",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:16:08 am",
+      "title": "Manager",
+      "url": "https://www.naukri.com/job-listings-manager-teleperformance-gurugram-5-to-18-years-160925502966",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:17:51 am",
+      "title": "Training Head - Mumbai, Lower Parel",
+      "url": "https://www.naukri.com/job-listings-training-head-mumbai-lower-parel-lifenity-health-mumbai-10-to-20-years-031026006955",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Healthcare?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Training And Development?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Training?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Training Need Analysis?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:19:28 am",
+      "title": "HSE & Training Head",
+      "url": "https://www.naukri.com/job-listings-hse-training-head-gmr-energy-varanasi-agra-15-to-17-years-051026011478",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Environment Health Safety?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:21:20 am",
+      "title": "Training Head",
+      "url": "https://www.naukri.com/job-listings-training-head-auriga-research-baddi-10-to-20-years-230926010879",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:23:23 am",
+      "title": "HEAD Academic Partnerships AND Network Development",
+      "url": "https://www.naukri.com/job-listings-head-academic-partnerships-and-network-development-brainsearch-consulting-pvt-ltd-bengaluru-delhi-ncr-mumbai-all-areas-10-to-20-years-151026026347",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:24:49 am",
+      "title": "National Placement Head",
+      "url": "https://www.naukri.com/job-listings-national-placement-head-brain-pool-consultant-bengaluru-delhi-ncr-mumbai-all-areas-15-to-24-years-230926024531",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:26:49 am",
+      "title": "Profit Centre Head System Certification Training and Sustainability",
+      "url": "https://www.naukri.com/job-listings-profit-centre-head-system-certification-training-and-sustainability-tuv-india-pvt-ltd-mumbai-all-areas-10-to-20-years-300926007863",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
       "flags": []
     },
     {

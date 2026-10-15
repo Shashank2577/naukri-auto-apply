@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 1:12:12 am (IST)
+Generated 16/10/2026, 1:27:14 am (IST)
 
-Attempts: **45** · applied: **19** · verified on Naukri: **19** · unconfirmed: **0** · external (company site): **0** · skipped: **17** · failed: **2** · generic answers: **11**
+Attempts: **54** · applied: **24** · verified on Naukri: **24** · unconfirmed: **0** · external (company site): **0** · skipped: **18** · failed: **2** · generic answers: **12**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -50,7 +50,16 @@ Attempts: **45** · applied: **19** · verified on Naukri: **19** · unconfirmed
 | 42 | 16/10/2026, 1:07:33 am | Senior Training Manager | see link | skipped | — | unanswered: Do you have experience handling training for sales/retention/upselling ? | https://www.naukri.com/job-listings-senior-training-manager-sutherland-mumbai-navi-mumbai-10-to-20-years-141026037107 |
 | 43 | 16/10/2026, 1:09:46 am | Branch Manager / Branch Incharge | see link | external | — | — | https://www.naukri.com/job-listings-branch-manager-branch-incharge-sugam-group-noida-ludhiana-mumbai-tumkur-tiruppur-chennai-bengaluru-8-to-18-years-080724501614 |
 | 44 | 16/10/2026, 1:11:10 am | National Training Manager -Axis | see link | external | — | — | https://www.naukri.com/job-listings-national-training-manager-axis-aditya-birla-insulators-mumbai-10-to-20-years-170826501743 |
-| 45 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 45 | 16/10/2026, 1:12:53 am | Sr Manager- Field Training, Allergan Aesthetics | see link | external | — | — | https://www.naukri.com/job-listings-sr-manager-field-training-allergan-aesthetics-abbvie-mumbai-12-to-17-years-141026506710 |
+| 46 | 16/10/2026, 1:14:19 am | Manager | see link | external | — | — | https://www.naukri.com/job-listings-manager-auto-international-gurugram-11-to-16-years-190325510173 |
+| 47 | 16/10/2026, 1:16:08 am | Manager | see link | external | — | — | https://www.naukri.com/job-listings-manager-teleperformance-gurugram-5-to-18-years-160925502966 |
+| 48 | 16/10/2026, 1:17:51 am | Training Head - Mumbai, Lower Parel | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-training-head-mumbai-lower-parel-lifenity-health-mumbai-10-to-20-years-031026006955 |
+| 49 | 16/10/2026, 1:19:28 am | HSE & Training Head | see link | applied | verified | done | https://www.naukri.com/job-listings-hse-training-head-gmr-energy-varanasi-agra-15-to-17-years-051026011478 |
+| 50 | 16/10/2026, 1:21:20 am | Training Head | see link | applied | verified | — | https://www.naukri.com/job-listings-training-head-auriga-research-baddi-10-to-20-years-230926010879 |
+| 51 | 16/10/2026, 1:23:23 am | HEAD Academic Partnerships AND Network Development | see link | applied | verified | — | https://www.naukri.com/job-listings-head-academic-partnerships-and-network-development-brainsearch-consulting-pvt-ltd-bengaluru-delhi-ncr-mumbai-all-areas-10-to-20-years-151026026347 |
+| 52 | 16/10/2026, 1:24:49 am | National Placement Head | see link | applied | verified | — | https://www.naukri.com/job-listings-national-placement-head-brain-pool-consultant-bengaluru-delhi-ncr-mumbai-all-areas-15-to-24-years-230926024531 |
+| 53 | 16/10/2026, 1:26:49 am | Profit Centre Head System Certification Training and Sustainability | see link | applied | verified | — | https://www.naukri.com/job-listings-profit-centre-head-system-certification-training-and-sustainability-tuv-india-pvt-ltd-mumbai-all-areas-10-to-20-years-300926007863 |
+| 54 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -201,3 +210,19 @@ Attempts: **45** · applied: **19** · verified on Naukri: **19** · unconfirmed
   **A:** 16
 - **Q:** Do you have experience handling training for sales/retention/upselling ?  
   **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Training Head - Mumbai, Lower Parel (see link)
+- **Q:** How many years of experience do you have in Healthcare?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Training And Development?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Training?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Training Need Analysis?  
+  **A:** 16
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### HSE & Training Head (see link)
+- **Q:** How many years of experience do you have in Environment Health Safety?  
+  **A:** 16
