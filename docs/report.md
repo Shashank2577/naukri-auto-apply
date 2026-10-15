@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 4:42:42 am (IST)
+Generated 16/10/2026, 4:57:45 am (IST)
 
-Attempts: **179** · applied: **51** · verified on Naukri: **51** · unconfirmed: **0** · external (company site): **0** · skipped: **62** · failed: **2** · generic answers: **53**
+Attempts: **190** · applied: **51** · verified on Naukri: **51** · unconfirmed: **0** · external (company site): **0** · skipped: **69** · failed: **2** · generic answers: **60**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -184,7 +184,18 @@ Attempts: **179** · applied: **51** · verified on Naukri: **51** · unconfirme
 | 176 | 16/10/2026, 4:39:38 am | Regional Head - Bhubaneswar | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-regional-head-bhubaneswar-sbicap-securities-bhubaneswar-11-to-16-years-240926015992 |
 | 177 | 16/10/2026, 4:40:55 am | Senior Major Gifts Consultant / Senior Major Donor Consultant | see link | external | — | — | https://www.naukri.com/job-listings-senior-major-gifts-consultant-senior-major-donor-consultant-direct-dialogue-initiatives-india-private-limited-bengaluru-15-to-20-years-280926501968 |
 | 178 | 16/10/2026, 4:42:10 am | Sr Consultant - Cash | see link | external | — | — | https://www.naukri.com/job-listings-sr-consultant-cash-northern-operating-services-private-limited-bengaluru-8-to-16-years-141026506201 |
-| 179 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 179 | 16/10/2026, 4:43:19 am | Vice President Marketing and Communications | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-vice-president-marketing-and-communications-flipspaces-mumbai-all-areas-15-to-22-years-141026038065 |
+| 180 | 16/10/2026, 4:44:18 am | Capital Market Process Consultant | see link | external | — | — | https://www.naukri.com/job-listings-capital-market-process-consultant-willware-technologies-private-limited-gurugram-15-to-20-years-131026502877 |
+| 181 | 16/10/2026, 4:45:53 am | Program Manager - Digital Transformation | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-program-manager-digital-transformation-capgemini-technology-services-india-limited-gurugram-12-to-18-years-081026946679 |
+| 182 | 16/10/2026, 4:47:28 am | GxP Sr. Consultant / Subject Matter Experts | see link | external | — | — | https://www.naukri.com/job-listings-gxp-sr-consultant-subject-matter-experts-pharmavise-corporation-remote-15-to-20-years-160926500059 |
+| 183 | 16/10/2026, 4:48:38 am | Lead - Privacy & Protection For Godrej Living | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-lead-privacy-protection-for-godrej-living-godrej-living-mumbai-all-areas-10-to-17-years-141026019875 |
+| 184 | 16/10/2026, 4:49:40 am | Senior Major Gift Consultant | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-senior-major-gift-consultant-direct-dialogue-initiatives-bengaluru-15-to-24-years-180926035504 |
+| 185 | 16/10/2026, 4:50:46 am | Vice President Construction | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-vice-president-construction-conserve-buildcon-mumbai-all-areas-15-to-20-years-210526025979 |
+| 186 | 16/10/2026, 4:52:49 am | Senior Consultant | see link | external | — | — | https://www.naukri.com/job-listings-senior-consultant-aditya-birla-memorial-hospital-pune-15-to-19-years-271125505435 |
+| 187 | 16/10/2026, 4:53:59 am | People & Change Consultant / Senior Manager | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-people-change-consultant-senior-manager-wroots-global-pune-bengaluru-10-to-20-years-141026035450 |
+| 188 | 16/10/2026, 4:55:23 am | Program Manager | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-program-manager-naukri-assist-noida-bengaluru-15-to-20-years-141026024293 |
+| 189 | 16/10/2026, 4:56:51 am | Program Manager - PH Platforms | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-ph-platforms-philips-india-limited-bengaluru-12-to-17-years-151026503033 |
+| 190 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -649,5 +660,33 @@ Attempts: **179** · applied: **51** · verified on Naukri: **51** · unconfirme
   **A:** (no rule: skipped) _(no bank match, generic line used)_
 
 ### Regional Head - Bhubaneswar (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Vice President Marketing and Communications (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Program Manager - Digital Transformation (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Lead - Privacy & Protection For Godrej Living (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Senior Major Gift Consultant (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Vice President Construction (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### People & Change Consultant / Senior Manager (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Program Manager (see link)
 - **Q:** Jobs you might be interested in  
   **A:** (no rule: skipped) _(no bank match, generic line used)_

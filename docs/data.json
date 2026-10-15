@@ -1,13 +1,13 @@
 {
-  "generated": "16/10/2026, 4:42:42 am",
+  "generated": "16/10/2026, 4:57:45 am",
   "counts": {
     "applied": 51,
-    "external": 64,
+    "external": 68,
     "failed": 2,
-    "skipped": 62
+    "skipped": 69
   },
   "verified": 51,
-  "unanswered": 53,
+  "unanswered": 60,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -2953,6 +2953,180 @@
       "time": "16/10/2026, 4:42:10 am",
       "title": "Sr Consultant - Cash",
       "url": "https://www.naukri.com/job-listings-sr-consultant-cash-northern-operating-services-private-limited-bengaluru-8-to-16-years-141026506201",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:43:19 am",
+      "title": "Vice President Marketing and Communications",
+      "url": "https://www.naukri.com/job-listings-vice-president-marketing-and-communications-flipspaces-mumbai-all-areas-15-to-22-years-141026038065",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:44:18 am",
+      "title": "Capital Market Process Consultant",
+      "url": "https://www.naukri.com/job-listings-capital-market-process-consultant-willware-technologies-private-limited-gurugram-15-to-20-years-131026502877",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:45:53 am",
+      "title": "Program Manager - Digital Transformation",
+      "url": "https://www.naukri.com/job-listings-program-manager-digital-transformation-capgemini-technology-services-india-limited-gurugram-12-to-18-years-081026946679",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:47:28 am",
+      "title": "GxP Sr. Consultant / Subject Matter Experts",
+      "url": "https://www.naukri.com/job-listings-gxp-sr-consultant-subject-matter-experts-pharmavise-corporation-remote-15-to-20-years-160926500059",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:48:38 am",
+      "title": "Lead - Privacy & Protection For Godrej Living",
+      "url": "https://www.naukri.com/job-listings-lead-privacy-protection-for-godrej-living-godrej-living-mumbai-all-areas-10-to-17-years-141026019875",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:49:40 am",
+      "title": "Senior Major Gift Consultant",
+      "url": "https://www.naukri.com/job-listings-senior-major-gift-consultant-direct-dialogue-initiatives-bengaluru-15-to-24-years-180926035504",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:50:46 am",
+      "title": "Vice President Construction",
+      "url": "https://www.naukri.com/job-listings-vice-president-construction-conserve-buildcon-mumbai-all-areas-15-to-20-years-210526025979",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:52:49 am",
+      "title": "Senior Consultant",
+      "url": "https://www.naukri.com/job-listings-senior-consultant-aditya-birla-memorial-hospital-pune-15-to-19-years-271125505435",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:53:59 am",
+      "title": "People & Change Consultant / Senior Manager",
+      "url": "https://www.naukri.com/job-listings-people-change-consultant-senior-manager-wroots-global-pune-bengaluru-10-to-20-years-141026035450",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:55:23 am",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-naukri-assist-noida-bengaluru-15-to-20-years-141026024293",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:56:51 am",
+      "title": "Program Manager - PH Platforms",
+      "url": "https://www.naukri.com/job-listings-program-manager-ph-platforms-philips-india-limited-bengaluru-12-to-17-years-151026503033",
       "company": "see link",
       "kind": "naukri",
       "outcome": "external",
