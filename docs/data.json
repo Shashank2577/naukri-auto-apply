@@ -1,14 +1,14 @@
 {
-  "generated": "16/10/2026, 12:12:04 am",
+  "generated": "16/10/2026, 12:27:06 am",
   "counts": {
-    "applied": 2,
-    "skipped": 4,
+    "applied": 3,
     "external": 1,
     "clicked": 1,
-    "failed": 2
+    "failed": 2,
+    "skipped": 11
   },
-  "verified": 3,
-  "unanswered": 3,
+  "verified": 4,
+  "unanswered": 6,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -34,8 +34,8 @@
       "url": "https://www.naukri.com/job-listings-learning-and-development-capability-activation-facilitator-naukri-assist-gurugram-delhi-ncr-12-to-25-years-151026026147",
       "company": "see link",
       "kind": "naukri",
-      "outcome": "skipped",
-      "reason": "unanswered: Are you okay with Gurugram location?",
+      "outcome": "applied",
+      "reason": "Found on Naukri applied history (job id present)",
       "qa": [
         {
           "q": "Are you okay with Gurugram location?",
@@ -43,7 +43,7 @@
           "generic": true
         }
       ],
-      "verified": null,
+      "verified": "verified",
       "flags": []
     },
     {
@@ -153,6 +153,155 @@
       "qa": [
         {
           "q": "How many years of experience do you have in team management?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:13:19 am",
+      "title": "Learning And Development - Capability Activation Facilitator",
+      "url": "https://www.naukri.com/job-listings-learning-and-development-capability-activation-facilitator-naukri-assist-gurugram-delhi-ncr-12-to-25-years-151026026147",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "drawer still open after Save (unanswered or disabled)",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in team management?",
+          "a": "16-20 years",
+          "generic": false
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:15:12 am",
+      "title": "Learning And Development - Capability Activation Facilitator",
+      "url": "https://www.naukri.com/job-listings-learning-and-development-capability-activation-facilitator-naukri-assist-gurugram-delhi-ncr-12-to-25-years-151026026147",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "drawer still open after Save (unanswered or disabled)",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in facilitator ?",
+          "a": "16-20 years",
+          "generic": false
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:17:06 am",
+      "title": "Learning And Development - Capability Activation Facilitator",
+      "url": "https://www.naukri.com/job-listings-learning-and-development-capability-activation-facilitator-naukri-assist-gurugram-delhi-ncr-12-to-25-years-151026026147",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "no Save button",
+      "qa": [
+        {
+          "q": "How many years of experience you have in stakeholder management?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "This is an IC role? Are you okay with this type of role?",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:18:58 am",
+      "title": "Manager - Learning and Development",
+      "url": "https://www.naukri.com/job-listings-manager-learning-and-development-propel-industries-coimbatore-10-to-18-years-081026037459",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: How many years of experience do you have in Sales Training?",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Sales Training?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:20:23 am",
+      "title": "Associate General Manager Learning & Development -Hyderabad",
+      "url": "https://www.naukri.com/job-listings-associate-general-manager-learning-development-hyderabad-croma-hyderabad-9-to-18-years-071026027146",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "drawer still open after Save (unanswered or disabled)",
+      "qa": [
+        {
+          "q": "Are you currently living in or ready to relocate to Hyderabad ?",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:22:10 am",
+      "title": "Manager - Learning and Development",
+      "url": "https://www.naukri.com/job-listings-manager-learning-and-development-propel-industries-coimbatore-10-to-18-years-081026037459",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: How many years of experience do you have in Sales Training?",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Sales Training?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:24:06 am",
+      "title": "Associate General Manager Learning & Development -Hyderabad",
+      "url": "https://www.naukri.com/job-listings-associate-general-manager-learning-development-hyderabad-croma-hyderabad-9-to-18-years-071026027146",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "drawer still open after Save (unanswered or disabled)",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Learning & Development ?",
+          "a": "15-18 years",
+          "generic": false
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:26:01 am",
+      "title": "Manager - Learning and Development",
+      "url": "https://www.naukri.com/job-listings-manager-learning-and-development-propel-industries-coimbatore-10-to-18-years-081026037459",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: How many years of experience do you have in Sales Training?",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Sales Training?",
           "a": "(no rule: skipped)",
           "generic": true
         }
