@@ -1,13 +1,13 @@
 {
-  "generated": "16/10/2026, 2:27:23 am",
+  "generated": "16/10/2026, 2:42:25 am",
   "counts": {
-    "applied": 38,
-    "external": 26,
+    "applied": 41,
+    "external": 29,
     "failed": 2,
-    "skipped": 26
+    "skipped": 29
   },
-  "verified": 38,
-  "unanswered": 19,
+  "verified": 41,
+  "unanswered": 21,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -1600,6 +1600,174 @@
       "reason": "",
       "qa": [],
       "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:28:00 am",
+      "title": "Head - Tendering",
+      "url": "https://www.naukri.com/job-listings-head-tendering-aarvi-encon-mumbai-navi-mumbai-15-to-18-years-180926000175",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "This will be a F2F round. Will you be able to travel to Chembur?",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:29:55 am",
+      "title": "Business Head",
+      "url": "https://www.naukri.com/job-listings-business-head-adler-talent-solutions-gurugram-15-to-20-years-151026030871",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: Have you worked with a Destination Management Company (DMC) or inbound tour operator?",
+      "qa": [
+        {
+          "q": "How many years of Experience you have in Inbound Tourism ?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "Have you worked with a Destination Management Company (DMC) or inbound tour operator?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:31:25 am",
+      "title": "Deputy General Manager",
+      "url": "https://www.naukri.com/job-listings-deputy-general-manager-addverb-technologies-noida-13-to-20-years-151026013269",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Commissioning?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Warehouse Automation?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "Are you currently residing in Noida or willing to relocate to Noida?",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:33:39 am",
+      "title": "Head- Ecommerce-(Sebamed)",
+      "url": "https://www.naukri.com/job-listings-head-ecommerce-sebamed-usv-mumbai-10-to-18-years-151026013207",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:34:47 am",
+      "title": "Delivery Lead Manager",
+      "url": "https://www.naukri.com/job-listings-delivery-lead-manager-accenture-solutions-pvt-ltd-gurugram-13-to-18-years-131026941136",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:36:30 am",
+      "title": "CORPORATE SALARY RELATIONSHIP MANAGER",
+      "url": "https://www.naukri.com/job-listings-corporate-salary-relationship-manager-rexon-products-and-business-services-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-11-to-16-years-270226506258",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:37:35 am",
+      "title": "REGIONAL HEAD",
+      "url": "https://www.naukri.com/job-listings-regional-head-rexon-products-and-business-services-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-15-to-20-years-270226506387",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:39:07 am",
+      "title": "Senior Marketing Manager",
+      "url": "https://www.naukri.com/job-listings-senior-marketing-manager-xtranet-technologies-bhopal-navi-mumbai-delhi-ncr-8-to-18-years-280926029907",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: How many years of experience do you have in ERP ?",
+      "qa": [
+        {
+          "q": "Are you willing to relocate?",
+          "a": "Yes",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in ERP ?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:40:43 am",
+      "title": "Director Risk Consulting | India Delivery & GCC Growth",
+      "url": "https://www.naukri.com/job-listings-director-risk-consulting-india-delivery-gcc-growth-genpact-mumbai-mumbai-all-areas-15-to-24-years-131026048517",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "drawer still open after Save (unanswered or disabled)",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Risk Consulting?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Enterprise Risk Management?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Risk Advisory?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": null,
       "flags": []
     },
     {

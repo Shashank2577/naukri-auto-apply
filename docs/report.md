@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 2:27:23 am (IST)
+Generated 16/10/2026, 2:42:25 am (IST)
 
-Attempts: **92** · applied: **38** · verified on Naukri: **38** · unconfirmed: **0** · external (company site): **0** · skipped: **26** · failed: **2** · generic answers: **19**
+Attempts: **101** · applied: **41** · verified on Naukri: **41** · unconfirmed: **0** · external (company site): **0** · skipped: **29** · failed: **2** · generic answers: **21**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -97,7 +97,16 @@ Attempts: **92** · applied: **38** · verified on Naukri: **38** · unconfirmed
 | 89 | 16/10/2026, 2:21:57 am | Head B2G (Govt) Business / Electrical Fleet Buses / P&L | see link | skipped | — | unanswered: What is the largest size of fleet you have managed? | https://www.naukri.com/job-listings-head-b2g-govt-business-electrical-fleet-buses-p-l-wikilabs-india-new-delhi-hyderabad-mumbai-all-areas-15-to-23-years-190726003716 |
 | 90 | 16/10/2026, 2:23:43 am | Liasoning Head | see link | applied | verified | done | https://www.naukri.com/job-listings-liasoning-head-psa-renewables-new-delhi-15-to-24-years-151026013716 |
 | 91 | 16/10/2026, 2:26:20 am | Head - Airfreight | see link | applied | verified | — | https://www.naukri.com/job-listings-head-airfreight-total-group-mumbai-all-areas-10-to-20-years-290926019172 |
-| 92 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 92 | 16/10/2026, 2:28:00 am | Head - Tendering | see link | applied | verified | done | https://www.naukri.com/job-listings-head-tendering-aarvi-encon-mumbai-navi-mumbai-15-to-18-years-180926000175 |
+| 93 | 16/10/2026, 2:29:55 am | Business Head | see link | skipped | — | unanswered: Have you worked with a Destination Management Company (DMC) or inbound tour operator? | https://www.naukri.com/job-listings-business-head-adler-talent-solutions-gurugram-15-to-20-years-151026030871 |
+| 94 | 16/10/2026, 2:31:25 am | Deputy General Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-deputy-general-manager-addverb-technologies-noida-13-to-20-years-151026013269 |
+| 95 | 16/10/2026, 2:33:39 am | Head- Ecommerce-(Sebamed) | see link | applied | verified | — | https://www.naukri.com/job-listings-head-ecommerce-sebamed-usv-mumbai-10-to-18-years-151026013207 |
+| 96 | 16/10/2026, 2:34:47 am | Delivery Lead Manager | see link | external | — | — | https://www.naukri.com/job-listings-delivery-lead-manager-accenture-solutions-pvt-ltd-gurugram-13-to-18-years-131026941136 |
+| 97 | 16/10/2026, 2:36:30 am | CORPORATE SALARY RELATIONSHIP MANAGER | see link | external | — | — | https://www.naukri.com/job-listings-corporate-salary-relationship-manager-rexon-products-and-business-services-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-11-to-16-years-270226506258 |
+| 98 | 16/10/2026, 2:37:35 am | REGIONAL HEAD | see link | external | — | — | https://www.naukri.com/job-listings-regional-head-rexon-products-and-business-services-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-15-to-20-years-270226506387 |
+| 99 | 16/10/2026, 2:39:07 am | Senior Marketing Manager | see link | skipped | — | unanswered option question: How many years of experience do you have in ERP ? | https://www.naukri.com/job-listings-senior-marketing-manager-xtranet-technologies-bhopal-navi-mumbai-delhi-ncr-8-to-18-years-280926029907 |
+| 100 | 16/10/2026, 2:40:43 am | Director Risk Consulting / India Delivery & GCC Growth | see link | skipped | — | drawer still open after Save (unanswered or disabled) | https://www.naukri.com/job-listings-director-risk-consulting-india-delivery-gcc-growth-genpact-mumbai-mumbai-all-areas-15-to-24-years-131026048517 |
+| 101 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -374,3 +383,35 @@ Attempts: **92** · applied: **38** · verified on Naukri: **38** · unconfirmed
   **A:** 16
 - **Q:** Are you currently residing in New Delhi or willing to relocate to New Delhi?  
   **A:** Yes
+
+### Head - Tendering (see link)
+- **Q:** This will be a F2F round. Will you be able to travel to Chembur?  
+  **A:** Yes
+
+### Business Head (see link)
+- **Q:** How many years of Experience you have in Inbound Tourism ?  
+  **A:** 16
+- **Q:** Have you worked with a Destination Management Company (DMC) or inbound tour operator?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Deputy General Manager (see link)
+- **Q:** How many years of experience do you have in Commissioning?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Warehouse Automation?  
+  **A:** 16
+- **Q:** Are you currently residing in Noida or willing to relocate to Noida?  
+  **A:** Yes
+
+### Senior Marketing Manager (see link)
+- **Q:** Are you willing to relocate?  
+  **A:** Yes
+- **Q:** How many years of experience do you have in ERP ?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Director Risk Consulting | India Delivery & GCC Growth (see link)
+- **Q:** How many years of experience do you have in Risk Consulting?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Enterprise Risk Management?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Risk Advisory?  
+  **A:** 16
