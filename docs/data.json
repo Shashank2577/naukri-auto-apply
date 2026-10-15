@@ -1,13 +1,13 @@
 {
-  "generated": "16/10/2026, 12:57:10 am",
+  "generated": "16/10/2026, 1:12:12 am",
   "counts": {
-    "applied": 14,
-    "external": 4,
+    "applied": 19,
+    "external": 7,
     "failed": 2,
-    "skipped": 16
+    "skipped": 17
   },
-  "verified": 14,
-  "unanswered": 10,
+  "verified": 19,
+  "unanswered": 11,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -621,6 +621,178 @@
         }
       ],
       "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:56:32 am",
+      "title": "Training Manager",
+      "url": "https://www.naukri.com/job-listings-training-manager-concentrix-delhi-ncr-8-to-20-years-011026024397",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "Are you currently living in or ready to relocate to Delhi / NCR ?",
+          "a": "Yes",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Training Manager ?",
+          "a": "14-17 years",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have as Training Manager ?",
+          "a": "14-17 years",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Telecommunication ?",
+          "a": "14-17 years",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in team management?",
+          "a": "14-17 years",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Operations Management ?",
+          "a": "14-17 years",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:58:19 am",
+      "title": "Training Manager",
+      "url": "https://www.naukri.com/job-listings-training-manager-wipro-pari-pune-15-to-20-years-091026033004",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "Are you currently living in or ready to relocate to Pune ?",
+          "a": "Yes",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have as Training Manager ?",
+          "a": "15-17 years",
+          "generic": false
+        },
+        {
+          "q": "Do you have any experience in setting up or building or establishing an Automation Training Center?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:00:38 am",
+      "title": "Opening For HCC Training Manager - Noida",
+      "url": "https://www.naukri.com/job-listings-opening-for-hcc-training-manager-noida-corrohealth-noida-10-to-17-years-290926031491",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:02:06 am",
+      "title": "Training Manager",
+      "url": "https://www.naukri.com/job-listings-training-manager-euler-motors-delhi-ncr-10-to-18-years-230926025451",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Technical Training?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:03:35 am",
+      "title": "Manager - Training",
+      "url": "https://www.naukri.com/job-listings-manager-training-startek-gurugram-9-to-17-years-120725502379",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:05:38 am",
+      "title": "Hiring For a Manager - Quality & Training - Voice process",
+      "url": "https://www.naukri.com/job-listings-hiring-for-a-manager-quality-training-voice-process-titanium-consulting-mumbai-kolkata-hyderabad-pune-chennai-bengaluru-delhi-ncr-mumbai-all-areas-10-to-20-years-151026029191",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:07:33 am",
+      "title": "Senior Training Manager",
+      "url": "https://www.naukri.com/job-listings-senior-training-manager-sutherland-mumbai-navi-mumbai-10-to-20-years-141026037107",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: Do you have experience handling training for sales/retention/upselling ?",
+      "qa": [
+        {
+          "q": "How many years of experience do you have as a Training Manager?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "Do you have experience handling training for sales/retention/upselling ?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:09:46 am",
+      "title": "Branch Manager / Branch Incharge",
+      "url": "https://www.naukri.com/job-listings-branch-manager-branch-incharge-sugam-group-noida-ludhiana-mumbai-tumkur-tiruppur-chennai-bengaluru-8-to-18-years-080724501614",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:11:10 am",
+      "title": "National Training Manager -Axis",
+      "url": "https://www.naukri.com/job-listings-national-training-manager-axis-aditya-birla-insulators-mumbai-10-to-20-years-170826501743",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
       "flags": []
     },
     {

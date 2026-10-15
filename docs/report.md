@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 12:57:10 am (IST)
+Generated 16/10/2026, 1:12:12 am (IST)
 
-Attempts: **36** · applied: **14** · verified on Naukri: **14** · unconfirmed: **0** · external (company site): **0** · skipped: **16** · failed: **2** · generic answers: **10**
+Attempts: **45** · applied: **19** · verified on Naukri: **19** · unconfirmed: **0** · external (company site): **0** · skipped: **17** · failed: **2** · generic answers: **11**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -41,7 +41,16 @@ Attempts: **36** · applied: **14** · verified on Naukri: **14** · unconfirmed
 | 33 | 16/10/2026, 12:51:37 am | Group Head HR | see link | applied | verified | — | https://www.naukri.com/job-listings-group-head-hr-golden-opportunities-pvt-ltd-hyderabad-12-to-18-years-151026914230 |
 | 34 | 16/10/2026, 12:52:40 am | General Manager Human Resource | see link | applied | verified | done | https://www.naukri.com/job-listings-general-manager-human-resource-bkj-airports-jaipur-15-to-20-years-151026031978 |
 | 35 | 16/10/2026, 12:54:25 am | Training Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-training-manager-concentrix-delhi-ncr-8-to-20-years-131026036163 |
-| 36 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 36 | 16/10/2026, 12:56:32 am | Training Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-training-manager-concentrix-delhi-ncr-8-to-20-years-011026024397 |
+| 37 | 16/10/2026, 12:58:19 am | Training Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-training-manager-wipro-pari-pune-15-to-20-years-091026033004 |
+| 38 | 16/10/2026, 1:00:38 am | Opening For HCC Training Manager - Noida | see link | applied | verified | — | https://www.naukri.com/job-listings-opening-for-hcc-training-manager-noida-corrohealth-noida-10-to-17-years-290926031491 |
+| 39 | 16/10/2026, 1:02:06 am | Training Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-training-manager-euler-motors-delhi-ncr-10-to-18-years-230926025451 |
+| 40 | 16/10/2026, 1:03:35 am | Manager - Training | see link | external | — | — | https://www.naukri.com/job-listings-manager-training-startek-gurugram-9-to-17-years-120725502379 |
+| 41 | 16/10/2026, 1:05:38 am | Hiring For a Manager - Quality & Training - Voice process | see link | applied | verified | — | https://www.naukri.com/job-listings-hiring-for-a-manager-quality-training-voice-process-titanium-consulting-mumbai-kolkata-hyderabad-pune-chennai-bengaluru-delhi-ncr-mumbai-all-areas-10-to-20-years-151026029191 |
+| 42 | 16/10/2026, 1:07:33 am | Senior Training Manager | see link | skipped | — | unanswered: Do you have experience handling training for sales/retention/upselling ? | https://www.naukri.com/job-listings-senior-training-manager-sutherland-mumbai-navi-mumbai-10-to-20-years-141026037107 |
+| 43 | 16/10/2026, 1:09:46 am | Branch Manager / Branch Incharge | see link | external | — | — | https://www.naukri.com/job-listings-branch-manager-branch-incharge-sugam-group-noida-ludhiana-mumbai-tumkur-tiruppur-chennai-bengaluru-8-to-18-years-080724501614 |
+| 44 | 16/10/2026, 1:11:10 am | National Training Manager -Axis | see link | external | — | — | https://www.naukri.com/job-listings-national-training-manager-axis-aditya-birla-insulators-mumbai-10-to-20-years-170826501743 |
+| 45 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -160,3 +169,35 @@ Attempts: **36** · applied: **14** · verified on Naukri: **14** · unconfirmed
   **A:** 14-17 years
 - **Q:** How many years of experience do you have as Training Manager ?  
   **A:** 14-17 years
+
+### Training Manager (see link)
+- **Q:** Are you currently living in or ready to relocate to Delhi / NCR ?  
+  **A:** Yes
+- **Q:** How many years of experience do you have in Training Manager ?  
+  **A:** 14-17 years
+- **Q:** How many years of experience do you have as Training Manager ?  
+  **A:** 14-17 years
+- **Q:** How many years of experience do you have in Telecommunication ?  
+  **A:** 14-17 years
+- **Q:** How many years of experience do you have in team management?  
+  **A:** 14-17 years
+- **Q:** How many years of experience do you have in Operations Management ?  
+  **A:** 14-17 years
+
+### Training Manager (see link)
+- **Q:** Are you currently living in or ready to relocate to Pune ?  
+  **A:** Yes
+- **Q:** How many years of experience do you have as Training Manager ?  
+  **A:** 15-17 years
+- **Q:** Do you have any experience in setting up or building or establishing an Automation Training Center?  
+  **A:** 16
+
+### Training Manager (see link)
+- **Q:** How many years of experience do you have in Technical Training?  
+  **A:** 16
+
+### Senior Training Manager (see link)
+- **Q:** How many years of experience do you have as a Training Manager?  
+  **A:** 16
+- **Q:** Do you have experience handling training for sales/retention/upselling ?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
