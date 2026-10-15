@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 1:57:18 am (IST)
+Generated 16/10/2026, 2:12:21 am (IST)
 
-Attempts: **74** · applied: **29** · verified on Naukri: **29** · unconfirmed: **0** · external (company site): **0** · skipped: **21** · failed: **2** · generic answers: **15**
+Attempts: **84** · applied: **33** · verified on Naukri: **33** · unconfirmed: **0** · external (company site): **0** · skipped: **24** · failed: **2** · generic answers: **17**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -79,7 +79,17 @@ Attempts: **74** · applied: **29** · verified on Naukri: **29** · unconfirmed
 | 71 | 16/10/2026, 1:53:47 am | Sector Head Nutrition | see link | external | — | — | https://www.naukri.com/job-listings-sector-head-nutrition-accelerate-indian-philanthropy-aip-new-delhi-15-to-20-years-090326501399 |
 | 72 | 16/10/2026, 1:54:52 am | Head: Outcome Measurement | see link | external | — | — | https://www.naukri.com/job-listings-head-outcome-measurement-accelerate-indian-philanthropy-aip-new-delhi-15-to-20-years-090326501397 |
 | 73 | 16/10/2026, 1:56:44 am | Lead - Project Safety | see link | external | — | — | https://www.naukri.com/job-listings-lead-project-safety-adani-transmission-mumbai-12-to-17-years-160426505413 |
-| 74 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 74 | 16/10/2026, 1:58:34 am | Business Head | see link | applied | verified | done | https://www.naukri.com/job-listings-business-head-careervitablr-new-delhi-11-to-20-years-151026033183 |
+| 75 | 16/10/2026, 2:01:04 am | Design Head | see link | applied | verified | — | https://www.naukri.com/job-listings-design-head-anika-industries-mumbai-all-areas-11-to-17-years-011026934463 |
+| 76 | 16/10/2026, 2:02:18 am | Senior Manager, Infrastructure & End user services | see link | external | — | — | https://www.naukri.com/job-listings-senior-manager-infrastructure-end-user-services-wartsila-india-ltd-navi-mumbai-15-to-16-years-100626506668 |
+| 77 | 16/10/2026, 2:03:30 am | Head Strategic Partnerships | see link | applied | verified | done | https://www.naukri.com/job-listings-head-strategic-partnerships-velocent-solutions-noida-10-to-19-years-290926039367 |
+| 78 | 16/10/2026, 2:05:05 am | Business Head / Pricious Metals & Base Metal | see link | skipped | — | unanswered: Do you have initail exp in working in production of any base metals and understand productions, operations, maintenance well? | https://www.naukri.com/job-listings-business-head-pricious-metals-base-metal-wikilabs-india-greater-noida-14-to-20-years-191025002586 |
+| 79 | 16/10/2026, 2:06:24 am | Sr . Transactions Manager | see link | external | — | — | https://www.naukri.com/job-listings-sr-transactions-manager-cityinfo-services-pvt-ltd-mumbai-gurugram-bengaluru-15-to-18-years-210622501760 |
+| 80 | 16/10/2026, 2:07:16 am | CLUSTER HEAD | see link | external | — | — | https://www.naukri.com/job-listings-cluster-head-rexon-products-and-business-services-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-15-to-20-years-270226506339 |
+| 81 | 16/10/2026, 2:08:26 am | Head B2G (Govt) Business / Electrical Fleet Buses / P&L | see link | skipped | — | unanswered: What is the largest size of fleet you have managed? | https://www.naukri.com/job-listings-head-b2g-govt-business-electrical-fleet-buses-p-l-wikilabs-india-hyderabad-delhi-ncr-mumbai-all-areas-15-to-23-years-180525005520 |
+| 82 | 16/10/2026, 2:10:07 am | Technical Engagement Manager | see link | applied | verified | — | https://www.naukri.com/job-listings-technical-engagement-manager-augmatrixgo-hyderabad-gurugram-12-to-19-years-010721500374 |
+| 83 | 16/10/2026, 2:11:26 am | Director Cyber Security | see link | skipped | — | drawer still open after Save (unanswered or disabled) | https://www.naukri.com/job-listings-director-cyber-security-hcltech-noida-pune-bengaluru-15-to-20-years-030926015558 |
+| 84 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -285,4 +295,38 @@ Attempts: **74** · applied: **29** · verified on Naukri: **29** · unconfirmed
 - **Q:** How many years of experience do you have in Team Handling?  
   **A:** 16
 - **Q:** How many years of experience do you have in Capital Market?  
+  **A:** 16
+
+### Business Head (see link)
+- **Q:** How many years of experience do you have in Pnl Management?  
+  **A:** 16
+
+### Head Strategic Partnerships (see link)
+- **Q:** Are you currently residing in Noida or willing to relocate to Noida?  
+  **A:** Yes
+
+### Business Head | Pricious Metals & Base Metal (see link)
+- **Q:** How many years of experience do you have in PNL Management of any base metal?  
+  **A:** 16
+- **Q:** Do you have initail exp in working in production of any base metals and understand productions, operations, maintenance well?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Head B2G (Govt) Business | Electrical Fleet Buses | P&L (see link)
+- **Q:** How many years of experience do you have in Govt Liasioning?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Fleet Operations?  
+  **A:** 16
+- **Q:** What is the largest size of fleet you have managed?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Director Cyber Security (see link)
+- **Q:** How many years of experience do you have in Vulnerability Assessment?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Vulnerability Management?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Mitre Attack?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Siem Tools?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Soar?  
   **A:** 16

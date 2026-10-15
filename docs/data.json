@@ -1,13 +1,13 @@
 {
-  "generated": "16/10/2026, 1:57:18 am",
+  "generated": "16/10/2026, 2:12:21 am",
   "counts": {
-    "applied": 29,
-    "external": 22,
+    "applied": 33,
+    "external": 25,
     "failed": 2,
-    "skipped": 21
+    "skipped": 24
   },
-  "verified": 29,
-  "unanswered": 15,
+  "verified": 33,
+  "unanswered": 17,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -1244,6 +1244,191 @@
       "outcome": "external",
       "reason": "",
       "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:58:34 am",
+      "title": "Business Head",
+      "url": "https://www.naukri.com/job-listings-business-head-careervitablr-new-delhi-11-to-20-years-151026033183",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Pnl Management?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:01:04 am",
+      "title": "Design Head",
+      "url": "https://www.naukri.com/job-listings-design-head-anika-industries-mumbai-all-areas-11-to-17-years-011026934463",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:02:18 am",
+      "title": "Senior Manager, Infrastructure & End user services",
+      "url": "https://www.naukri.com/job-listings-senior-manager-infrastructure-end-user-services-wartsila-india-ltd-navi-mumbai-15-to-16-years-100626506668",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:03:30 am",
+      "title": "Head Strategic Partnerships",
+      "url": "https://www.naukri.com/job-listings-head-strategic-partnerships-velocent-solutions-noida-10-to-19-years-290926039367",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "Are you currently residing in Noida or willing to relocate to Noida?",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:05:05 am",
+      "title": "Business Head | Pricious Metals & Base Metal",
+      "url": "https://www.naukri.com/job-listings-business-head-pricious-metals-base-metal-wikilabs-india-greater-noida-14-to-20-years-191025002586",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: Do you have initail exp in working in production of any base metals and understand productions, operations, maintenance well?",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in PNL Management of any base metal?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "Do you have initail exp in working in production of any base metals and understand productions, operations, maintenance well?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:06:24 am",
+      "title": "Sr . Transactions Manager",
+      "url": "https://www.naukri.com/job-listings-sr-transactions-manager-cityinfo-services-pvt-ltd-mumbai-gurugram-bengaluru-15-to-18-years-210622501760",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:07:16 am",
+      "title": "CLUSTER HEAD",
+      "url": "https://www.naukri.com/job-listings-cluster-head-rexon-products-and-business-services-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-15-to-20-years-270226506339",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:08:26 am",
+      "title": "Head B2G (Govt) Business | Electrical Fleet Buses | P&L",
+      "url": "https://www.naukri.com/job-listings-head-b2g-govt-business-electrical-fleet-buses-p-l-wikilabs-india-hyderabad-delhi-ncr-mumbai-all-areas-15-to-23-years-180525005520",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: What is the largest size of fleet you have managed?",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Govt Liasioning?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Fleet Operations?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "What is the largest size of fleet you have managed?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:10:07 am",
+      "title": "Technical Engagement Manager",
+      "url": "https://www.naukri.com/job-listings-technical-engagement-manager-augmatrixgo-hyderabad-gurugram-12-to-19-years-010721500374",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:11:26 am",
+      "title": "Director Cyber Security",
+      "url": "https://www.naukri.com/job-listings-director-cyber-security-hcltech-noida-pune-bengaluru-15-to-20-years-030926015558",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "drawer still open after Save (unanswered or disabled)",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Vulnerability Assessment?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Vulnerability Management?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Mitre Attack?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Siem Tools?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Soar?",
+          "a": "16",
+          "generic": false
+        }
+      ],
       "verified": null,
       "flags": []
     },
