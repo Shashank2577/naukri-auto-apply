@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 4:27:40 am (IST)
+Generated 16/10/2026, 4:42:42 am (IST)
 
-Attempts: **167** · applied: **51** · verified on Naukri: **51** · unconfirmed: **0** · external (company site): **0** · skipped: **57** · failed: **2** · generic answers: **49**
+Attempts: **179** · applied: **51** · verified on Naukri: **51** · unconfirmed: **0** · external (company site): **0** · skipped: **62** · failed: **2** · generic answers: **53**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -172,7 +172,19 @@ Attempts: **167** · applied: **51** · verified on Naukri: **51** · unconfirme
 | 164 | 16/10/2026, 4:24:13 am | Senior Manager - Strategic Programs & Partnerships | see link | external | — | — | https://www.naukri.com/job-listings-senior-manager-strategic-programs-partnerships-arthan-new-delhi-12-to-17-years-120326506133 |
 | 165 | 16/10/2026, 4:25:08 am | Program Manager | see link | skipped | — | unanswered option question: Booking Holdings | https://www.naukri.com/job-listings-program-manager-booking-holdings-bengaluru-13-to-20-years-150926026345 |
 | 166 | 16/10/2026, 4:26:21 am | Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-dana-tm4-pune-15-to-18-years-100926502583 |
-| 167 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 167 | 16/10/2026, 4:27:56 am | Manager | see link | external | — | — | https://www.naukri.com/job-listings-manager-kp-group-bhuj-15-to-20-years-260925504530 |
+| 168 | 16/10/2026, 4:28:54 am | Manager | see link | external | — | — | https://www.naukri.com/job-listings-manager-kp-group-bharuch-15-to-20-years-260925504529 |
+| 169 | 16/10/2026, 4:30:38 am | Manager | see link | skipped | — | no Apply button (already applied or page changed) | https://www.naukri.com/job-listings-manager-shilpa-steel-and-power-nagpur-10-to-18-years-110925503533 |
+| 170 | 16/10/2026, 4:32:14 am | Manager | see link | external | — | — | https://www.naukri.com/job-listings-manager-micromount-ludhiana-15-to-16-years-100426501121 |
+| 171 | 16/10/2026, 4:33:09 am | Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-birlasoft-india-limited-hyderabad-12-to-17-years-151026503781 |
+| 172 | 16/10/2026, 4:34:13 am | Program Manager | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-program-manager-sasmos-het-technologies-devanahalli-12-to-20-years-131026037846 |
+| 173 | 16/10/2026, 4:35:49 am | Program Manager | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-program-manager-alstom-transport-india-ltd-bengaluru-15-to-23-years-121026904471 |
+| 174 | 16/10/2026, 4:37:13 am | Hirin For Program Manager RPO | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-hirin-for-program-manager-rpo-careernet-bengaluru-12-to-20-years-101026012989 |
+| 175 | 16/10/2026, 4:38:33 am | Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-envision-technology-solutions-tech-think-infotech-hubballi-mangaluru-mysuru-bengaluru-belagavi-15-to-20-years-061026503790 |
+| 176 | 16/10/2026, 4:39:38 am | Regional Head - Bhubaneswar | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-regional-head-bhubaneswar-sbicap-securities-bhubaneswar-11-to-16-years-240926015992 |
+| 177 | 16/10/2026, 4:40:55 am | Senior Major Gifts Consultant / Senior Major Donor Consultant | see link | external | — | — | https://www.naukri.com/job-listings-senior-major-gifts-consultant-senior-major-donor-consultant-direct-dialogue-initiatives-india-private-limited-bengaluru-15-to-20-years-280926501968 |
+| 178 | 16/10/2026, 4:42:10 am | Sr Consultant - Cash | see link | external | — | — | https://www.naukri.com/job-listings-sr-consultant-cash-northern-operating-services-private-limited-bengaluru-8-to-16-years-141026506201 |
+| 179 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -622,4 +634,20 @@ Attempts: **167** · applied: **51** · verified on Naukri: **51** · unconfirme
 
 ### Program Manager (see link)
 - **Q:** Booking Holdings  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Program Manager (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Program Manager (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Hirin For Program Manager RPO (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Regional Head - Bhubaneswar (see link)
+- **Q:** Jobs you might be interested in  
   **A:** (no rule: skipped) _(no bank match, generic line used)_

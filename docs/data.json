@@ -1,13 +1,13 @@
 {
-  "generated": "16/10/2026, 4:27:40 am",
+  "generated": "16/10/2026, 4:42:42 am",
   "counts": {
     "applied": 51,
-    "external": 57,
+    "external": 64,
     "failed": 2,
-    "skipped": 57
+    "skipped": 62
   },
   "verified": 51,
-  "unanswered": 49,
+  "unanswered": 53,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -2785,6 +2785,174 @@
       "time": "16/10/2026, 4:26:21 am",
       "title": "Program Manager",
       "url": "https://www.naukri.com/job-listings-program-manager-dana-tm4-pune-15-to-18-years-100926502583",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:27:56 am",
+      "title": "Manager",
+      "url": "https://www.naukri.com/job-listings-manager-kp-group-bhuj-15-to-20-years-260925504530",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:28:54 am",
+      "title": "Manager",
+      "url": "https://www.naukri.com/job-listings-manager-kp-group-bharuch-15-to-20-years-260925504529",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:30:38 am",
+      "title": "Manager",
+      "url": "https://www.naukri.com/job-listings-manager-shilpa-steel-and-power-nagpur-10-to-18-years-110925503533",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "no Apply button (already applied or page changed)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:32:14 am",
+      "title": "Manager",
+      "url": "https://www.naukri.com/job-listings-manager-micromount-ludhiana-15-to-16-years-100426501121",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:33:09 am",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-birlasoft-india-limited-hyderabad-12-to-17-years-151026503781",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:34:13 am",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-sasmos-het-technologies-devanahalli-12-to-20-years-131026037846",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:35:49 am",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-alstom-transport-india-ltd-bengaluru-15-to-23-years-121026904471",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:37:13 am",
+      "title": "Hirin For Program Manager RPO",
+      "url": "https://www.naukri.com/job-listings-hirin-for-program-manager-rpo-careernet-bengaluru-12-to-20-years-101026012989",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:38:33 am",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-envision-technology-solutions-tech-think-infotech-hubballi-mangaluru-mysuru-bengaluru-belagavi-15-to-20-years-061026503790",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:39:38 am",
+      "title": "Regional Head - Bhubaneswar",
+      "url": "https://www.naukri.com/job-listings-regional-head-bhubaneswar-sbicap-securities-bhubaneswar-11-to-16-years-240926015992",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:40:55 am",
+      "title": "Senior Major Gifts Consultant / Senior Major Donor Consultant",
+      "url": "https://www.naukri.com/job-listings-senior-major-gifts-consultant-senior-major-donor-consultant-direct-dialogue-initiatives-india-private-limited-bengaluru-15-to-20-years-280926501968",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:42:10 am",
+      "title": "Sr Consultant - Cash",
+      "url": "https://www.naukri.com/job-listings-sr-consultant-cash-northern-operating-services-private-limited-bengaluru-8-to-16-years-141026506201",
       "company": "see link",
       "kind": "naukri",
       "outcome": "external",
