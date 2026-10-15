@@ -97,6 +97,15 @@ function companyFromUrl() {
   return 'see link';
 }
 
+// manual confirmations (checked on Naukri's applied history) override the log
+const CONFIRMED = path.join(__dirname, 'confirmed.json');
+if (fs.existsSync(CONFIRMED)) {
+  for (const c of JSON.parse(fs.readFileSync(CONFIRMED, 'utf8'))) {
+    const j = jobs.find((x) => x.url === c.url);
+    if (j) { j.outcome = 'applied'; j.verified = 'verified'; j.reason = c.status; }
+  }
+}
+
 // privacy pass
 for (const j of jobs) {
   j.qa = j.qa.map((x) => ({

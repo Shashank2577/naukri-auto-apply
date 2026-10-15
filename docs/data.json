@@ -1,10 +1,10 @@
 {
-  "generated": "15/10/2026, 11:26:57 pm",
+  "generated": "15/10/2026, 11:29:49 pm",
   "counts": {
-    "unconfirmed": 2,
-    "pending": 1
+    "applied": 1,
+    "unconfirmed": 2
   },
-  "verified": 0,
+  "verified": 1,
   "unanswered": 0,
   "jobs": [
     {
@@ -13,10 +13,10 @@
       "url": "https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601",
       "company": "see link",
       "kind": "naukri",
-      "outcome": "unconfirmed",
-      "reason": "apply clicked, success message not seen on page (checked against applied list separately)",
+      "outcome": "applied",
+      "reason": "Application Sent (15 Oct 2026, Naukri applied history)",
       "qa": [],
-      "verified": null,
+      "verified": "verified",
       "flags": []
     },
     {
@@ -37,8 +37,8 @@
       "url": "https://www.naukri.com/job-listings-learning-and-development-capability-activation-fa",
       "company": "see link",
       "kind": "naukri",
-      "outcome": "pending",
-      "reason": "",
+      "outcome": "unconfirmed",
+      "reason": "apply clicked, success message not seen on page (checked against applied list separately)",
       "qa": [],
       "verified": null,
       "flags": []
