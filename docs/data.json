@@ -1,13 +1,13 @@
 {
-  "generated": "16/10/2026, 5:12:47 am",
+  "generated": "16/10/2026, 5:27:49 am",
   "counts": {
     "applied": 51,
-    "external": 74,
+    "external": 75,
     "failed": 2,
-    "skipped": 73
+    "skipped": 78
   },
   "verified": 51,
-  "unanswered": 64,
+  "unanswered": 69,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -3271,6 +3271,108 @@
       "time": "16/10/2026, 5:11:46 am",
       "title": "Program Manager",
       "url": "https://www.naukri.com/job-listings-program-manager-atkins-global-gurugram-15-to-20-years-120326502005",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 5:13:36 am",
+      "title": "Manager (Training & Development)",
+      "url": "https://www.naukri.com/job-listings-manager-training-development-swami-rama-himalayan-university-srhu-dehradun-10-to-18-years-121026002206",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 5:14:53 am",
+      "title": "Training & Development - HEAD",
+      "url": "https://www.naukri.com/job-listings-training-development-head-mayur-uniquoters-jaipur-10-to-16-years-140926016789",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 5:16:57 am",
+      "title": "Regional Head EHS & ESG",
+      "url": "https://www.naukri.com/job-listings-regional-head-ehs-esg-greencell-mobility-hyderabad-mumbai-all-areas-15-to-18-years-270826028652",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 5:18:46 am",
+      "title": "Construction Lead - Semiconductor Projects",
+      "url": "https://www.naukri.com/job-listings-construction-lead-semiconductor-projects-aecom-india-private-limited-ahmedabad-11-to-16-years-151026930713",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: AECOM",
+      "qa": [
+        {
+          "q": "AECOM",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 5:19:51 am",
+      "title": "Sr. EHS Manager",
+      "url": "https://www.naukri.com/job-listings-sr-ehs-manager-aecom-india-private-limited-thiruvananthapuram-15-to-20-years-151026930647",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: AECOM",
+      "qa": [
+        {
+          "q": "AECOM",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 5:21:16 am",
+      "title": "Paid Search Manager",
+      "url": "https://www.naukri.com/job-listings-paid-search-manager-wildnet-technologies-pvt-ltd-noida-15-to-20-years-151026503714",
       "company": "see link",
       "kind": "naukri",
       "outcome": "external",

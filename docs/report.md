@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 5:12:47 am (IST)
+Generated 16/10/2026, 5:27:49 am (IST)
 
-Attempts: **200** · applied: **51** · verified on Naukri: **51** · unconfirmed: **0** · external (company site): **0** · skipped: **73** · failed: **2** · generic answers: **64**
+Attempts: **206** · applied: **51** · verified on Naukri: **51** · unconfirmed: **0** · external (company site): **0** · skipped: **78** · failed: **2** · generic answers: **69**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -205,7 +205,13 @@ Attempts: **200** · applied: **51** · verified on Naukri: **51** · unconfirme
 | 197 | 16/10/2026, 5:09:05 am | Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-plan-india-new-delhi-13-to-20-years-290926500958 |
 | 198 | 16/10/2026, 5:10:48 am | Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-nomura-capital-india-private-limited-mumbai-13-to-18-years-260826500627 |
 | 199 | 16/10/2026, 5:11:46 am | Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-atkins-global-gurugram-15-to-20-years-120326502005 |
-| 200 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 200 | 16/10/2026, 5:13:36 am | Manager (Training & Development) | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-manager-training-development-swami-rama-himalayan-university-srhu-dehradun-10-to-18-years-121026002206 |
+| 201 | 16/10/2026, 5:14:53 am | Training & Development - HEAD | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-training-development-head-mayur-uniquoters-jaipur-10-to-16-years-140926016789 |
+| 202 | 16/10/2026, 5:16:57 am | Regional Head EHS & ESG | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-regional-head-ehs-esg-greencell-mobility-hyderabad-mumbai-all-areas-15-to-18-years-270826028652 |
+| 203 | 16/10/2026, 5:18:46 am | Construction Lead - Semiconductor Projects | see link | skipped | — | unanswered option question: AECOM | https://www.naukri.com/job-listings-construction-lead-semiconductor-projects-aecom-india-private-limited-ahmedabad-11-to-16-years-151026930713 |
+| 204 | 16/10/2026, 5:19:51 am | Sr. EHS Manager | see link | skipped | — | unanswered option question: AECOM | https://www.naukri.com/job-listings-sr-ehs-manager-aecom-india-private-limited-thiruvananthapuram-15-to-20-years-151026930647 |
+| 205 | 16/10/2026, 5:21:16 am | Paid Search Manager | see link | external | — | — | https://www.naukri.com/job-listings-paid-search-manager-wildnet-technologies-pvt-ltd-noida-15-to-20-years-151026503714 |
+| 206 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -715,4 +721,24 @@ Attempts: **200** · applied: **51** · verified on Naukri: **51** · unconfirme
 
 ### Head Program Manager- EV (see link)
 - **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Manager (Training & Development) (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Training & Development - HEAD (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Regional Head EHS & ESG (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Construction Lead - Semiconductor Projects (see link)
+- **Q:** AECOM  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Sr. EHS Manager (see link)
+- **Q:** AECOM  
   **A:** (no rule: skipped) _(no bank match, generic line used)_
