@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 2:57:27 am (IST)
+Generated 16/10/2026, 3:12:29 am (IST)
 
-Attempts: **110** · applied: **45** · verified on Naukri: **45** · unconfirmed: **0** · external (company site): **0** · skipped: **31** · failed: **2** · generic answers: **23**
+Attempts: **119** · applied: **48** · verified on Naukri: **48** · unconfirmed: **0** · external (company site): **0** · skipped: **32** · failed: **2** · generic answers: **24**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -115,7 +115,16 @@ Attempts: **110** · applied: **45** · verified on Naukri: **45** · unconfirme
 | 107 | 16/10/2026, 2:52:36 am | HNI Desk Head | see link | applied | verified | — | https://www.naukri.com/job-listings-hni-desk-head-anandrathi-nagpur-10-to-20-years-020726019263 |
 | 108 | 16/10/2026, 2:54:29 am | Cambridge Head | see link | skipped | — | unanswered option question: How many vendors or contracts have you managed? | https://www.naukri.com/job-listings-cambridge-head-billabong-high-international-school-jabalpur-10-to-20-years-300926006120 |
 | 109 | 16/10/2026, 2:56:24 am | Head - Consumer Durables / Home Appliances | see link | applied | verified | — | https://www.naukri.com/job-listings-head-consumer-durables-home-appliances-vhr-professional-services-australia-singapore-ireland-canada-germany-united-kingdom-uk-united-states-usa-united-arab-emirates-luxembourg-15-to-24-years-110926015200 |
-| 110 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 110 | 16/10/2026, 2:58:14 am | Head - Consumer Durables / Home Appliances | see link | applied | verified | — | https://www.naukri.com/job-listings-head-consumer-durables-home-appliances-rm-global-consulting-australia-singapore-canada-14-to-24-years-290926000340 |
+| 111 | 16/10/2026, 2:59:20 am | Zonel Head | see link | external | — | — | https://www.naukri.com/job-listings-zonel-head-han-digital-solution-bardhaman-12-to-18-years-220126502646 |
+| 112 | 16/10/2026, 3:00:39 am | Donor Relations Manager (CSR) / CSR Executive | see link | applied | verified | — | https://www.naukri.com/job-listings-donor-relations-manager-csr-csr-executive-sreedhar-hyderabad-10-to-20-years-290926031688 |
+| 113 | 16/10/2026, 3:02:48 am | Head of Fundraising | see link | external | — | — | https://www.naukri.com/job-listings-head-of-fundraising-cuddles-foundation-mumbai-15-to-20-years-160226505091 |
+| 114 | 16/10/2026, 3:04:33 am | Lead - Impact Evaluation, Mumbai | see link | external | — | — | https://www.naukri.com/job-listings-lead-impact-evaluation-mumbai-ground-zero-mumbai-12-to-17-years-040826501350 |
+| 115 | 16/10/2026, 3:06:35 am | Society Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-society-manager-umedica-labs-mumbai-12-to-20-years-230926012365 |
+| 116 | 16/10/2026, 3:09:21 am | Call Center Manager | see link | skipped | — | unanswered: How many years of experience do you have in Sales Operations? | https://www.naukri.com/job-listings-call-center-manager-rhysley-new-delhi-10-to-18-years-180526008294 |
+| 117 | 16/10/2026, 3:11:09 am | Sr Manager/Manager- New Acquisitions Corporate Partnerships (B2B) | see link | external | — | — | https://www.naukri.com/job-listings-sr-manager-manager-new-acquisitions-corporate-partnerships-b2b-smile-foundation-new-delhi-10-to-20-years-070525502925 |
+| 118 | 16/10/2026, 3:12:21 am | Delivery Lead - Transfer Agency Integration | see link | external | — | — | https://www.naukri.com/job-listings-delivery-lead-transfer-agency-integration-apex-fund-services-llp-mumbai-12-to-17-years-280926500027 |
+| 119 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -439,4 +448,18 @@ Attempts: **110** · applied: **45** · verified on Naukri: **45** · unconfirme
 
 ### Cambridge Head (see link)
 - **Q:** How many vendors or contracts have you managed?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Society Manager (see link)
+- **Q:** How many years of experience do you have in Building Maintenance?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Managing Committee?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Society Operations?  
+  **A:** 16
+- **Q:** Are you currently residing in Mumbai, Maharashtra or willing to relocate to Mumbai, Maharashtra?  
+  **A:** Yes
+
+### Call Center Manager (see link)
+- **Q:** How many years of experience do you have in Sales Operations?  
   **A:** (no rule: skipped) _(no bank match, generic line used)_

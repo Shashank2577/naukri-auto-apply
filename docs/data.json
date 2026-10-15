@@ -1,13 +1,13 @@
 {
-  "generated": "16/10/2026, 2:57:27 am",
+  "generated": "16/10/2026, 3:12:29 am",
   "counts": {
-    "applied": 45,
-    "external": 32,
+    "applied": 48,
+    "external": 37,
     "failed": 2,
-    "skipped": 31
+    "skipped": 32
   },
-  "verified": 45,
-  "unanswered": 23,
+  "verified": 48,
+  "unanswered": 24,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -1904,6 +1904,141 @@
       "reason": "",
       "qa": [],
       "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:58:14 am",
+      "title": "Head - Consumer Durables | Home Appliances",
+      "url": "https://www.naukri.com/job-listings-head-consumer-durables-home-appliances-rm-global-consulting-australia-singapore-canada-14-to-24-years-290926000340",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:59:20 am",
+      "title": "Zonel Head",
+      "url": "https://www.naukri.com/job-listings-zonel-head-han-digital-solution-bardhaman-12-to-18-years-220126502646",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:00:39 am",
+      "title": "Donor Relations Manager (CSR) / CSR Executive",
+      "url": "https://www.naukri.com/job-listings-donor-relations-manager-csr-csr-executive-sreedhar-hyderabad-10-to-20-years-290926031688",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:02:48 am",
+      "title": "Head of Fundraising",
+      "url": "https://www.naukri.com/job-listings-head-of-fundraising-cuddles-foundation-mumbai-15-to-20-years-160226505091",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:04:33 am",
+      "title": "Lead - Impact Evaluation, Mumbai",
+      "url": "https://www.naukri.com/job-listings-lead-impact-evaluation-mumbai-ground-zero-mumbai-12-to-17-years-040826501350",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:06:35 am",
+      "title": "Society Manager",
+      "url": "https://www.naukri.com/job-listings-society-manager-umedica-labs-mumbai-12-to-20-years-230926012365",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Building Maintenance?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Managing Committee?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Society Operations?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "Are you currently residing in Mumbai, Maharashtra or willing to relocate to Mumbai, Maharashtra?",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:09:21 am",
+      "title": "Call Center Manager",
+      "url": "https://www.naukri.com/job-listings-call-center-manager-rhysley-new-delhi-10-to-18-years-180526008294",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: How many years of experience do you have in Sales Operations?",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Sales Operations?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:11:09 am",
+      "title": "Sr Manager/Manager- New Acquisitions Corporate Partnerships (B2B)",
+      "url": "https://www.naukri.com/job-listings-sr-manager-manager-new-acquisitions-corporate-partnerships-b2b-smile-foundation-new-delhi-10-to-20-years-070525502925",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:12:21 am",
+      "title": "Delivery Lead - Transfer Agency Integration",
+      "url": "https://www.naukri.com/job-listings-delivery-lead-transfer-agency-integration-apex-fund-services-llp-mumbai-12-to-17-years-280926500027",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
       "flags": []
     },
     {
