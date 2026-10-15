@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 4:12:38 am (IST)
+Generated 16/10/2026, 4:27:40 am (IST)
 
-Attempts: **156** · applied: **51** · verified on Naukri: **51** · unconfirmed: **0** · external (company site): **0** · skipped: **49** · failed: **2** · generic answers: **41**
+Attempts: **167** · applied: **51** · verified on Naukri: **51** · unconfirmed: **0** · external (company site): **0** · skipped: **57** · failed: **2** · generic answers: **49**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -161,7 +161,18 @@ Attempts: **156** · applied: **51** · verified on Naukri: **51** · unconfirme
 | 153 | 16/10/2026, 4:06:56 am | Safety Manager | see link | skipped | — | unanswered option question: Anarock Property Consultants | https://www.naukri.com/job-listings-safety-manager-anarock-property-consultants-mumbai-all-areas-15-to-20-years-151026027327 |
 | 154 | 16/10/2026, 4:08:29 am | Senior Manager - Contracts and Commercial - Wind EPC | see link | skipped | — | unanswered option question: Renew | https://www.naukri.com/job-listings-senior-manager-contracts-and-commercial-wind-epc-renew-haryana-11-to-16-years-151026026448 |
 | 155 | 16/10/2026, 4:10:26 am | Lead Buyer | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-lead-buyer-larsen-toubro-l-t-vadodara-10-to-17-years-151026022601 |
-| 156 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 156 | 16/10/2026, 4:12:34 am | Senior Contract Manager | see link | skipped | — | unanswered option question: AECOM | https://www.naukri.com/job-listings-senior-contract-manager-aecom-mangaluru-ahmedabad-thiruvananthapuram-15-to-20-years-151026018986 |
+| 157 | 16/10/2026, 4:14:21 am | Manager / Sr.Manager - Suspension Design & Development(off road) | see link | skipped | — | unanswered option question: Recommended for you | https://www.naukri.com/job-listings-manager-sr-manager-suspension-design-development-off-road-live-connections-chennai-15-to-22-years-151026018762 |
+| 158 | 16/10/2026, 4:16:01 am | Tech Mahindra Hriring For Manager role-Procurement (SAP) | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-tech-mahindra-hriring-for-manager-role-procurement-sap-tech-mahindra-pune-15-to-21-years-151026012138 |
+| 159 | 16/10/2026, 4:17:01 am | Senior Manager- MEP | see link | skipped | — | unanswered option question: Auro Realty | https://www.naukri.com/job-listings-senior-manager-mep-auro-realty-hyderabad-10-to-16-years-150926014559 |
+| 160 | 16/10/2026, 4:18:02 am | Senior Manager - AI Governance | see link | skipped | — | unanswered option question: EY | https://www.naukri.com/job-listings-senior-manager-ai-governance-ernst-young-llp-bengaluru-12-to-17-years-141026933427 |
+| 161 | 16/10/2026, 4:19:08 am | Project Manager - Infrastructure Advisory | see link | skipped | — | unanswered option question: EY | https://www.naukri.com/job-listings-project-manager-infrastructure-advisory-ernst-young-llp-kolkata-13-to-18-years-141026932489 |
+| 162 | 16/10/2026, 4:20:59 am | Manager Programme | see link | external | — | — | https://www.naukri.com/job-listings-manager-programme-cry-child-rights-and-you-madurai-tiruppur-salem-chennai-tiruchirappalli-coimbatore-8-to-16-years-081026507679 |
+| 163 | 16/10/2026, 4:22:07 am | Program Manager | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-program-manager-simple-energy-bengaluru-7-to-18-years-051026039561 |
+| 164 | 16/10/2026, 4:24:13 am | Senior Manager - Strategic Programs & Partnerships | see link | external | — | — | https://www.naukri.com/job-listings-senior-manager-strategic-programs-partnerships-arthan-new-delhi-12-to-17-years-120326506133 |
+| 165 | 16/10/2026, 4:25:08 am | Program Manager | see link | skipped | — | unanswered option question: Booking Holdings | https://www.naukri.com/job-listings-program-manager-booking-holdings-bengaluru-13-to-20-years-150926026345 |
+| 166 | 16/10/2026, 4:26:21 am | Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-dana-tm4-pune-15-to-18-years-100926502583 |
+| 167 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -579,4 +590,36 @@ Attempts: **156** · applied: **51** · verified on Naukri: **51** · unconfirme
 
 ### Lead Buyer (see link)
 - **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Senior Contract Manager (see link)
+- **Q:** AECOM  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Manager / Sr.Manager - Suspension Design & Development(off road) (see link)
+- **Q:** Recommended for you  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Tech Mahindra Hriring For Manager role-Procurement (SAP) (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Senior Manager- MEP (see link)
+- **Q:** Auro Realty  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Senior Manager - AI Governance (see link)
+- **Q:** EY  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Project Manager - Infrastructure Advisory (see link)
+- **Q:** EY  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Program Manager (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Program Manager (see link)
+- **Q:** Booking Holdings  
   **A:** (no rule: skipped) _(no bank match, generic line used)_
