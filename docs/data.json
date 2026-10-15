@@ -1,7 +1,8 @@
 {
-  "generated": "15/10/2026, 11:24:11 pm",
+  "generated": "15/10/2026, 11:26:57 pm",
   "counts": {
-    "unconfirmed": 2
+    "unconfirmed": 2,
+    "pending": 1
   },
   "verified": 0,
   "unanswered": 0,
@@ -26,6 +27,18 @@
       "kind": "naukri",
       "outcome": "unconfirmed",
       "reason": "apply clicked, success message not seen on page (checked against applied list separately)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "15/10/2026, 11:26:57 pm",
+      "title": "Learning And Development - Capability Activation Facilitator",
+      "url": "https://www.naukri.com/job-listings-learning-and-development-capability-activation-fa",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "pending",
+      "reason": "",
       "qa": [],
       "verified": null,
       "flags": []
