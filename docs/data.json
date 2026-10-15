@@ -1,85 +1,39 @@
 {
-  "generated": "15/10/2026, 11:57:01 pm",
+  "generated": "15/10/2026, 11:59:17 pm",
   "counts": {
-    "applied": 1,
-    "unconfirmed": 2,
-    "failed": 1,
-    "pending": 1,
-    "external-queued": 1
+    "applied": 2
   },
-  "verified": 1,
+  "verified": 2,
   "unanswered": 0,
   "jobs": [
     {
-      "time": "15/10/2026, 11:21:57 pm",
+      "time": "15/10/2026, 11:58:21 pm",
+      "title": "Learning And Development Manager",
+      "url": "https://www.naukri.com/job-listings-learning-and-development-manager-zmsl-gurugram-10-to-18-years-151026012009",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "Found on Naukri applied history (job id present)",
+      "qa": [
+        {
+          "q": "What is your notice period?",
+          "a": "15 Days or less",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "",
       "title": "Manager - Learning & Development",
       "url": "https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601",
-      "company": "see link",
+      "company": "Max Healthcare",
       "kind": "naukri",
       "outcome": "applied",
       "reason": "Application Sent (15 Oct 2026, Naukri applied history)",
       "qa": [],
       "verified": "verified",
-      "flags": []
-    },
-    {
-      "time": "15/10/2026, 11:23:27 pm",
-      "title": "Learning And Development Manager",
-      "url": "https://www.naukri.com/job-listings-learning-and-development-manager-zmsl-gurugram-10-to-18-years-151026012009",
-      "company": "see link",
-      "kind": "naukri",
-      "outcome": "unconfirmed",
-      "reason": "apply clicked, success message not seen on page (checked against applied list separately)",
-      "qa": [],
-      "verified": null,
-      "flags": []
-    },
-    {
-      "time": "15/10/2026, 11:26:57 pm",
-      "title": "Learning And Development - Capability Activation Facilitator",
-      "url": "https://www.naukri.com/job-listings-learning-and-development-capability-activation-fa",
-      "company": "see link",
-      "kind": "naukri",
-      "outcome": "unconfirmed",
-      "reason": "apply clicked, success message not seen on page (checked against applied list separately)",
-      "qa": [],
-      "verified": null,
-      "flags": []
-    },
-    {
-      "time": "15/10/2026, 11:32:08 pm",
-      "title": "Instructional Design & Learning Development -Senior Associate",
-      "url": "https://www.naukri.com/job-listings-instructional-design-learning-development-senior",
-      "company": "see link",
-      "kind": "naukri",
-      "outcome": "failed",
-      "reason": "submission did not register in the applied list",
-      "qa": [],
-      "verified": "missing",
-      "flags": []
-    },
-    {
-      "time": "15/10/2026, 11:33:39 pm",
-      "title": "GN-T&O - Talent Development and Learning - Sr Manager",
-      "url": "https://www.naukri.com/job-listings-gn-t-o-talent-development-and-learning-sr-manager-accent",
-      "company": "see link",
-      "kind": "naukri",
-      "outcome": "pending",
-      "reason": "",
-      "qa": [],
-      "verified": null,
-      "flags": []
-    },
-    {
-      "time": "15/10/2026, 11:33:59 pm",
-      "title": "GN-T&O - Talent Development and Learning - Sr Manager",
-      "url": "https://www.naukri.com/job-listings-gn-t-o-talent-development-and-learning-sr-manager-acce",
-      "company": "see link",
-      "kind": "external",
-      "outcome": "external-queued",
-      "reason": "Apply on company site (followed to employer form)",
-      "qa": [],
-      "verified": null,
       "flags": []
     }
   ]
