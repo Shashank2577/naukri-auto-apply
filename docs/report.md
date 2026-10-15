@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 1:42:16 am (IST)
+Generated 16/10/2026, 1:57:18 am (IST)
 
-Attempts: **63** · applied: **27** · verified on Naukri: **27** · unconfirmed: **0** · external (company site): **0** · skipped: **21** · failed: **2** · generic answers: **15**
+Attempts: **74** · applied: **29** · verified on Naukri: **29** · unconfirmed: **0** · external (company site): **0** · skipped: **21** · failed: **2** · generic answers: **15**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -68,7 +68,18 @@ Attempts: **63** · applied: **27** · verified on Naukri: **27** · unconfirmed
 | 60 | 16/10/2026, 1:37:54 am | Vice President Delivery Content | see link | skipped | — | unanswered: How much portfolio or revenue/ PNL, do you hanadle? | https://www.naukri.com/job-listings-vice-president-delivery-content-hurix-pune-chennai-mumbai-all-areas-15-to-24-years-020926025167 |
 | 61 | 16/10/2026, 1:39:49 am | Logistics Sourcing Intelligence Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-logistics-sourcing-intelligence-manager-hewlett-packard-enterprise-pune-bengaluru-mumbai-all-areas-10-to-18-years-150926014457 |
 | 62 | 16/10/2026, 1:41:24 am | SBU Head - Safety Assurance | see link | skipped | — | unanswered option question: Salutation | https://www.naukri.com/job-listings-sbu-head-safety-assurance-adani-group-mumbai-14-to-19-years-160926010712 |
-| 63 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 63 | 16/10/2026, 1:42:33 am | Delivery Lead Manager | see link | external | — | — | https://www.naukri.com/job-listings-delivery-lead-manager-accenture-solutions-pvt-ltd-mumbai-13-to-18-years-121026922723 |
+| 64 | 16/10/2026, 1:43:34 am | Wealth Management Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-wealth-management-manager-incedo-gurugram-12-to-16-years-121026016892 |
+| 65 | 16/10/2026, 1:46:05 am | Principal Program Manager - CCaaS / SaaS (Account-Based) | see link | external | — | — | https://www.naukri.com/job-listings-principal-program-manager-ccaas-saas-account-based-sprinklr-solutions-pvt-ltd-gurugram-15-to-20-years-260526501339 |
+| 66 | 16/10/2026, 1:47:19 am | Delivery Lead Senior Manager | see link | external | — | — | https://www.naukri.com/job-listings-delivery-lead-senior-manager-accenture-solutions-pvt-ltd-mumbai-16-to-25-years-051026934099 |
+| 67 | 16/10/2026, 1:48:19 am | Sr Manager - RCM Services | see link | external | — | — | https://www.naukri.com/job-listings-sr-manager-rcm-services-corrohealth-noida-12-to-17-years-051026501474 |
+| 68 | 16/10/2026, 1:49:37 am | Manager , Development Sector Advisory | see link | external | — | — | https://www.naukri.com/job-listings-manager-development-sector-advisory-thinkthrough-consulting-pvt-ltd-new-delhi-10-to-20-years-130226503204 |
+| 69 | 16/10/2026, 1:50:46 am | Shift Manager | see link | applied | verified | — | https://www.naukri.com/job-listings-shift-manager-ctrls-navi-mumbai-10-to-16-years-121026007007 |
+| 70 | 16/10/2026, 1:52:17 am | Delivery Lead Manager | see link | external | — | — | https://www.naukri.com/job-listings-delivery-lead-manager-accenture-solutions-pvt-ltd-gurugram-13-to-18-years-121026918397 |
+| 71 | 16/10/2026, 1:53:47 am | Sector Head Nutrition | see link | external | — | — | https://www.naukri.com/job-listings-sector-head-nutrition-accelerate-indian-philanthropy-aip-new-delhi-15-to-20-years-090326501399 |
+| 72 | 16/10/2026, 1:54:52 am | Head: Outcome Measurement | see link | external | — | — | https://www.naukri.com/job-listings-head-outcome-measurement-accelerate-indian-philanthropy-aip-new-delhi-15-to-20-years-090326501397 |
+| 73 | 16/10/2026, 1:56:44 am | Lead - Project Safety | see link | external | — | — | https://www.naukri.com/job-listings-lead-project-safety-adani-transmission-mumbai-12-to-17-years-160426505413 |
+| 74 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -269,3 +280,9 @@ Attempts: **63** · applied: **27** · verified on Naukri: **27** · unconfirmed
 ### SBU Head - Safety Assurance (see link)
 - **Q:** Salutation  
   **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Wealth Management Manager (see link)
+- **Q:** How many years of experience do you have in Team Handling?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Capital Market?  
+  **A:** 16

@@ -1,12 +1,12 @@
 {
-  "generated": "16/10/2026, 1:42:16 am",
+  "generated": "16/10/2026, 1:57:18 am",
   "counts": {
-    "applied": 27,
-    "external": 13,
+    "applied": 29,
+    "external": 22,
     "failed": 2,
     "skipped": 21
   },
-  "verified": 27,
+  "verified": 29,
   "unanswered": 15,
   "jobs": [
     {
@@ -1101,6 +1101,149 @@
           "generic": true
         }
       ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:42:33 am",
+      "title": "Delivery Lead Manager",
+      "url": "https://www.naukri.com/job-listings-delivery-lead-manager-accenture-solutions-pvt-ltd-mumbai-13-to-18-years-121026922723",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:43:34 am",
+      "title": "Wealth Management Manager",
+      "url": "https://www.naukri.com/job-listings-wealth-management-manager-incedo-gurugram-12-to-16-years-121026016892",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Team Handling?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Capital Market?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:46:05 am",
+      "title": "Principal Program Manager - CCaaS / SaaS (Account-Based)",
+      "url": "https://www.naukri.com/job-listings-principal-program-manager-ccaas-saas-account-based-sprinklr-solutions-pvt-ltd-gurugram-15-to-20-years-260526501339",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:47:19 am",
+      "title": "Delivery Lead Senior Manager",
+      "url": "https://www.naukri.com/job-listings-delivery-lead-senior-manager-accenture-solutions-pvt-ltd-mumbai-16-to-25-years-051026934099",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:48:19 am",
+      "title": "Sr Manager - RCM Services",
+      "url": "https://www.naukri.com/job-listings-sr-manager-rcm-services-corrohealth-noida-12-to-17-years-051026501474",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:49:37 am",
+      "title": "Manager , Development Sector Advisory",
+      "url": "https://www.naukri.com/job-listings-manager-development-sector-advisory-thinkthrough-consulting-pvt-ltd-new-delhi-10-to-20-years-130226503204",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:50:46 am",
+      "title": "Shift Manager",
+      "url": "https://www.naukri.com/job-listings-shift-manager-ctrls-navi-mumbai-10-to-16-years-121026007007",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:52:17 am",
+      "title": "Delivery Lead Manager",
+      "url": "https://www.naukri.com/job-listings-delivery-lead-manager-accenture-solutions-pvt-ltd-gurugram-13-to-18-years-121026918397",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:53:47 am",
+      "title": "Sector Head Nutrition",
+      "url": "https://www.naukri.com/job-listings-sector-head-nutrition-accelerate-indian-philanthropy-aip-new-delhi-15-to-20-years-090326501399",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:54:52 am",
+      "title": "Head: Outcome Measurement",
+      "url": "https://www.naukri.com/job-listings-head-outcome-measurement-accelerate-indian-philanthropy-aip-new-delhi-15-to-20-years-090326501397",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:56:44 am",
+      "title": "Lead - Project Safety",
+      "url": "https://www.naukri.com/job-listings-lead-project-safety-adani-transmission-mumbai-12-to-17-years-160426505413",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
       "verified": null,
       "flags": []
     },
