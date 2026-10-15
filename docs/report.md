@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 2:12:21 am (IST)
+Generated 16/10/2026, 2:27:23 am (IST)
 
-Attempts: **84** · applied: **33** · verified on Naukri: **33** · unconfirmed: **0** · external (company site): **0** · skipped: **24** · failed: **2** · generic answers: **17**
+Attempts: **92** · applied: **38** · verified on Naukri: **38** · unconfirmed: **0** · external (company site): **0** · skipped: **26** · failed: **2** · generic answers: **19**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -89,7 +89,15 @@ Attempts: **84** · applied: **33** · verified on Naukri: **33** · unconfirmed
 | 81 | 16/10/2026, 2:08:26 am | Head B2G (Govt) Business / Electrical Fleet Buses / P&L | see link | skipped | — | unanswered: What is the largest size of fleet you have managed? | https://www.naukri.com/job-listings-head-b2g-govt-business-electrical-fleet-buses-p-l-wikilabs-india-hyderabad-delhi-ncr-mumbai-all-areas-15-to-23-years-180525005520 |
 | 82 | 16/10/2026, 2:10:07 am | Technical Engagement Manager | see link | applied | verified | — | https://www.naukri.com/job-listings-technical-engagement-manager-augmatrixgo-hyderabad-gurugram-12-to-19-years-010721500374 |
 | 83 | 16/10/2026, 2:11:26 am | Director Cyber Security | see link | skipped | — | drawer still open after Save (unanswered or disabled) | https://www.naukri.com/job-listings-director-cyber-security-hcltech-noida-pune-bengaluru-15-to-20-years-030926015558 |
-| 84 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 84 | 16/10/2026, 2:13:25 am | Product Sr. Manager | see link | applied | verified | — | https://www.naukri.com/job-listings-product-sr-manager-volkswagen-group-technology-solutions-india-private-limited-pune-gurugram-bengaluru-12-to-17-years-160926933128 |
+| 85 | 16/10/2026, 2:14:35 am | Technical Project Manager | see link | applied | verified | — | https://www.naukri.com/job-listings-technical-project-manager-iris-software-technologies-private-limited-noida-15-to-18-years-150926922279 |
+| 86 | 16/10/2026, 2:16:22 am | Delivery Lead Manager | see link | external | — | — | https://www.naukri.com/job-listings-delivery-lead-manager-accenture-solutions-pvt-ltd-navi-mumbai-13-to-18-years-051026932079 |
+| 87 | 16/10/2026, 2:18:17 am | India Head | see link | skipped | — | unanswered: How many years of experience do you have in Marketing? | https://www.naukri.com/job-listings-india-head-arimax-global-mumbai-12-to-20-years-080726036918 |
+| 88 | 16/10/2026, 2:19:31 am | Excellent Opportunity For General Manager/Head - Atlantic Pacific Line | see link | applied | verified | done | https://www.naukri.com/job-listings-excellent-opportunity-for-general-manager-head-atlantic-pacific-line-info-x-gurugram-15-to-24-years-011026038723 |
+| 89 | 16/10/2026, 2:21:57 am | Head B2G (Govt) Business / Electrical Fleet Buses / P&L | see link | skipped | — | unanswered: What is the largest size of fleet you have managed? | https://www.naukri.com/job-listings-head-b2g-govt-business-electrical-fleet-buses-p-l-wikilabs-india-new-delhi-hyderabad-mumbai-all-areas-15-to-23-years-190726003716 |
+| 90 | 16/10/2026, 2:23:43 am | Liasoning Head | see link | applied | verified | done | https://www.naukri.com/job-listings-liasoning-head-psa-renewables-new-delhi-15-to-24-years-151026013716 |
+| 91 | 16/10/2026, 2:26:20 am | Head - Airfreight | see link | applied | verified | — | https://www.naukri.com/job-listings-head-airfreight-total-group-mumbai-all-areas-10-to-20-years-290926019172 |
+| 92 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -330,3 +338,39 @@ Attempts: **84** · applied: **33** · verified on Naukri: **33** · unconfirmed
   **A:** 16
 - **Q:** How many years of experience do you have in Soar?  
   **A:** 16
+
+### India Head (see link)
+- **Q:** How many years of experience do you have in Marketing?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Excellent Opportunity For General Manager/Head - Atlantic Pacific Line (see link)
+- **Q:** How many years of experience do you have in Freight Forwarding?  
+  **A:** 16
+- **Q:** How many years of experience do you have in NVOCC?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Ocean Freight?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Sea Freight?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Air Freight?  
+  **A:** 16
+- **Q:** Are you currently residing in Gurugram, Haryana or willing to relocate to Gurugram, Haryana?  
+  **A:** Yes
+
+### Head B2G (Govt) Business | Electrical Fleet Buses | P&L (see link)
+- **Q:** How many years of experience do you have in Govt Liasioning?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Fleet Operations?  
+  **A:** 16
+- **Q:** What is the largest size of fleet you have managed?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Liasoning Head (see link)
+- **Q:** How many years of experience do you have in ceig?  
+  **A:** 16
+- **Q:** How many years of experience do you have in discom?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Public Affairs?  
+  **A:** 16
+- **Q:** Are you currently residing in New Delhi or willing to relocate to New Delhi?  
+  **A:** Yes
