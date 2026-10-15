@@ -1,13 +1,13 @@
 {
-  "generated": "16/10/2026, 3:42:34 am",
+  "generated": "16/10/2026, 3:57:36 am",
   "counts": {
     "applied": 51,
-    "external": 47,
+    "external": 52,
     "failed": 2,
-    "skipped": 38
+    "skipped": 43
   },
   "verified": 51,
-  "unanswered": 30,
+  "unanswered": 35,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -2328,6 +2328,156 @@
       "outcome": "external",
       "reason": "",
       "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:42:46 am",
+      "title": "Creative Director (Sr Managing Consultant)",
+      "url": "https://www.naukri.com/job-listings-creative-director-sr-managing-consultant-mastercard-gurugram-15-to-20-years-051026503461",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:44:28 am",
+      "title": "Valuations Sr Specialist, AVP",
+      "url": "https://www.naukri.com/job-listings-valuations-sr-specialist-avp-deutsche-bank-mumbai-13-to-19-years-051026503425",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:46:24 am",
+      "title": "Global Project Manager - Johnson Baby",
+      "url": "https://www.naukri.com/job-listings-global-project-manager-johnson-baby-kenvue-brands-llc-mumbai-12-to-17-years-100926503045",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:47:35 am",
+      "title": "Manager - SFE",
+      "url": "https://www.naukri.com/job-listings-manager-sfe-abbott-healthcare-mumbai-2-to-16-years-070826504328",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:49:28 am",
+      "title": "Program Manager- Everforth Quinnox",
+      "url": "https://www.naukri.com/job-listings-program-manager-everforth-quinnox-everforth-quinnox-bengaluru-15-to-20-years-061026013634",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:51:36 am",
+      "title": "Director Human Resources",
+      "url": "https://www.naukri.com/job-listings-director-human-resources-qwickly-ventures-noida-15-to-20-years-240926019059",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:52:56 am",
+      "title": "Sr Facilities Manager - Technical Services",
+      "url": "https://www.naukri.com/job-listings-sr-facilities-manager-technical-services-jones-lang-lasalle-property-consultants-gurugram-15-to-20-years-230926033209",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:54:06 am",
+      "title": "Program Director_Performance Marketing & Business Outcomes",
+      "url": "https://www.naukri.com/job-listings-program-director-performance-marketing-business-outcomes-anlage-infotech-mumbai-all-areas-15-to-21-years-230926024444",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:55:58 am",
+      "title": "Sr. Manager - Procurement",
+      "url": "https://www.naukri.com/job-listings-sr-manager-procurement-atkins-global-mumbai-12-to-18-years-160426504887",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:56:55 am",
+      "title": "Deputy General Manager Procurement",
+      "url": "https://www.naukri.com/job-listings-deputy-general-manager-procurement-inera-cropscience-gurugram-10-to-16-years-280926002807",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
       "verified": null,
       "flags": []
     },

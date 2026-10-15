@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 3:42:34 am (IST)
+Generated 16/10/2026, 3:57:36 am (IST)
 
-Attempts: **138** · applied: **51** · verified on Naukri: **51** · unconfirmed: **0** · external (company site): **0** · skipped: **38** · failed: **2** · generic answers: **30**
+Attempts: **148** · applied: **51** · verified on Naukri: **51** · unconfirmed: **0** · external (company site): **0** · skipped: **43** · failed: **2** · generic answers: **35**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -143,7 +143,17 @@ Attempts: **138** · applied: **51** · verified on Naukri: **51** · unconfirme
 | 135 | 16/10/2026, 3:39:12 am | Senior Director | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-senior-director-axtria-india-private-limited-gurugram-16-to-25-years-081026947186 |
 | 136 | 16/10/2026, 3:40:35 am | India GGC - Client Account Management Lead | see link | external | — | — | https://www.naukri.com/job-listings-india-ggc-client-account-management-lead-accenture-solutions-pvt-ltd-gurugram-15-to-20-years-131026940913 |
 | 137 | 16/10/2026, 3:41:30 am | Head of Programs - Enterprise Development | see link | external | — | — | https://www.naukri.com/job-listings-head-of-programs-enterprise-development-arthan-new-delhi-12-to-17-years-251125502857 |
-| 138 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 138 | 16/10/2026, 3:42:46 am | Creative Director (Sr Managing Consultant) | see link | external | — | — | https://www.naukri.com/job-listings-creative-director-sr-managing-consultant-mastercard-gurugram-15-to-20-years-051026503461 |
+| 139 | 16/10/2026, 3:44:28 am | Valuations Sr Specialist, AVP | see link | external | — | — | https://www.naukri.com/job-listings-valuations-sr-specialist-avp-deutsche-bank-mumbai-13-to-19-years-051026503425 |
+| 140 | 16/10/2026, 3:46:24 am | Global Project Manager - Johnson Baby | see link | external | — | — | https://www.naukri.com/job-listings-global-project-manager-johnson-baby-kenvue-brands-llc-mumbai-12-to-17-years-100926503045 |
+| 141 | 16/10/2026, 3:47:35 am | Manager - SFE | see link | external | — | — | https://www.naukri.com/job-listings-manager-sfe-abbott-healthcare-mumbai-2-to-16-years-070826504328 |
+| 142 | 16/10/2026, 3:49:28 am | Program Manager- Everforth Quinnox | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-program-manager-everforth-quinnox-everforth-quinnox-bengaluru-15-to-20-years-061026013634 |
+| 143 | 16/10/2026, 3:51:36 am | Director Human Resources | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-director-human-resources-qwickly-ventures-noida-15-to-20-years-240926019059 |
+| 144 | 16/10/2026, 3:52:56 am | Sr Facilities Manager - Technical Services | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-sr-facilities-manager-technical-services-jones-lang-lasalle-property-consultants-gurugram-15-to-20-years-230926033209 |
+| 145 | 16/10/2026, 3:54:06 am | Program Director_Performance Marketing & Business Outcomes | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-program-director-performance-marketing-business-outcomes-anlage-infotech-mumbai-all-areas-15-to-21-years-230926024444 |
+| 146 | 16/10/2026, 3:55:58 am | Sr. Manager - Procurement | see link | external | — | — | https://www.naukri.com/job-listings-sr-manager-procurement-atkins-global-mumbai-12-to-18-years-160426504887 |
+| 147 | 16/10/2026, 3:56:55 am | Deputy General Manager Procurement | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-deputy-general-manager-procurement-inera-cropscience-gurugram-10-to-16-years-280926002807 |
+| 148 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -516,5 +526,25 @@ Attempts: **138** · applied: **51** · verified on Naukri: **51** · unconfirme
   **A:** (no rule: skipped) _(no bank match, generic line used)_
 
 ### Senior Director (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Program Manager- Everforth Quinnox (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Director Human Resources (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Sr Facilities Manager - Technical Services (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Program Director_Performance Marketing & Business Outcomes (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Deputy General Manager Procurement (see link)
 - **Q:** Jobs you might be interested in  
   **A:** (no rule: skipped) _(no bank match, generic line used)_
