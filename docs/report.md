@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 3:57:36 am (IST)
+Generated 16/10/2026, 4:12:38 am (IST)
 
-Attempts: **148** · applied: **51** · verified on Naukri: **51** · unconfirmed: **0** · external (company site): **0** · skipped: **43** · failed: **2** · generic answers: **35**
+Attempts: **156** · applied: **51** · verified on Naukri: **51** · unconfirmed: **0** · external (company site): **0** · skipped: **49** · failed: **2** · generic answers: **41**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -153,7 +153,15 @@ Attempts: **148** · applied: **51** · verified on Naukri: **51** · unconfirme
 | 145 | 16/10/2026, 3:54:06 am | Program Director_Performance Marketing & Business Outcomes | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-program-director-performance-marketing-business-outcomes-anlage-infotech-mumbai-all-areas-15-to-21-years-230926024444 |
 | 146 | 16/10/2026, 3:55:58 am | Sr. Manager - Procurement | see link | external | — | — | https://www.naukri.com/job-listings-sr-manager-procurement-atkins-global-mumbai-12-to-18-years-160426504887 |
 | 147 | 16/10/2026, 3:56:55 am | Deputy General Manager Procurement | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-deputy-general-manager-procurement-inera-cropscience-gurugram-10-to-16-years-280926002807 |
-| 148 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 148 | 16/10/2026, 3:58:37 am | Manager - CA | see link | skipped | — | unanswered option question: Forbes Marshall | https://www.naukri.com/job-listings-manager-ca-forbes-marshall-pune-15-to-20-years-160926014489 |
+| 149 | 16/10/2026, 4:00:35 am | Package Manager Landside, Utility & Airport Support Facilities | see link | skipped | — | unanswered option question: AECOM | https://www.naukri.com/job-listings-package-manager-landside-utility-airport-support-facilities-aecom-india-private-limited-ahmedabad-15-to-20-years-151026930673 |
+| 150 | 16/10/2026, 4:02:14 am | Senior Manager - Marketing and Business Development | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-senior-manager-marketing-and-business-development-grh-committed-partners-to-healthcare-providers-delhi-ncr-10-to-20-years-151026921025 |
+| 151 | 16/10/2026, 4:04:12 am | Strategic/Category Procurement Manager | see link | external | — | — | https://www.naukri.com/job-listings-strategic-category-procurement-manager-harsco-environmental-hyderabad-15-to-20-years-151026502754 |
+| 152 | 16/10/2026, 4:05:37 am | Lead Contract Administrator | see link | external | — | — | https://www.naukri.com/job-listings-lead-contract-administrator-adani-transmission-ahmedabad-15-to-20-years-151026502710 |
+| 153 | 16/10/2026, 4:06:56 am | Safety Manager | see link | skipped | — | unanswered option question: Anarock Property Consultants | https://www.naukri.com/job-listings-safety-manager-anarock-property-consultants-mumbai-all-areas-15-to-20-years-151026027327 |
+| 154 | 16/10/2026, 4:08:29 am | Senior Manager - Contracts and Commercial - Wind EPC | see link | skipped | — | unanswered option question: Renew | https://www.naukri.com/job-listings-senior-manager-contracts-and-commercial-wind-epc-renew-haryana-11-to-16-years-151026026448 |
+| 155 | 16/10/2026, 4:10:26 am | Lead Buyer | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-lead-buyer-larsen-toubro-l-t-vadodara-10-to-17-years-151026022601 |
+| 156 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -546,5 +554,29 @@ Attempts: **148** · applied: **51** · verified on Naukri: **51** · unconfirme
   **A:** (no rule: skipped) _(no bank match, generic line used)_
 
 ### Deputy General Manager Procurement (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Manager - CA (see link)
+- **Q:** Forbes Marshall  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Package Manager Landside, Utility & Airport Support Facilities (see link)
+- **Q:** AECOM  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Senior Manager - Marketing and Business Development (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Safety Manager (see link)
+- **Q:** Anarock Property Consultants  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Senior Manager - Contracts and Commercial - Wind EPC (see link)
+- **Q:** Renew  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Lead Buyer (see link)
 - **Q:** Jobs you might be interested in  
   **A:** (no rule: skipped) _(no bank match, generic line used)_

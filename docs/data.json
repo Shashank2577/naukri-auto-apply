@@ -1,13 +1,13 @@
 {
-  "generated": "16/10/2026, 3:57:36 am",
+  "generated": "16/10/2026, 4:12:38 am",
   "counts": {
     "applied": 51,
-    "external": 52,
+    "external": 54,
     "failed": 2,
-    "skipped": 43
+    "skipped": 49
   },
   "verified": 51,
-  "unanswered": 35,
+  "unanswered": 41,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -2467,6 +2467,138 @@
       "time": "16/10/2026, 3:56:55 am",
       "title": "Deputy General Manager Procurement",
       "url": "https://www.naukri.com/job-listings-deputy-general-manager-procurement-inera-cropscience-gurugram-10-to-16-years-280926002807",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:58:37 am",
+      "title": "Manager - CA",
+      "url": "https://www.naukri.com/job-listings-manager-ca-forbes-marshall-pune-15-to-20-years-160926014489",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Forbes Marshall",
+      "qa": [
+        {
+          "q": "Forbes Marshall",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:00:35 am",
+      "title": "Package Manager Landside, Utility & Airport Support Facilities",
+      "url": "https://www.naukri.com/job-listings-package-manager-landside-utility-airport-support-facilities-aecom-india-private-limited-ahmedabad-15-to-20-years-151026930673",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: AECOM",
+      "qa": [
+        {
+          "q": "AECOM",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:02:14 am",
+      "title": "Senior Manager - Marketing and Business Development",
+      "url": "https://www.naukri.com/job-listings-senior-manager-marketing-and-business-development-grh-committed-partners-to-healthcare-providers-delhi-ncr-10-to-20-years-151026921025",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:04:12 am",
+      "title": "Strategic/Category Procurement Manager",
+      "url": "https://www.naukri.com/job-listings-strategic-category-procurement-manager-harsco-environmental-hyderabad-15-to-20-years-151026502754",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:05:37 am",
+      "title": "Lead Contract Administrator",
+      "url": "https://www.naukri.com/job-listings-lead-contract-administrator-adani-transmission-ahmedabad-15-to-20-years-151026502710",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:06:56 am",
+      "title": "Safety Manager",
+      "url": "https://www.naukri.com/job-listings-safety-manager-anarock-property-consultants-mumbai-all-areas-15-to-20-years-151026027327",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Anarock Property Consultants",
+      "qa": [
+        {
+          "q": "Anarock Property Consultants",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:08:29 am",
+      "title": "Senior Manager - Contracts and Commercial - Wind EPC",
+      "url": "https://www.naukri.com/job-listings-senior-manager-contracts-and-commercial-wind-epc-renew-haryana-11-to-16-years-151026026448",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Renew",
+      "qa": [
+        {
+          "q": "Renew",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:10:26 am",
+      "title": "Lead Buyer",
+      "url": "https://www.naukri.com/job-listings-lead-buyer-larsen-toubro-l-t-vadodara-10-to-17-years-151026022601",
       "company": "see link",
       "kind": "naukri",
       "outcome": "skipped",
