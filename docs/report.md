@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 4:57:45 am (IST)
+Generated 16/10/2026, 5:12:47 am (IST)
 
-Attempts: **190** · applied: **51** · verified on Naukri: **51** · unconfirmed: **0** · external (company site): **0** · skipped: **69** · failed: **2** · generic answers: **60**
+Attempts: **200** · applied: **51** · verified on Naukri: **51** · unconfirmed: **0** · external (company site): **0** · skipped: **73** · failed: **2** · generic answers: **64**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -195,7 +195,17 @@ Attempts: **190** · applied: **51** · verified on Naukri: **51** · unconfirme
 | 187 | 16/10/2026, 4:53:59 am | People & Change Consultant / Senior Manager | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-people-change-consultant-senior-manager-wroots-global-pune-bengaluru-10-to-20-years-141026035450 |
 | 188 | 16/10/2026, 4:55:23 am | Program Manager | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-program-manager-naukri-assist-noida-bengaluru-15-to-20-years-141026024293 |
 | 189 | 16/10/2026, 4:56:51 am | Program Manager - PH Platforms | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-ph-platforms-philips-india-limited-bengaluru-12-to-17-years-151026503033 |
-| 190 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 190 | 16/10/2026, 4:58:26 am | Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-anblicks-hyderabad-12-to-17-years-151026502856 |
+| 191 | 16/10/2026, 4:59:53 am | Oracle Financial Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-oracle-financial-program-manager-nexturn-remote-15-to-20-years-091026503029 |
+| 192 | 16/10/2026, 5:01:35 am | Program Manager - OpenText | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-program-manager-opentext-espire-infolabs-gurugram-12-to-20-years-071026021460 |
+| 193 | 16/10/2026, 5:02:56 am | Program Manager | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-program-manager-phoenix-it-solutions-ltd-jaipur-15-to-20-years-081026507607 |
+| 194 | 16/10/2026, 5:04:07 am | RPO Program Manager | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-rpo-program-manager-vipany-global-hyderabad-15-to-20-years-081026023409 |
+| 195 | 16/10/2026, 5:05:19 am | Head Program Manager- EV | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-head-program-manager-ev-mavenbmc-faridabad-pune-12-to-20-years-081026016230 |
+| 196 | 16/10/2026, 5:07:26 am | Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-hewlett-packard-enterprise-mumbai-15-to-20-years-260826503370 |
+| 197 | 16/10/2026, 5:09:05 am | Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-plan-india-new-delhi-13-to-20-years-290926500958 |
+| 198 | 16/10/2026, 5:10:48 am | Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-nomura-capital-india-private-limited-mumbai-13-to-18-years-260826500627 |
+| 199 | 16/10/2026, 5:11:46 am | Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-atkins-global-gurugram-15-to-20-years-120326502005 |
+| 200 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -688,5 +698,21 @@ Attempts: **190** · applied: **51** · verified on Naukri: **51** · unconfirme
   **A:** (no rule: skipped) _(no bank match, generic line used)_
 
 ### Program Manager (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Program Manager - OpenText (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Program Manager (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### RPO Program Manager (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Head Program Manager- EV (see link)
 - **Q:** Jobs you might be interested in  
   **A:** (no rule: skipped) _(no bank match, generic line used)_

@@ -1,13 +1,13 @@
 {
-  "generated": "16/10/2026, 4:57:45 am",
+  "generated": "16/10/2026, 5:12:47 am",
   "counts": {
     "applied": 51,
-    "external": 68,
+    "external": 74,
     "failed": 2,
-    "skipped": 69
+    "skipped": 73
   },
   "verified": 51,
-  "unanswered": 60,
+  "unanswered": 64,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -3127,6 +3127,150 @@
       "time": "16/10/2026, 4:56:51 am",
       "title": "Program Manager - PH Platforms",
       "url": "https://www.naukri.com/job-listings-program-manager-ph-platforms-philips-india-limited-bengaluru-12-to-17-years-151026503033",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:58:26 am",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-anblicks-hyderabad-12-to-17-years-151026502856",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 4:59:53 am",
+      "title": "Oracle Financial Program Manager",
+      "url": "https://www.naukri.com/job-listings-oracle-financial-program-manager-nexturn-remote-15-to-20-years-091026503029",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 5:01:35 am",
+      "title": "Program Manager - OpenText",
+      "url": "https://www.naukri.com/job-listings-program-manager-opentext-espire-infolabs-gurugram-12-to-20-years-071026021460",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 5:02:56 am",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-phoenix-it-solutions-ltd-jaipur-15-to-20-years-081026507607",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 5:04:07 am",
+      "title": "RPO Program Manager",
+      "url": "https://www.naukri.com/job-listings-rpo-program-manager-vipany-global-hyderabad-15-to-20-years-081026023409",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 5:05:19 am",
+      "title": "Head Program Manager- EV",
+      "url": "https://www.naukri.com/job-listings-head-program-manager-ev-mavenbmc-faridabad-pune-12-to-20-years-081026016230",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 5:07:26 am",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-hewlett-packard-enterprise-mumbai-15-to-20-years-260826503370",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 5:09:05 am",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-plan-india-new-delhi-13-to-20-years-290926500958",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 5:10:48 am",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-nomura-capital-india-private-limited-mumbai-13-to-18-years-260826500627",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 5:11:46 am",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-atkins-global-gurugram-15-to-20-years-120326502005",
       "company": "see link",
       "kind": "naukri",
       "outcome": "external",
