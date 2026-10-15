@@ -1,13 +1,13 @@
 {
-  "generated": "16/10/2026, 2:42:25 am",
+  "generated": "16/10/2026, 2:57:27 am",
   "counts": {
-    "applied": 41,
-    "external": 29,
+    "applied": 45,
+    "external": 32,
     "failed": 2,
-    "skipped": 29
+    "skipped": 31
   },
-  "verified": 41,
-  "unanswered": 21,
+  "verified": 45,
+  "unanswered": 23,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -1768,6 +1768,142 @@
         }
       ],
       "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:42:40 am",
+      "title": "Consulting Manager, Oil Markets, Midstream & Downstream Consulting",
+      "url": "https://www.naukri.com/job-listings-consulting-manager-oil-markets-midstream-downstream-consulting-s-p-capital-iq-india-pvt-ltd-gurugram-15-to-20-years-160926932839",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:44:17 am",
+      "title": "Head Psychology",
+      "url": "https://www.naukri.com/job-listings-head-psychology-tpc-hr-advisory-services-bengaluru-12-to-22-years-151026013948",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have Professor Activities and as a HOD/Head of Psychology department??",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "Are you currently residing in Bengaluru or willing to relocate to Bengaluru?",
+          "a": "Yes",
+          "generic": false
+        },
+        {
+          "q": "How many years of teaching experience in child psychology in University?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:46:03 am",
+      "title": "Risk Policy Head _ SMB Lending",
+      "url": "https://www.naukri.com/job-listings-risk-policy-head-smb-lending-payu-india-mumbai-12-to-17-years-241125504865",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:47:47 am",
+      "title": "Head of Public Policy",
+      "url": "https://www.naukri.com/job-listings-head-of-public-policy-payu-india-mumbai-15-to-20-years-270326505210",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:49:14 am",
+      "title": "Head of Fund Integration - TA (MEAM)",
+      "url": "https://www.naukri.com/job-listings-head-of-fund-integration-ta-meam-apex-fund-services-llp-hyderabad-pune-15-to-20-years-220925503393",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:51:03 am",
+      "title": "Head",
+      "url": "https://www.naukri.com/job-listings-head-amr-india-hyderabad-12-to-20-years-230926013983",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: What is your highest qualification?",
+      "qa": [
+        {
+          "q": "What is your highest qualification?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:52:36 am",
+      "title": "HNI Desk Head",
+      "url": "https://www.naukri.com/job-listings-hni-desk-head-anandrathi-nagpur-10-to-20-years-020726019263",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:54:29 am",
+      "title": "Cambridge Head",
+      "url": "https://www.naukri.com/job-listings-cambridge-head-billabong-high-international-school-jabalpur-10-to-20-years-300926006120",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: How many vendors or contracts have you managed?",
+      "qa": [
+        {
+          "q": "How many vendors or contracts have you managed?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 2:56:24 am",
+      "title": "Head - Consumer Durables | Home Appliances",
+      "url": "https://www.naukri.com/job-listings-head-consumer-durables-home-appliances-vhr-professional-services-australia-singapore-ireland-canada-germany-united-kingdom-uk-united-states-usa-united-arab-emirates-luxembourg-15-to-24-years-110926015200",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
       "flags": []
     },
     {

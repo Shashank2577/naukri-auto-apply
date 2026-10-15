@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 2:42:25 am (IST)
+Generated 16/10/2026, 2:57:27 am (IST)
 
-Attempts: **101** · applied: **41** · verified on Naukri: **41** · unconfirmed: **0** · external (company site): **0** · skipped: **29** · failed: **2** · generic answers: **21**
+Attempts: **110** · applied: **45** · verified on Naukri: **45** · unconfirmed: **0** · external (company site): **0** · skipped: **31** · failed: **2** · generic answers: **23**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -106,7 +106,16 @@ Attempts: **101** · applied: **41** · verified on Naukri: **41** · unconfirme
 | 98 | 16/10/2026, 2:37:35 am | REGIONAL HEAD | see link | external | — | — | https://www.naukri.com/job-listings-regional-head-rexon-products-and-business-services-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-15-to-20-years-270226506387 |
 | 99 | 16/10/2026, 2:39:07 am | Senior Marketing Manager | see link | skipped | — | unanswered option question: How many years of experience do you have in ERP ? | https://www.naukri.com/job-listings-senior-marketing-manager-xtranet-technologies-bhopal-navi-mumbai-delhi-ncr-8-to-18-years-280926029907 |
 | 100 | 16/10/2026, 2:40:43 am | Director Risk Consulting / India Delivery & GCC Growth | see link | skipped | — | drawer still open after Save (unanswered or disabled) | https://www.naukri.com/job-listings-director-risk-consulting-india-delivery-gcc-growth-genpact-mumbai-mumbai-all-areas-15-to-24-years-131026048517 |
-| 101 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 101 | 16/10/2026, 2:42:40 am | Consulting Manager, Oil Markets, Midstream & Downstream Consulting | see link | applied | verified | — | https://www.naukri.com/job-listings-consulting-manager-oil-markets-midstream-downstream-consulting-s-p-capital-iq-india-pvt-ltd-gurugram-15-to-20-years-160926932839 |
+| 102 | 16/10/2026, 2:44:17 am | Head Psychology | see link | applied | verified | done | https://www.naukri.com/job-listings-head-psychology-tpc-hr-advisory-services-bengaluru-12-to-22-years-151026013948 |
+| 103 | 16/10/2026, 2:46:03 am | Risk Policy Head _ SMB Lending | see link | external | — | — | https://www.naukri.com/job-listings-risk-policy-head-smb-lending-payu-india-mumbai-12-to-17-years-241125504865 |
+| 104 | 16/10/2026, 2:47:47 am | Head of Public Policy | see link | external | — | — | https://www.naukri.com/job-listings-head-of-public-policy-payu-india-mumbai-15-to-20-years-270326505210 |
+| 105 | 16/10/2026, 2:49:14 am | Head of Fund Integration - TA (MEAM) | see link | external | — | — | https://www.naukri.com/job-listings-head-of-fund-integration-ta-meam-apex-fund-services-llp-hyderabad-pune-15-to-20-years-220925503393 |
+| 106 | 16/10/2026, 2:51:03 am | Head | see link | skipped | — | unanswered: What is your highest qualification? | https://www.naukri.com/job-listings-head-amr-india-hyderabad-12-to-20-years-230926013983 |
+| 107 | 16/10/2026, 2:52:36 am | HNI Desk Head | see link | applied | verified | — | https://www.naukri.com/job-listings-hni-desk-head-anandrathi-nagpur-10-to-20-years-020726019263 |
+| 108 | 16/10/2026, 2:54:29 am | Cambridge Head | see link | skipped | — | unanswered option question: How many vendors or contracts have you managed? | https://www.naukri.com/job-listings-cambridge-head-billabong-high-international-school-jabalpur-10-to-20-years-300926006120 |
+| 109 | 16/10/2026, 2:56:24 am | Head - Consumer Durables / Home Appliances | see link | applied | verified | — | https://www.naukri.com/job-listings-head-consumer-durables-home-appliances-vhr-professional-services-australia-singapore-ireland-canada-germany-united-kingdom-uk-united-states-usa-united-arab-emirates-luxembourg-15-to-24-years-110926015200 |
+| 110 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -415,3 +424,19 @@ Attempts: **101** · applied: **41** · verified on Naukri: **41** · unconfirme
   **A:** 16
 - **Q:** How many years of experience do you have in Risk Advisory?  
   **A:** 16
+
+### Head Psychology (see link)
+- **Q:** How many years of experience do you have Professor Activities and as a HOD/Head of Psychology department??  
+  **A:** 16
+- **Q:** Are you currently residing in Bengaluru or willing to relocate to Bengaluru?  
+  **A:** Yes
+- **Q:** How many years of teaching experience in child psychology in University?  
+  **A:** 16
+
+### Head (see link)
+- **Q:** What is your highest qualification?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Cambridge Head (see link)
+- **Q:** How many vendors or contracts have you managed?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
