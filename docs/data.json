@@ -1,10 +1,14 @@
 {
-  "generated": "15/10/2026, 11:59:17 pm",
+  "generated": "16/10/2026, 12:12:04 am",
   "counts": {
-    "applied": 2
+    "applied": 2,
+    "skipped": 4,
+    "external": 1,
+    "clicked": 1,
+    "failed": 2
   },
-  "verified": 2,
-  "unanswered": 0,
+  "verified": 3,
+  "unanswered": 3,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -22,6 +26,138 @@
         }
       ],
       "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "15/10/2026, 11:59:57 pm",
+      "title": "Learning And Development - Capability Activation Facilitator",
+      "url": "https://www.naukri.com/job-listings-learning-and-development-capability-activation-facilitator-naukri-assist-gurugram-delhi-ncr-12-to-25-years-151026026147",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: Are you okay with Gurugram location?",
+      "qa": [
+        {
+          "q": "Are you okay with Gurugram location?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:01:11 am",
+      "title": "GN-T&O - Talent Development and Learning - Sr Manager",
+      "url": "https://www.naukri.com/job-listings-gn-t-o-talent-development-and-learning-sr-manager-accenture-solutions-pvt-ltd-gurugram-13-to-18-years-091026929408",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:02:05 am",
+      "title": "GM/DGM- L&D - Learning and Development",
+      "url": "https://www.naukri.com/job-listings-gm-dgm-l-d-learning-and-development-symbiosis-management-consultants-mumbai-all-areas-15-to-23-years-220726004730",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "clicked",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:03:59 am",
+      "title": "Manager - Learning and Development",
+      "url": "https://www.naukri.com/job-listings-manager-learning-and-development-propel-industries-coimbatore-10-to-18-years-081026037459",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "failed",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Sales Training?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "missing",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:05:55 am",
+      "title": "Learning And Development - Capability Activation Facilitator",
+      "url": "https://www.naukri.com/job-listings-learning-and-development-capability-activation-facilitator-naukri-assist-gurugram-delhi-ncr-12-to-25-years-151026026147",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "failed",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "Are you okay with Gurugram location?",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": "missing",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:08:31 am",
+      "title": "Learning And Development - Capability Activation Facilitator",
+      "url": "https://www.naukri.com/job-listings-learning-and-development-capability-activation-facilitator-naukri-assist-gurugram-delhi-ncr-12-to-25-years-151026026147",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: How many years of experience do you have in Capability ?",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Capability ?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:09:57 am",
+      "title": "Learning And Development - Capability Activation Facilitator",
+      "url": "https://www.naukri.com/job-listings-learning-and-development-capability-activation-facilitator-naukri-assist-gurugram-delhi-ncr-12-to-25-years-151026026147",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "drawer still open after Save (unanswered or disabled)",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Capability ?",
+          "a": "16-20 years",
+          "generic": false
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:11:37 am",
+      "title": "Learning And Development - Capability Activation Facilitator",
+      "url": "https://www.naukri.com/job-listings-learning-and-development-capability-activation-facilitator-naukri-assist-gurugram-delhi-ncr-12-to-25-years-151026026147",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: How many years of experience do you have in team management?",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in team management?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
       "flags": []
     },
     {
