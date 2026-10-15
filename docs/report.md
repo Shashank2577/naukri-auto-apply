@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 3:27:32 am (IST)
+Generated 16/10/2026, 3:42:34 am (IST)
 
-Attempts: **127** · applied: **49** · verified on Naukri: **49** · unconfirmed: **0** · external (company site): **0** · skipped: **32** · failed: **2** · generic answers: **24**
+Attempts: **138** · applied: **51** · verified on Naukri: **51** · unconfirmed: **0** · external (company site): **0** · skipped: **38** · failed: **2** · generic answers: **30**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -132,7 +132,18 @@ Attempts: **127** · applied: **49** · verified on Naukri: **49** · unconfirme
 | 124 | 16/10/2026, 3:21:33 am | Manager HR & Admin | see link | applied | verified | done | https://www.naukri.com/job-listings-manager-hr-admin-ion-exchange-patancheru-15-to-20-years-061026013557 |
 | 125 | 16/10/2026, 3:23:46 am | Manager Scholarships & Impact Funds | see link | external | — | — | https://www.naukri.com/job-listings-manager-scholarships-impact-funds-csrbox-ahmedabad-8-to-16-years-310126502929 |
 | 126 | 16/10/2026, 3:25:37 am | Delivery Lead - Transfer Agency Integration | see link | external | — | — | https://www.naukri.com/job-listings-delivery-lead-transfer-agency-integration-apex-fund-services-llp-bengaluru-12-to-17-years-280926500026 |
-| 127 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 127 | 16/10/2026, 3:27:30 am | Delivery Lead - Transfer Agency Integration | see link | external | — | — | https://www.naukri.com/job-listings-delivery-lead-transfer-agency-integration-apex-fund-services-llp-pune-12-to-17-years-250926502889 |
+| 128 | 16/10/2026, 3:28:32 am | Senior CSR - A Large Manufacturing Co. Mumbai | see link | applied | verified | — | https://www.naukri.com/job-listings-senior-csr-a-large-manufacturing-co-mumbai-hector-and-streak-consulting-mumbai-all-areas-10-to-18-years-121026001134 |
+| 129 | 16/10/2026, 3:29:45 am | Senior CSR Resource Mobilizer & Partnership Development | see link | applied | verified | — | https://www.naukri.com/job-listings-senior-csr-resource-mobilizer-partnership-development-manav-vikas-sanstha-jaipur-10-to-20-years-121026002459 |
+| 130 | 16/10/2026, 3:31:34 am | CSR- Manufacturing(Skill Dev, Livelihood, Education)-Gujarat | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-csr-manufacturing-skill-dev-livelihood-education-gujarat-mizizi-management-system-dahej-12-to-20-years-151026017062 |
+| 131 | 16/10/2026, 3:33:12 am | Head Administration | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-head-administration-manpower-resources-india-veraval-16-to-25-years-081026049860 |
+| 132 | 16/10/2026, 3:35:08 am | Branch Head | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-branch-head-konkan-estate-pune-13-to-18-years-311025013617 |
+| 133 | 16/10/2026, 3:36:05 am | Branch Head | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-branch-head-axis-bank-mumbai-all-areas-10-to-17-years-031026004499 |
+| 134 | 16/10/2026, 3:37:33 am | Dispute Resolution Practice Head and Branch Head | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-dispute-resolution-practice-head-and-branch-head-lafors-talent-solutions-india-coimbatore-15-to-24-years-081026005263 |
+| 135 | 16/10/2026, 3:39:12 am | Senior Director | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-senior-director-axtria-india-private-limited-gurugram-16-to-25-years-081026947186 |
+| 136 | 16/10/2026, 3:40:35 am | India GGC - Client Account Management Lead | see link | external | — | — | https://www.naukri.com/job-listings-india-ggc-client-account-management-lead-accenture-solutions-pvt-ltd-gurugram-15-to-20-years-131026940913 |
+| 137 | 16/10/2026, 3:41:30 am | Head of Programs - Enterprise Development | see link | external | — | — | https://www.naukri.com/job-listings-head-of-programs-enterprise-development-arthan-new-delhi-12-to-17-years-251125502857 |
+| 138 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -483,3 +494,27 @@ Attempts: **127** · applied: **49** · verified on Naukri: **49** · unconfirme
   **A:** 16
 - **Q:** Are you currently residing in Patancheru, Telangana or willing to relocate to Patancheru, Telangana?  
   **A:** Yes
+
+### CSR- Manufacturing(Skill Dev, Livelihood, Education)-Gujarat (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Head Administration (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Branch Head (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Branch Head (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Dispute Resolution Practice Head and Branch Head (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Senior Director (see link)
+- **Q:** Jobs you might be interested in  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_

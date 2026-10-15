@@ -1,13 +1,13 @@
 {
-  "generated": "16/10/2026, 3:27:32 am",
+  "generated": "16/10/2026, 3:42:34 am",
   "counts": {
-    "applied": 49,
-    "external": 44,
+    "applied": 51,
+    "external": 47,
     "failed": 2,
-    "skipped": 32
+    "skipped": 38
   },
-  "verified": 49,
-  "unanswered": 24,
+  "verified": 51,
+  "unanswered": 30,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -2155,6 +2155,174 @@
       "time": "16/10/2026, 3:25:37 am",
       "title": "Delivery Lead - Transfer Agency Integration",
       "url": "https://www.naukri.com/job-listings-delivery-lead-transfer-agency-integration-apex-fund-services-llp-bengaluru-12-to-17-years-280926500026",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:27:30 am",
+      "title": "Delivery Lead - Transfer Agency Integration",
+      "url": "https://www.naukri.com/job-listings-delivery-lead-transfer-agency-integration-apex-fund-services-llp-pune-12-to-17-years-250926502889",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:28:32 am",
+      "title": "Senior CSR - A Large Manufacturing Co. Mumbai",
+      "url": "https://www.naukri.com/job-listings-senior-csr-a-large-manufacturing-co-mumbai-hector-and-streak-consulting-mumbai-all-areas-10-to-18-years-121026001134",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:29:45 am",
+      "title": "Senior CSR Resource Mobilizer & Partnership Development",
+      "url": "https://www.naukri.com/job-listings-senior-csr-resource-mobilizer-partnership-development-manav-vikas-sanstha-jaipur-10-to-20-years-121026002459",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:31:34 am",
+      "title": "CSR- Manufacturing(Skill Dev, Livelihood, Education)-Gujarat",
+      "url": "https://www.naukri.com/job-listings-csr-manufacturing-skill-dev-livelihood-education-gujarat-mizizi-management-system-dahej-12-to-20-years-151026017062",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:33:12 am",
+      "title": "Head Administration",
+      "url": "https://www.naukri.com/job-listings-head-administration-manpower-resources-india-veraval-16-to-25-years-081026049860",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:35:08 am",
+      "title": "Branch Head",
+      "url": "https://www.naukri.com/job-listings-branch-head-konkan-estate-pune-13-to-18-years-311025013617",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:36:05 am",
+      "title": "Branch Head",
+      "url": "https://www.naukri.com/job-listings-branch-head-axis-bank-mumbai-all-areas-10-to-17-years-031026004499",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:37:33 am",
+      "title": "Dispute Resolution Practice Head and Branch Head",
+      "url": "https://www.naukri.com/job-listings-dispute-resolution-practice-head-and-branch-head-lafors-talent-solutions-india-coimbatore-15-to-24-years-081026005263",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:39:12 am",
+      "title": "Senior Director",
+      "url": "https://www.naukri.com/job-listings-senior-director-axtria-india-private-limited-gurugram-16-to-25-years-081026947186",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Jobs you might be interested in",
+      "qa": [
+        {
+          "q": "Jobs you might be interested in",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:40:35 am",
+      "title": "India GGC - Client Account Management Lead",
+      "url": "https://www.naukri.com/job-listings-india-ggc-client-account-management-lead-accenture-solutions-pvt-ltd-gurugram-15-to-20-years-131026940913",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:41:30 am",
+      "title": "Head of Programs - Enterprise Development",
+      "url": "https://www.naukri.com/job-listings-head-of-programs-enterprise-development-arthan-new-delhi-12-to-17-years-251125502857",
       "company": "see link",
       "kind": "naukri",
       "outcome": "external",
