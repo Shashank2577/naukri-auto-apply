@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 3:12:29 am (IST)
+Generated 16/10/2026, 3:27:32 am (IST)
 
-Attempts: **119** · applied: **48** · verified on Naukri: **48** · unconfirmed: **0** · external (company site): **0** · skipped: **32** · failed: **2** · generic answers: **24**
+Attempts: **127** · applied: **49** · verified on Naukri: **49** · unconfirmed: **0** · external (company site): **0** · skipped: **32** · failed: **2** · generic answers: **24**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -124,7 +124,15 @@ Attempts: **119** · applied: **48** · verified on Naukri: **48** · unconfirme
 | 116 | 16/10/2026, 3:09:21 am | Call Center Manager | see link | skipped | — | unanswered: How many years of experience do you have in Sales Operations? | https://www.naukri.com/job-listings-call-center-manager-rhysley-new-delhi-10-to-18-years-180526008294 |
 | 117 | 16/10/2026, 3:11:09 am | Sr Manager/Manager- New Acquisitions Corporate Partnerships (B2B) | see link | external | — | — | https://www.naukri.com/job-listings-sr-manager-manager-new-acquisitions-corporate-partnerships-b2b-smile-foundation-new-delhi-10-to-20-years-070525502925 |
 | 118 | 16/10/2026, 3:12:21 am | Delivery Lead - Transfer Agency Integration | see link | external | — | — | https://www.naukri.com/job-listings-delivery-lead-transfer-agency-integration-apex-fund-services-llp-mumbai-12-to-17-years-280926500027 |
-| 119 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 119 | 16/10/2026, 3:14:25 am | CA Manager- E2E IP | see link | external | — | — | https://www.naukri.com/job-listings-ca-manager-e2e-ip-cradlepoint-part-of-ericsson-noida-12-to-17-years-310726502581 |
+| 120 | 16/10/2026, 3:15:38 am | CA Manager- E2E IP | see link | external | — | — | https://www.naukri.com/job-listings-ca-manager-e2e-ip-cradlepoint-part-of-ericsson-noida-12-to-17-years-150926505712 |
+| 121 | 16/10/2026, 3:16:48 am | Sustainability Consultants | see link | external | — | — | https://www.naukri.com/job-listings-sustainability-consultants-arkind-consultants-private-limited-ernakulam-11-to-18-years-301025508992 |
+| 122 | 16/10/2026, 3:18:42 am | Cluster Marketing Manager | see link | external | — | — | https://www.naukri.com/job-listings-cluster-marketing-manager-intercontinental-hotels-group-india-private-limited-bengaluru-11-to-16-years-100726500647 |
+| 123 | 16/10/2026, 3:20:16 am | Manager - Environment | see link | external | — | — | https://www.naukri.com/job-listings-manager-environment-adani-transmission-godda-11-to-16-years-061026503466 |
+| 124 | 16/10/2026, 3:21:33 am | Manager HR & Admin | see link | applied | verified | done | https://www.naukri.com/job-listings-manager-hr-admin-ion-exchange-patancheru-15-to-20-years-061026013557 |
+| 125 | 16/10/2026, 3:23:46 am | Manager Scholarships & Impact Funds | see link | external | — | — | https://www.naukri.com/job-listings-manager-scholarships-impact-funds-csrbox-ahmedabad-8-to-16-years-310126502929 |
+| 126 | 16/10/2026, 3:25:37 am | Delivery Lead - Transfer Agency Integration | see link | external | — | — | https://www.naukri.com/job-listings-delivery-lead-transfer-agency-integration-apex-fund-services-llp-bengaluru-12-to-17-years-280926500026 |
+| 127 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -463,3 +471,15 @@ Attempts: **119** · applied: **48** · verified on Naukri: **48** · unconfirme
 ### Call Center Manager (see link)
 - **Q:** How many years of experience do you have in Sales Operations?  
   **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Manager HR & Admin (see link)
+- **Q:** How many years of experience do you have in HR Generalist Activities?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Statuty?  
+  **A:** 16
+- **Q:** How many years of experience do you have in HR Operations?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Recruitment?  
+  **A:** 16
+- **Q:** Are you currently residing in Patancheru, Telangana or willing to relocate to Patancheru, Telangana?  
+  **A:** Yes

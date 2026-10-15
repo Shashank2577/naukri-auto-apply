@@ -1,12 +1,12 @@
 {
-  "generated": "16/10/2026, 3:12:29 am",
+  "generated": "16/10/2026, 3:27:32 am",
   "counts": {
-    "applied": 48,
-    "external": 37,
+    "applied": 49,
+    "external": 44,
     "failed": 2,
     "skipped": 32
   },
-  "verified": 48,
+  "verified": 49,
   "unanswered": 24,
   "jobs": [
     {
@@ -2033,6 +2033,128 @@
       "time": "16/10/2026, 3:12:21 am",
       "title": "Delivery Lead - Transfer Agency Integration",
       "url": "https://www.naukri.com/job-listings-delivery-lead-transfer-agency-integration-apex-fund-services-llp-mumbai-12-to-17-years-280926500027",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:14:25 am",
+      "title": "CA Manager- E2E IP",
+      "url": "https://www.naukri.com/job-listings-ca-manager-e2e-ip-cradlepoint-part-of-ericsson-noida-12-to-17-years-310726502581",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:15:38 am",
+      "title": "CA Manager- E2E IP",
+      "url": "https://www.naukri.com/job-listings-ca-manager-e2e-ip-cradlepoint-part-of-ericsson-noida-12-to-17-years-150926505712",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:16:48 am",
+      "title": "Sustainability Consultants",
+      "url": "https://www.naukri.com/job-listings-sustainability-consultants-arkind-consultants-private-limited-ernakulam-11-to-18-years-301025508992",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:18:42 am",
+      "title": "Cluster Marketing Manager",
+      "url": "https://www.naukri.com/job-listings-cluster-marketing-manager-intercontinental-hotels-group-india-private-limited-bengaluru-11-to-16-years-100726500647",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:20:16 am",
+      "title": "Manager - Environment",
+      "url": "https://www.naukri.com/job-listings-manager-environment-adani-transmission-godda-11-to-16-years-061026503466",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:21:33 am",
+      "title": "Manager HR & Admin",
+      "url": "https://www.naukri.com/job-listings-manager-hr-admin-ion-exchange-patancheru-15-to-20-years-061026013557",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in HR Generalist Activities?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Statuty?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in HR Operations?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Recruitment?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "Are you currently residing in Patancheru, Telangana or willing to relocate to Patancheru, Telangana?",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:23:46 am",
+      "title": "Manager Scholarships & Impact Funds",
+      "url": "https://www.naukri.com/job-listings-manager-scholarships-impact-funds-csrbox-ahmedabad-8-to-16-years-310126502929",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 3:25:37 am",
+      "title": "Delivery Lead - Transfer Agency Integration",
+      "url": "https://www.naukri.com/job-listings-delivery-lead-transfer-agency-integration-apex-fund-services-llp-bengaluru-12-to-17-years-280926500026",
       "company": "see link",
       "kind": "naukri",
       "outcome": "external",
