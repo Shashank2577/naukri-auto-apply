@@ -1,13 +1,13 @@
 {
-  "generated": "16/10/2026, 1:27:14 am",
+  "generated": "16/10/2026, 1:42:16 am",
   "counts": {
-    "applied": 24,
-    "external": 10,
+    "applied": 27,
+    "external": 13,
     "failed": 2,
-    "skipped": 18
+    "skipped": 21
   },
-  "verified": 24,
-  "unanswered": 12,
+  "verified": 27,
+  "unanswered": 15,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -933,6 +933,175 @@
       "reason": "",
       "qa": [],
       "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:28:07 am",
+      "title": "Collection Head",
+      "url": "https://www.naukri.com/job-listings-collection-head-profound-human-resource-development-advisors-noida-gurugram-15-to-24-years-141026034700",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Collection Management?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Collections Process?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in NBFC?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:29:56 am",
+      "title": "Head Training and Development",
+      "url": "https://www.naukri.com/job-listings-head-training-and-development-sheela-group-noida-12-to-18-years-131026038446",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "Are you currently living in or ready to relocate to Noida ?",
+          "a": "Yes",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have as Head Training and Development ?",
+          "a": "16-18 years",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:32:23 am",
+      "title": "Industry Techno & Strategy Architect - Telco - Senior Manager",
+      "url": "https://www.naukri.com/job-listings-industry-techno-strategy-architect-telco-senior-manager-accenture-solutions-pvt-ltd-gurugram-15-to-20-years-131026940953",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:33:20 am",
+      "title": "Placement Head/Corporate Relations",
+      "url": "https://www.naukri.com/job-listings-placement-head-corporate-relations-xebia-academy-global-gurugram-bengaluru-10-to-20-years-301224501658",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:35:12 am",
+      "title": "SBU Head - Respiratory",
+      "url": "https://www.naukri.com/job-listings-sbu-head-respiratory-sun-pharma-mumbai-16-to-25-years-240926020568",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Salutation",
+      "qa": [
+        {
+          "q": "Salutation",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:37:02 am",
+      "title": "Resource Manager Prin",
+      "url": "https://www.naukri.com/job-listings-resource-manager-prin-dayforce-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-11-to-16-years-250924503616",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:37:54 am",
+      "title": "Vice President Delivery Content",
+      "url": "https://www.naukri.com/job-listings-vice-president-delivery-content-hurix-pune-chennai-mumbai-all-areas-15-to-24-years-020926025167",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: How much portfolio or revenue/ PNL, do you hanadle?",
+      "qa": [
+        {
+          "q": "How much portfolio or revenue/ PNL, do you hanadle?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:39:49 am",
+      "title": "Logistics Sourcing Intelligence Manager",
+      "url": "https://www.naukri.com/job-listings-logistics-sourcing-intelligence-manager-hewlett-packard-enterprise-pune-bengaluru-mumbai-all-areas-10-to-18-years-150926014457",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Source To Contract (S2C)?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Procure To Pay?",
+          "a": "[redacted]",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience in Logistics Commercial Intelligence ?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 1:41:24 am",
+      "title": "SBU Head - Safety Assurance",
+      "url": "https://www.naukri.com/job-listings-sbu-head-safety-assurance-adani-group-mumbai-14-to-19-years-160926010712",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Salutation",
+      "qa": [
+        {
+          "q": "Salutation",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
       "flags": []
     },
     {

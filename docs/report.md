@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 1:27:14 am (IST)
+Generated 16/10/2026, 1:42:16 am (IST)
 
-Attempts: **54** · applied: **24** · verified on Naukri: **24** · unconfirmed: **0** · external (company site): **0** · skipped: **18** · failed: **2** · generic answers: **12**
+Attempts: **63** · applied: **27** · verified on Naukri: **27** · unconfirmed: **0** · external (company site): **0** · skipped: **21** · failed: **2** · generic answers: **15**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -59,7 +59,16 @@ Attempts: **54** · applied: **24** · verified on Naukri: **24** · unconfirmed
 | 51 | 16/10/2026, 1:23:23 am | HEAD Academic Partnerships AND Network Development | see link | applied | verified | — | https://www.naukri.com/job-listings-head-academic-partnerships-and-network-development-brainsearch-consulting-pvt-ltd-bengaluru-delhi-ncr-mumbai-all-areas-10-to-20-years-151026026347 |
 | 52 | 16/10/2026, 1:24:49 am | National Placement Head | see link | applied | verified | — | https://www.naukri.com/job-listings-national-placement-head-brain-pool-consultant-bengaluru-delhi-ncr-mumbai-all-areas-15-to-24-years-230926024531 |
 | 53 | 16/10/2026, 1:26:49 am | Profit Centre Head System Certification Training and Sustainability | see link | applied | verified | — | https://www.naukri.com/job-listings-profit-centre-head-system-certification-training-and-sustainability-tuv-india-pvt-ltd-mumbai-all-areas-10-to-20-years-300926007863 |
-| 54 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 54 | 16/10/2026, 1:28:07 am | Collection Head | see link | applied | verified | done | https://www.naukri.com/job-listings-collection-head-profound-human-resource-development-advisors-noida-gurugram-15-to-24-years-141026034700 |
+| 55 | 16/10/2026, 1:29:56 am | Head Training and Development | see link | applied | verified | done | https://www.naukri.com/job-listings-head-training-and-development-sheela-group-noida-12-to-18-years-131026038446 |
+| 56 | 16/10/2026, 1:32:23 am | Industry Techno & Strategy Architect - Telco - Senior Manager | see link | external | — | — | https://www.naukri.com/job-listings-industry-techno-strategy-architect-telco-senior-manager-accenture-solutions-pvt-ltd-gurugram-15-to-20-years-131026940953 |
+| 57 | 16/10/2026, 1:33:20 am | Placement Head/Corporate Relations | see link | external | — | — | https://www.naukri.com/job-listings-placement-head-corporate-relations-xebia-academy-global-gurugram-bengaluru-10-to-20-years-301224501658 |
+| 58 | 16/10/2026, 1:35:12 am | SBU Head - Respiratory | see link | skipped | — | unanswered option question: Salutation | https://www.naukri.com/job-listings-sbu-head-respiratory-sun-pharma-mumbai-16-to-25-years-240926020568 |
+| 59 | 16/10/2026, 1:37:02 am | Resource Manager Prin | see link | external | — | — | https://www.naukri.com/job-listings-resource-manager-prin-dayforce-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-11-to-16-years-250924503616 |
+| 60 | 16/10/2026, 1:37:54 am | Vice President Delivery Content | see link | skipped | — | unanswered: How much portfolio or revenue/ PNL, do you hanadle? | https://www.naukri.com/job-listings-vice-president-delivery-content-hurix-pune-chennai-mumbai-all-areas-15-to-24-years-020926025167 |
+| 61 | 16/10/2026, 1:39:49 am | Logistics Sourcing Intelligence Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-logistics-sourcing-intelligence-manager-hewlett-packard-enterprise-pune-bengaluru-mumbai-all-areas-10-to-18-years-150926014457 |
+| 62 | 16/10/2026, 1:41:24 am | SBU Head - Safety Assurance | see link | skipped | — | unanswered option question: Salutation | https://www.naukri.com/job-listings-sbu-head-safety-assurance-adani-group-mumbai-14-to-19-years-160926010712 |
+| 63 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -226,3 +235,37 @@ Attempts: **54** · applied: **24** · verified on Naukri: **24** · unconfirmed
 ### HSE & Training Head (see link)
 - **Q:** How many years of experience do you have in Environment Health Safety?  
   **A:** 16
+
+### Collection Head (see link)
+- **Q:** How many years of experience do you have in Collection Management?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Collections Process?  
+  **A:** 16
+- **Q:** How many years of experience do you have in NBFC?  
+  **A:** 16
+
+### Head Training and Development (see link)
+- **Q:** Are you currently living in or ready to relocate to Noida ?  
+  **A:** Yes
+- **Q:** How many years of experience do you have as Head Training and Development ?  
+  **A:** 16-18 years
+
+### SBU Head - Respiratory (see link)
+- **Q:** Salutation  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Vice President Delivery Content (see link)
+- **Q:** How much portfolio or revenue/ PNL, do you hanadle?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Logistics Sourcing Intelligence Manager (see link)
+- **Q:** How many years of experience do you have in Source To Contract (S2C)?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Procure To Pay?  
+  **A:** [redacted]
+- **Q:** How many years of experience in Logistics Commercial Intelligence ?  
+  **A:** 16
+
+### SBU Head - Safety Assurance (see link)
+- **Q:** Salutation  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
