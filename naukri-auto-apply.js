@@ -50,19 +50,23 @@
 
     // Job titles to apply to (case-insensitive substring match on the job title)
     TITLE_KEYWORDS: [
-      'capacity building', 'capacity development', 'learning & development', 'learning and development',
-      'learning & knowledge', 'knowledge management', 'knowledge & learning', 'knowledge and learning',
-      'skilling', 'skill development', 'skills development', 'livelihood', 'csr',
-      'training & development', 'training and development', 'training head', 'head - training', 'head training',
-      'institutional strengthening', 'program director', 'programme director', 'program head', 'programme head',
-      'skill council', 'vocational', 'employability', 'upskilling', 'workforce development',
+      'capacity building', 'capacity development', 'capacity', 'learning', 'l&d', 'l & d',
+      'training', 'trainer', 'tot ', 'skilling', 'skill development', 'skills development', 'skill ',
+      'livelihood', 'csr', 'knowledge', 'curriculum', 'employability', 'upskilling', 'reskilling',
+      'workforce', 'vocational', 'skill council', 'sector skill', 'nsdc', 'pmkvy', 'ncvet', 'nsqf',
+      'institutional', 'program director', 'programme director', 'program head', 'programme head',
+      'program manager', 'programme manager', 'program lead', 'programme lead', 'program officer',
+      'programme officer', 'monitoring', 'm&e', 'mel ', 'impact', 'development sector', 'partnerships',
+      'government', 'business development', 'bd manager', 'bd head', 'proposal', 'consultant',
     ],
     // Skip jobs whose title contains any of these
     TITLE_BLOCKLIST: [
       'intern', 'trainee', 'fresher', 'junior', 'assistant', 'software', 'developer', 'engineer',
-      'telecaller', 'bpo', 'insurance', 'loan', 'debt', 'banking', 'finance', 'credit', 'mortgage',
-      'driver', 'teacher', 'tutor', 'nurse', 'medical', 'pharma', 'real estate', 'recruiter',
-      'content writer', 'sales executive', 'executive -', 'coordinator', 'officer',
+      'technology', 'tech ', 'it ', 'data', 'cloud', 'devops', 'cyber', 'product manager', 'sales',
+      'telecaller', 'bpo', 'insurance', 'loan', 'debt', 'banking', 'bank', 'finance', 'credit',
+      'mortgage', 'investment', 'driver', 'teacher', 'tutor', 'nurse', 'medical', 'pharma', 'hospital',
+      'real estate', 'recruiter', 'content writer', 'executive -', 'coordinator', 'officer -',
+      'sr. executive', 'customer', 'warehouse', 'plant', 'factory', 'production', 'operations',
     ],
   };
 
@@ -210,7 +214,10 @@
 
   const titleOk = (t) => {
     const lower = t.toLowerCase();
-    return CONFIG.TITLE_KEYWORDS.some((k) => lower.includes(k)) &&
+    // keyword match, or a senior title (head / director / lead / manager / consultant) that
+    // is not blocklisted: adjacent roles count, not only the exact sector keywords
+    const senior = /\b(head|director|lead|manager|consultant|specialist|advisor|vice president|vp)\b/.test(lower);
+    return (CONFIG.TITLE_KEYWORDS.some((k) => lower.includes(k)) || senior) &&
            !CONFIG.TITLE_BLOCKLIST.some((k) => lower.includes(k));
   };
 

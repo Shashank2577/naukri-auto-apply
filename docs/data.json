@@ -1,0 +1,34 @@
+{
+  "generated": "15/10/2026, 11:24:11 pm",
+  "counts": {
+    "unconfirmed": 2
+  },
+  "verified": 0,
+  "unanswered": 0,
+  "jobs": [
+    {
+      "time": "15/10/2026, 11:21:57 pm",
+      "title": "Manager - Learning & Development",
+      "url": "https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "unconfirmed",
+      "reason": "apply clicked, success message not seen on page (checked against applied list separately)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "15/10/2026, 11:23:27 pm",
+      "title": "Learning And Development Manager",
+      "url": "https://www.naukri.com/job-listings-learning-and-development-manager-zmsl-gurugram-10-to-18-years-151026012009",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "unconfirmed",
+      "reason": "apply clicked, success message not seen on page (checked against applied list separately)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    }
+  ]
+}
