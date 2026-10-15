@@ -1,6 +1,6 @@
 # Naukri application report
 
-Generated 15/10/2026, 11:41:59 pm (IST)
+Generated 15/10/2026, 11:57:01 pm (IST)
 
 Attempts: **6** · applied: **1** · verified on Naukri: **1** · unconfirmed: **2** · external (company site): **1** · skipped: **0** · failed: **1** · generic answers: **0**
 
