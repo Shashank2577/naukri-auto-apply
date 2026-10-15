@@ -1,14 +1,13 @@
 {
-  "generated": "16/10/2026, 12:42:08 am",
+  "generated": "16/10/2026, 12:55:24 am",
   "counts": {
-    "applied": 5,
-    "external": 2,
-    "clicked": 3,
+    "applied": 14,
+    "external": 4,
     "failed": 2,
-    "skipped": 15
+    "skipped": 16
   },
-  "verified": 8,
-  "unanswered": 9,
+  "verified": 14,
+  "unanswered": 10,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -64,7 +63,7 @@
       "url": "https://www.naukri.com/job-listings-gm-dgm-l-d-learning-and-development-symbiosis-management-consultants-mumbai-all-areas-15-to-23-years-220726004730",
       "company": "see link",
       "kind": "naukri",
-      "outcome": "clicked",
+      "outcome": "applied",
       "reason": "",
       "qa": [],
       "verified": "verified",
@@ -351,7 +350,7 @@
       "url": "https://www.naukri.com/job-listings-head-learning-development-raipur-advance-talent-services-raipur-10-to-20-years-061026029875",
       "company": "see link",
       "kind": "naukri",
-      "outcome": "clicked",
+      "outcome": "applied",
       "reason": "",
       "qa": [],
       "verified": "verified",
@@ -467,9 +466,160 @@
       "url": "https://www.naukri.com/job-listings-learning-and-development-lead-hira-group-raipur-10-to-20-years-260626005177",
       "company": "see link",
       "kind": "naukri",
-      "outcome": "clicked",
+      "outcome": "applied",
       "reason": "",
       "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:42:58 am",
+      "title": "Associate Director- Learning & Development",
+      "url": "https://www.naukri.com/job-listings-associate-director-learning-development-deloitte-shared-services-india-new-delhi-bengaluru-mumbai-all-areas-13-to-17-years-170926011278",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: What is the team size that your handling?",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Team Management?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "What is the team size that your handling?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:44:26 am",
+      "title": "Head- Learning and Development",
+      "url": "https://www.naukri.com/job-listings-head-learning-and-development-hira-group-raipur-10-to-20-years-160926030152",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:46:14 am",
+      "title": "Learning and Development Head.",
+      "url": "https://www.naukri.com/job-listings-learning-and-development-head-kay-bee-bio-organics-pune-15-to-20-years-301224501297",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:47:21 am",
+      "title": "FSP Manager -R Programming",
+      "url": "https://www.naukri.com/job-listings-fsp-manager-r-programming-phastar-bengaluru-12-to-20-years-250826032179",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:48:33 am",
+      "title": "People Partner Manager, Maersk Contract Logistics (Indonesia)",
+      "url": "https://www.naukri.com/job-listings-people-partner-manager-maersk-contract-logistics-indonesia-maersk-global-service-centres-india-private-limited-jawa-15-to-20-years-151026930599",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:50:13 am",
+      "title": "AI ML Manager",
+      "url": "https://www.naukri.com/job-listings-ai-ml-manager-reqroots-madurai-tiruppur-salem-chennai-tiruchirappalli-coimbatore-15-to-20-years-151026504907",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:51:37 am",
+      "title": "Group Head HR",
+      "url": "https://www.naukri.com/job-listings-group-head-hr-golden-opportunities-pvt-ltd-hyderabad-12-to-18-years-151026914230",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "",
+      "qa": [],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:52:40 am",
+      "title": "General Manager Human Resource",
+      "url": "https://www.naukri.com/job-listings-general-manager-human-resource-bkj-airports-jaipur-15-to-20-years-151026031978",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Industrial Relations?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in the aviation industry ?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "Are you currently residing in Jaipur or willing to relocate to Jaipur?",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "16/10/2026, 12:54:25 am",
+      "title": "Training Manager",
+      "url": "https://www.naukri.com/job-listings-training-manager-concentrix-delhi-ncr-8-to-20-years-131026036163",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "Are you currently living in or ready to relocate to Delhi / NCR ?",
+          "a": "Yes",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Training Manager ?",
+          "a": "14-17 years",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have as Training Manager ?",
+          "a": "14-17 years",
+          "generic": false
+        }
+      ],
       "verified": "verified",
       "flags": []
     },
