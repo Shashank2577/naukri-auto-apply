@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 7:18:42 am (IST)
+Generated 16/10/2026, 7:24:29 am (IST)
 
-Attempts: **206** · applied: **51** · verified on Naukri: **51** · unconfirmed: **0** · external (company site): **0** · skipped: **78** · failed: **2** · generic answers: **69**
+Attempts: **206** · applied: **52** · verified on Naukri: **52** · unconfirmed: **0** · external (company site): **0** · skipped: **77** · failed: **2** · generic answers: **69**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -53,7 +53,7 @@ Attempts: **206** · applied: **51** · verified on Naukri: **51** · unconfirme
 | 45 | 16/10/2026, 1:12:53 am | Sr Manager- Field Training, Allergan Aesthetics | see link | external | — | — | https://www.naukri.com/job-listings-sr-manager-field-training-allergan-aesthetics-abbvie-mumbai-12-to-17-years-141026506710 |
 | 46 | 16/10/2026, 1:14:19 am | Manager | see link | external | — | — | https://www.naukri.com/job-listings-manager-auto-international-gurugram-11-to-16-years-190325510173 |
 | 47 | 16/10/2026, 1:16:08 am | Manager | see link | external | — | — | https://www.naukri.com/job-listings-manager-teleperformance-gurugram-5-to-18-years-160925502966 |
-| 48 | 16/10/2026, 1:17:51 am | Training Head - Mumbai, Lower Parel | see link | skipped | — | unanswered option question: Jobs you might be interested in | https://www.naukri.com/job-listings-training-head-mumbai-lower-parel-lifenity-health-mumbai-10-to-20-years-031026006955 |
+| 48 | 16/10/2026, 1:17:51 am | Training Head - Mumbai, Lower Parel | see link | applied | verified | Applied (confirmed on job page showing Applied, 16 Oct 2026) | https://www.naukri.com/job-listings-training-head-mumbai-lower-parel-lifenity-health-mumbai-10-to-20-years-031026006955 |
 | 49 | 16/10/2026, 1:19:28 am | HSE & Training Head | see link | applied | verified | done | https://www.naukri.com/job-listings-hse-training-head-gmr-energy-varanasi-agra-15-to-17-years-051026011478 |
 | 50 | 16/10/2026, 1:21:20 am | Training Head | see link | applied | verified | — | https://www.naukri.com/job-listings-training-head-auriga-research-baddi-10-to-20-years-230926010879 |
 | 51 | 16/10/2026, 1:23:23 am | HEAD Academic Partnerships AND Network Development | see link | applied | verified | — | https://www.naukri.com/job-listings-head-academic-partnerships-and-network-development-brainsearch-consulting-pvt-ltd-bengaluru-delhi-ncr-mumbai-all-areas-10-to-20-years-151026026347 |
