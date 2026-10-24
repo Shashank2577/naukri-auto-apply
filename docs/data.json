@@ -1,13 +1,13 @@
 {
-  "generated": "24/10/2026, 12:09:23 pm",
+  "generated": "24/10/2026, 12:17:26 pm",
   "counts": {
-    "applied": 61,
-    "external": 108,
+    "applied": 62,
+    "external": 111,
     "failed": 3,
-    "skipped": 109,
+    "skipped": 110,
     "unconfirmed": 2
   },
-  "verified": 61,
+  "verified": 62,
   "unanswered": 77,
   "jobs": [
     {
@@ -4546,6 +4546,72 @@
       "time": "24/10/2026, 12:09:12 pm",
       "title": "Boomi Practice Head",
       "url": "https://www.naukri.com/job-listings-boomi-practice-head-krazy-mantra-group-of-companies-pune-chennai-bengaluru-15-to-25-years-250325500527",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:10:20 pm",
+      "title": "Program Manager- Everforth Quinnox",
+      "url": "https://www.naukri.com/job-listings-program-manager-everforth-quinnox-everforth-quinnox-bengaluru-15-to-20-years-061026013634",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "Do you have experience in Leading and delivering AI/GenAI programs,",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:12:26 pm",
+      "title": "Director - Design Manager",
+      "url": "https://www.naukri.com/job-listings-director-design-manager-qualcomm-india-pvt-ltd-bengaluru-15-to-20-years-231026923003",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:13:41 pm",
+      "title": "Hiring For | Sourcing Leader/ Senior Manager | Chennai/Coimbatore",
+      "url": "https://www.naukri.com/job-listings-hiring-for-sourcing-leader-senior-manager-chennai-coimbatore-contactx-resource-management-pvt-ltd-chennai-coimbatore-15-to-20-years-231026913205",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:15:47 pm",
+      "title": "Business Manager - Essential & Natural Oils",
+      "url": "https://www.naukri.com/job-listings-business-manager-essential-natural-oils-scimplify-bengaluru-12-to-20-years-231026503694",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:17:07 pm",
+      "title": "Business Manager - Biofuels",
+      "url": "https://www.naukri.com/job-listings-business-manager-biofuels-scimplify-bengaluru-12-to-17-years-231026503691",
       "company": "see link",
       "kind": "naukri",
       "outcome": "external",

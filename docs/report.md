@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 12:09:23 pm (IST)
+Generated 24/10/2026, 12:17:26 pm (IST)
 
-Attempts: **283** · applied: **61** · verified on Naukri: **61** · unconfirmed: **2** · external (company site): **0** · skipped: **109** · failed: **3** · generic answers: **77**
+Attempts: **288** · applied: **62** · verified on Naukri: **62** · unconfirmed: **2** · external (company site): **0** · skipped: **110** · failed: **3** · generic answers: **77**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -288,7 +288,12 @@ Attempts: **283** · applied: **61** · verified on Naukri: **61** · unconfirme
 | 280 | 24/10/2026, 12:06:33 pm | Manager-Security Services | see link | external | — | — | https://www.naukri.com/job-listings-manager-security-services-american-express-india-gurugram-12-to-17-years-030726502416 |
 | 281 | 24/10/2026, 12:07:35 pm | API Practice Head | see link | external | — | — | https://www.naukri.com/job-listings-api-practice-head-krazy-mantra-group-of-companies-pune-chennai-bengaluru-15-to-25-years-250325500948 |
 | 282 | 24/10/2026, 12:09:12 pm | Boomi Practice Head | see link | external | — | — | https://www.naukri.com/job-listings-boomi-practice-head-krazy-mantra-group-of-companies-pune-chennai-bengaluru-15-to-25-years-250325500527 |
-| 283 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 283 | 24/10/2026, 12:10:20 pm | Program Manager- Everforth Quinnox | see link | applied | verified | done | https://www.naukri.com/job-listings-program-manager-everforth-quinnox-everforth-quinnox-bengaluru-15-to-20-years-061026013634 |
+| 284 | 24/10/2026, 12:12:26 pm | Director - Design Manager | see link | external | — | — | https://www.naukri.com/job-listings-director-design-manager-qualcomm-india-pvt-ltd-bengaluru-15-to-20-years-231026923003 |
+| 285 | 24/10/2026, 12:13:41 pm | Hiring For / Sourcing Leader/ Senior Manager / Chennai/Coimbatore | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-hiring-for-sourcing-leader-senior-manager-chennai-coimbatore-contactx-resource-management-pvt-ltd-chennai-coimbatore-15-to-20-years-231026913205 |
+| 286 | 24/10/2026, 12:15:47 pm | Business Manager - Essential & Natural Oils | see link | external | — | — | https://www.naukri.com/job-listings-business-manager-essential-natural-oils-scimplify-bengaluru-12-to-20-years-231026503694 |
+| 287 | 24/10/2026, 12:17:07 pm | Business Manager - Biofuels | see link | external | — | — | https://www.naukri.com/job-listings-business-manager-biofuels-scimplify-bengaluru-12-to-17-years-231026503691 |
+| 288 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -955,3 +960,7 @@ Attempts: **283** · applied: **61** · verified on Naukri: **61** · unconfirme
 ### Program Director- Mumbai (see link)
 - **Q:** Passing year and percentage from 10th to MBA  
   **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Program Manager- Everforth Quinnox (see link)
+- **Q:** Do you have experience in Leading and delivering AI/GenAI programs,  
+  **A:** Yes
