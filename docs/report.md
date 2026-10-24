@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 12:35:51 pm (IST)
+Generated 24/10/2026, 12:44:53 pm (IST)
 
-Attempts: **298** · applied: **65** · verified on Naukri: **65** · unconfirmed: **2** · external (company site): **0** · skipped: **115** · failed: **3** · generic answers: **78**
+Attempts: **303** · applied: **66** · verified on Naukri: **66** · unconfirmed: **2** · external (company site): **0** · skipped: **118** · failed: **3** · generic answers: **78**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -303,7 +303,12 @@ Attempts: **298** · applied: **65** · verified on Naukri: **65** · unconfirme
 | 295 | 24/10/2026, 12:32:00 pm | Fire Safety Systems Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-fire-safety-systems-manager-mrf-chennai-10-to-20-years-230926009529 |
 | 296 | 24/10/2026, 12:34:20 pm | Senior Manager, Incentive Compensation Administration Lead | see link | external | — | — | https://www.naukri.com/job-listings-senior-manager-incentive-compensation-administration-lead-amgen-technology-private-limited-hyderabad-12-to-17-years-221026919696 |
 | 297 | 24/10/2026, 12:35:27 pm | Senior Manager- Identity and Access Management | see link | external | — | — | https://www.naukri.com/job-listings-senior-manager-identity-and-access-management-amgen-technology-private-limited-hyderabad-12-to-17-years-221026916146 |
-| 298 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 298 | 24/10/2026, 12:36:35 pm | Program Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-program-manager-expleo-chennai-14-to-16-years-231026015252 |
+| 299 | 24/10/2026, 12:38:08 pm | Program Manager | see link | skipped | — | drawer still open after Save (unanswered or disabled) | https://www.naukri.com/job-listings-program-manager-simple-energy-bengaluru-7-to-18-years-051026039561 |
+| 300 | 24/10/2026, 12:39:57 pm | Program Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-program-manager-alstom-transport-india-ltd-bengaluru-15-to-23-years-121026904471 |
+| 301 | 24/10/2026, 12:42:16 pm | Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-infinite-computer-solutions-india-pvt-ltd-bengaluru-15-to-20-years-161026503663 |
+| 302 | 24/10/2026, 12:44:15 pm | Program Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-program-manager-sasmos-het-technologies-devanahalli-12-to-20-years-131026037846 |
+| 303 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -995,4 +1000,12 @@ Attempts: **298** · applied: **65** · verified on Naukri: **65** · unconfirme
 - **Q:** Are you currently residing in Chennai, Tamil Nadu or willing to relocate to Chennai, Tamil Nadu?  
   **A:** Yes
 - **Q:** How many years of experience do you have in Fire Safety?  
+  **A:** 16
+
+### Program Manager (see link)
+- **Q:** How many years of experience do you have as Program Manager ?  
+  **A:** 16-18 years
+
+### Program Manager (see link)
+- **Q:** How many years of experience do you have in the Defence, Aerospace, or Manufacturing industry program management?  
   **A:** 16

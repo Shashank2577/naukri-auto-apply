@@ -1,13 +1,13 @@
 {
-  "generated": "24/10/2026, 12:35:51 pm",
+  "generated": "24/10/2026, 12:44:53 pm",
   "counts": {
-    "applied": 65,
-    "external": 113,
+    "applied": 66,
+    "external": 114,
     "failed": 3,
-    "skipped": 115,
+    "skipped": 118,
     "unconfirmed": 2
   },
-  "verified": 65,
+  "verified": 66,
   "unanswered": 78,
   "jobs": [
     {
@@ -4777,6 +4777,78 @@
       "reason": "",
       "qa": [],
       "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:36:35 pm",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-expleo-chennai-14-to-16-years-231026015252",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:38:08 pm",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-simple-energy-bengaluru-7-to-18-years-051026039561",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "drawer still open after Save (unanswered or disabled)",
+      "qa": [
+        {
+          "q": "How many years of experience do you have as Program Manager ?",
+          "a": "16-18 years",
+          "generic": false
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:39:57 pm",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-alstom-transport-india-ltd-bengaluru-15-to-23-years-121026904471",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:42:16 pm",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-infinite-computer-solutions-india-pvt-ltd-bengaluru-15-to-20-years-161026503663",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:44:15 pm",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-sasmos-het-technologies-devanahalli-12-to-20-years-131026037846",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in the Defence, Aerospace, or Manufacturing industry program management?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
       "flags": []
     },
     {
