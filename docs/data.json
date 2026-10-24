@@ -1,13 +1,13 @@
 {
-  "generated": "24/10/2026, 10:33:23 am",
+  "generated": "24/10/2026, 10:48:25 am",
   "counts": {
-    "applied": 53,
-    "external": 83,
+    "applied": 54,
+    "external": 90,
     "failed": 3,
-    "skipped": 83,
+    "skipped": 84,
     "unconfirmed": 2
   },
-  "verified": 53,
+  "verified": 54,
   "unanswered": 73,
   "jobs": [
     {
@@ -3705,6 +3705,120 @@
           "generic": true
         }
       ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:33:35 am",
+      "title": "Quality & Training Manager",
+      "url": "https://www.naukri.com/job-listings-quality-training-manager-transact-bpo-services-india-pvt-ltd-bengaluru-10-to-20-years-031225502607",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:34:58 am",
+      "title": "Integrated Commercial Project Manager",
+      "url": "https://www.naukri.com/job-listings-integrated-commercial-project-manager-baker-hughes-the-network-gurugram-15-to-20-years-231026502681",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:36:40 am",
+      "title": "Head Accounts Payable",
+      "url": "https://www.naukri.com/job-listings-head-accounts-payable-fnz-group-gurugram-10-to-17-years-221026035118",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in GBS?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:39:11 am",
+      "title": "Director Government & Public Sector",
+      "url": "https://www.naukri.com/job-listings-director-government-public-sector-1lattice-gurugram-10-to-20-years-100326504559",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:40:10 am",
+      "title": "Senior Regional Leasing Head",
+      "url": "https://www.naukri.com/job-listings-senior-regional-leasing-head-tata-realty-and-infrastructure-gurugram-13-to-17-years-161025500133",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:41:48 am",
+      "title": "Lead Monitoring & Observability System Architect",
+      "url": "https://www.naukri.com/job-listings-lead-monitoring-observability-system-architect-orange-gurugram-15-to-20-years-300626501271",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:43:25 am",
+      "title": "Head of School",
+      "url": "https://www.naukri.com/job-listings-head-of-school-transhr-staffing-solutions-gurugram-10-to-17-years-090726501083",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:45:22 am",
+      "title": "Deputy Director Ops & Admin",
+      "url": "https://www.naukri.com/job-listings-deputy-director-ops-admin-masters-union-gurugram-12-to-17-years-260526506218",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:46:50 am",
+      "title": "Head - Maintenance",
+      "url": "https://www.naukri.com/job-listings-head-maintenance-quality-hr-india-pvt-ltd-gurugram-12-to-20-years-240926938437",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
       "verified": null,
       "flags": []
     },

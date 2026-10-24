@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 10:33:23 am (IST)
+Generated 24/10/2026, 10:48:25 am (IST)
 
-Attempts: **224** · applied: **53** · verified on Naukri: **53** · unconfirmed: **2** · external (company site): **0** · skipped: **83** · failed: **3** · generic answers: **73**
+Attempts: **233** · applied: **54** · verified on Naukri: **54** · unconfirmed: **2** · external (company site): **0** · skipped: **84** · failed: **3** · generic answers: **73**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -229,7 +229,16 @@ Attempts: **224** · applied: **53** · verified on Naukri: **53** · unconfirme
 | 221 | 24/10/2026, 10:26:47 am | Quality Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-quality-manager-uma-polymers-jodhpur-10-to-16-years-231026029175 |
 | 222 | 24/10/2026, 10:28:53 am | F&A - Training Manager - Chennai | see link | skipped | — | unanswered option question: Which area does your current training role primarily focus on? | https://www.naukri.com/job-listings-f-a-training-manager-chennai-wipro-chennai-10-to-20-years-191026005946 |
 | 223 | 24/10/2026, 10:31:37 am | Director Technical Learning | see link | skipped | — | unanswered: How many years of experience do you have in Learning Excellence? | https://www.naukri.com/job-listings-director-technical-learning-coronis-ajuba-solutions-chennai-15-to-24-years-231026023378 |
-| 224 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 224 | 24/10/2026, 10:33:35 am | Quality & Training Manager | see link | external | — | — | https://www.naukri.com/job-listings-quality-training-manager-transact-bpo-services-india-pvt-ltd-bengaluru-10-to-20-years-031225502607 |
+| 225 | 24/10/2026, 10:34:58 am | Integrated Commercial Project Manager | see link | external | — | — | https://www.naukri.com/job-listings-integrated-commercial-project-manager-baker-hughes-the-network-gurugram-15-to-20-years-231026502681 |
+| 226 | 24/10/2026, 10:36:40 am | Head Accounts Payable | see link | applied | verified | done | https://www.naukri.com/job-listings-head-accounts-payable-fnz-group-gurugram-10-to-17-years-221026035118 |
+| 227 | 24/10/2026, 10:39:11 am | Director Government & Public Sector | see link | external | — | — | https://www.naukri.com/job-listings-director-government-public-sector-1lattice-gurugram-10-to-20-years-100326504559 |
+| 228 | 24/10/2026, 10:40:10 am | Senior Regional Leasing Head | see link | external | — | — | https://www.naukri.com/job-listings-senior-regional-leasing-head-tata-realty-and-infrastructure-gurugram-13-to-17-years-161025500133 |
+| 229 | 24/10/2026, 10:41:48 am | Lead Monitoring & Observability System Architect | see link | external | — | — | https://www.naukri.com/job-listings-lead-monitoring-observability-system-architect-orange-gurugram-15-to-20-years-300626501271 |
+| 230 | 24/10/2026, 10:43:25 am | Head of School | see link | external | — | — | https://www.naukri.com/job-listings-head-of-school-transhr-staffing-solutions-gurugram-10-to-17-years-090726501083 |
+| 231 | 24/10/2026, 10:45:22 am | Deputy Director Ops & Admin | see link | external | — | — | https://www.naukri.com/job-listings-deputy-director-ops-admin-masters-union-gurugram-12-to-17-years-260526506218 |
+| 232 | 24/10/2026, 10:46:50 am | Head - Maintenance | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-head-maintenance-quality-hr-india-pvt-ltd-gurugram-12-to-20-years-240926938437 |
+| 233 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -820,3 +829,7 @@ Attempts: **224** · applied: **53** · verified on Naukri: **53** · unconfirme
   **A:** 16
 - **Q:** How many years of experience do you have in Learning Excellence?  
   **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Head Accounts Payable (see link)
+- **Q:** How many years of experience do you have in GBS?  
+  **A:** 16
