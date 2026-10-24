@@ -1,13 +1,13 @@
 {
-  "generated": "24/10/2026, 11:33:32 am",
+  "generated": "24/10/2026, 11:37:13 am",
   "counts": {
-    "applied": 57,
+    "applied": 58,
     "external": 103,
     "failed": 3,
-    "skipped": 96,
+    "skipped": 97,
     "unconfirmed": 2
   },
-  "verified": 57,
+  "verified": 58,
   "unanswered": 76,
   "jobs": [
     {
@@ -4222,6 +4222,36 @@
       "reason": "",
       "qa": [],
       "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:33:28 am",
+      "title": "Head- BPHR South India",
+      "url": "https://www.naukri.com/job-listings-head-bphr-south-india-workoid-consultants-hyderabad-bengaluru-12-to-22-years-201026008422",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:35:52 am",
+      "title": "Head - Horeca (6 days working)",
+      "url": "https://www.naukri.com/job-listings-head-horeca-6-days-working-chaudhary-group-gurugram-15-to-24-years-230926033894",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Horeca?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
       "flags": []
     },
     {
