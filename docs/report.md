@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 11:03:27 am (IST)
+Generated 24/10/2026, 11:18:30 am (IST)
 
-Attempts: **242** · applied: **55** · verified on Naukri: **55** · unconfirmed: **2** · external (company site): **0** · skipped: **89** · failed: **3** · generic answers: **74**
+Attempts: **251** · applied: **56** · verified on Naukri: **56** · unconfirmed: **2** · external (company site): **0** · skipped: **94** · failed: **3** · generic answers: **75**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -247,7 +247,16 @@ Attempts: **242** · applied: **55** · verified on Naukri: **55** · unconfirme
 | 239 | 24/10/2026, 10:58:20 am | Director - Business Consulting PI | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-director-business-consulting-pi-ernst-young-llp-chennai-chennai-15-to-20-years-221026921378 |
 | 240 | 24/10/2026, 11:00:10 am | Logistics Sector India Market Director | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-logistics-sector-india-market-director-capgemini-technology-services-india-limited-gurugram-15-to-20-years-290926934092 |
 | 241 | 24/10/2026, 11:02:16 am | Platform and Digital Enablement Lead | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-platform-and-digital-enablement-lead-maersk-global-service-centres-india-private-limited-pune-15-to-20-years-231026912592 |
-| 242 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 242 | 24/10/2026, 11:03:58 am | Store Director | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-store-director-think9-consumer-technologies-gurugram-bengaluru-10-to-20-years-191026008944 |
+| 243 | 24/10/2026, 11:05:18 am | Mobilization Manager | see link | external | — | — | https://www.naukri.com/job-listings-mobilization-manager-accenture-solutions-pvt-ltd-gurugram-13-to-18-years-211026910122 |
+| 244 | 24/10/2026, 11:07:16 am | Mobilization Senior Manager | see link | external | — | — | https://www.naukri.com/job-listings-mobilization-senior-manager-accenture-solutions-pvt-ltd-gurugram-16-to-25-years-211026910041 |
+| 245 | 24/10/2026, 11:08:28 am | SAP Project Manager - 11073 | see link | external | — | — | https://www.naukri.com/job-listings-sap-project-manager-11073-fujitsu-consulting-india-pvt-ltd-hyderabad-chennai-bengaluru-12-to-17-years-211026920270 |
+| 246 | 24/10/2026, 11:09:44 am | Service Delivery Manager - HPC & ITIL/ITSM | see link | skipped | — | unanswered option question: What is your Notice Period? | https://www.naukri.com/job-listings-service-delivery-manager-hpc-itil-itsm-epam-systems-hyderabad-chennai-bengaluru-14-to-18-years-040926021509 |
+| 247 | 24/10/2026, 11:10:53 am | Technical Project Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-technical-project-manager-iris-software-technologies-private-limited-noida-15-to-18-years-191026913353 |
+| 248 | 24/10/2026, 11:13:03 am | Lead - Project P&M | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-lead-project-p-m-hg-infra-engineering-gurugram-india-14-to-18-years-011026028329 |
+| 249 | 24/10/2026, 11:15:21 am | Head- Anti Money Laundering | see link | applied | verified | done | https://www.naukri.com/job-listings-head-anti-money-laundering-indypay-technologies-mumbai-all-areas-15-to-22-years-231026025968 |
+| 250 | 24/10/2026, 11:17:28 am | Associate Director - Applied AI and Analytics | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-associate-director-applied-ai-and-analytics-ernst-young-llp-gurugram-15-to-20-years-221026915772 |
+| 251 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -852,3 +861,15 @@ Attempts: **242** · applied: **55** · verified on Naukri: **55** · unconfirme
 ### DDIT- Director (see link)
 - **Q:** How many years of experience do you have in Head AWS Engineering?  
   **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Service Delivery Manager - HPC & ITIL/ITSM (see link)
+- **Q:** What is your Notice Period?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Head- Anti Money Laundering (see link)
+- **Q:** Are you open for contract for 1 year?  
+  **A:** Yes
+- **Q:** How many years of experience do you have in Anti Money Laundering?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Compliance Management?  
+  **A:** 16

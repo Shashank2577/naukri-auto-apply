@@ -1,14 +1,14 @@
 {
-  "generated": "24/10/2026, 11:03:27 am",
+  "generated": "24/10/2026, 11:18:30 am",
   "counts": {
-    "applied": 55,
-    "external": 93,
+    "applied": 56,
+    "external": 96,
     "failed": 3,
-    "skipped": 89,
+    "skipped": 94,
     "unconfirmed": 2
   },
-  "verified": 55,
-  "unanswered": 74,
+  "verified": 56,
+  "unanswered": 75,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -3939,6 +3939,136 @@
       "time": "24/10/2026, 11:02:16 am",
       "title": "Platform and Digital Enablement Lead",
       "url": "https://www.naukri.com/job-listings-platform-and-digital-enablement-lead-maersk-global-service-centres-india-private-limited-pune-15-to-20-years-231026912592",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:03:58 am",
+      "title": "Store Director",
+      "url": "https://www.naukri.com/job-listings-store-director-think9-consumer-technologies-gurugram-bengaluru-10-to-20-years-191026008944",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:05:18 am",
+      "title": "Mobilization Manager",
+      "url": "https://www.naukri.com/job-listings-mobilization-manager-accenture-solutions-pvt-ltd-gurugram-13-to-18-years-211026910122",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:07:16 am",
+      "title": "Mobilization Senior Manager",
+      "url": "https://www.naukri.com/job-listings-mobilization-senior-manager-accenture-solutions-pvt-ltd-gurugram-16-to-25-years-211026910041",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:08:28 am",
+      "title": "SAP Project Manager - 11073",
+      "url": "https://www.naukri.com/job-listings-sap-project-manager-11073-fujitsu-consulting-india-pvt-ltd-hyderabad-chennai-bengaluru-12-to-17-years-211026920270",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:09:44 am",
+      "title": "Service Delivery Manager - HPC & ITIL/ITSM",
+      "url": "https://www.naukri.com/job-listings-service-delivery-manager-hpc-itil-itsm-epam-systems-hyderabad-chennai-bengaluru-14-to-18-years-040926021509",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: What is your Notice Period?",
+      "qa": [
+        {
+          "q": "What is your Notice Period?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:10:53 am",
+      "title": "Technical Project Manager",
+      "url": "https://www.naukri.com/job-listings-technical-project-manager-iris-software-technologies-private-limited-noida-15-to-18-years-191026913353",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:13:03 am",
+      "title": "Lead - Project P&M",
+      "url": "https://www.naukri.com/job-listings-lead-project-p-m-hg-infra-engineering-gurugram-india-14-to-18-years-011026028329",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:15:21 am",
+      "title": "Head- Anti Money Laundering",
+      "url": "https://www.naukri.com/job-listings-head-anti-money-laundering-indypay-technologies-mumbai-all-areas-15-to-22-years-231026025968",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "Are you open for contract for 1 year?",
+          "a": "Yes",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Anti Money Laundering?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Compliance Management?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:17:28 am",
+      "title": "Associate Director - Applied AI and Analytics",
+      "url": "https://www.naukri.com/job-listings-associate-director-applied-ai-and-analytics-ernst-young-llp-gurugram-15-to-20-years-221026915772",
       "company": "see link",
       "kind": "naukri",
       "outcome": "skipped",
