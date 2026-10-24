@@ -1,14 +1,14 @@
 {
-  "generated": "24/10/2026, 10:48:25 am",
+  "generated": "24/10/2026, 11:03:27 am",
   "counts": {
-    "applied": 54,
-    "external": 90,
+    "applied": 55,
+    "external": 93,
     "failed": 3,
-    "skipped": 84,
+    "skipped": 89,
     "unconfirmed": 2
   },
-  "verified": 54,
-  "unanswered": 73,
+  "verified": 55,
+  "unanswered": 74,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -3814,6 +3814,131 @@
       "time": "24/10/2026, 10:46:50 am",
       "title": "Head - Maintenance",
       "url": "https://www.naukri.com/job-listings-head-maintenance-quality-hr-india-pvt-ltd-gurugram-12-to-20-years-240926938437",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:49:01 am",
+      "title": "Sr Manager, Safety",
+      "url": "https://www.naukri.com/job-listings-sr-manager-safety-airbnb-gurugram-13-to-18-years-191026500456",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:50:10 am",
+      "title": "India AR Delivery Hub Manager",
+      "url": "https://www.naukri.com/job-listings-india-ar-delivery-hub-manager-aristocrat-technologies-india-pvt-ltd-gurugram-16-to-21-years-260826502992",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:51:11 am",
+      "title": "Senior Manager, Dedicated Managed Services",
+      "url": "https://www.naukri.com/job-listings-senior-manager-dedicated-managed-services-cvent-india-pvt-ltd-gurugram-12-to-17-years-070826504376",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:52:55 am",
+      "title": "Director - Business Consulting PI",
+      "url": "https://www.naukri.com/job-listings-director-business-consulting-pi-ernst-young-llp-new-delhi-delhi-ncr-new-delhi-delhi-ncr-15-to-20-years-221026921589",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:54:26 am",
+      "title": "Service Delivery Manager - Talent Acquisition",
+      "url": "https://www.naukri.com/job-listings-service-delivery-manager-talent-acquisition-bureau-veritas-india-pvt-ltd-noida-15-to-21-years-171026015871",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Hr Shared Services?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Hr Service Delivery?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:56:57 am",
+      "title": "DDIT- Director",
+      "url": "https://www.naukri.com/job-listings-ddit-director-novartis-hyderabad-15-to-22-years-121026035732",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: How many years of experience do you have in Head AWS Engineering?",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Head AWS Engineering?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:58:20 am",
+      "title": "Director - Business Consulting PI",
+      "url": "https://www.naukri.com/job-listings-director-business-consulting-pi-ernst-young-llp-chennai-chennai-15-to-20-years-221026921378",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:00:10 am",
+      "title": "Logistics Sector India Market Director",
+      "url": "https://www.naukri.com/job-listings-logistics-sector-india-market-director-capgemini-technology-services-india-limited-gurugram-15-to-20-years-290926934092",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:02:16 am",
+      "title": "Platform and Digital Enablement Lead",
+      "url": "https://www.naukri.com/job-listings-platform-and-digital-enablement-lead-maersk-global-service-centres-india-private-limited-pune-15-to-20-years-231026912592",
       "company": "see link",
       "kind": "naukri",
       "outcome": "skipped",

@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 10:48:25 am (IST)
+Generated 24/10/2026, 11:03:27 am (IST)
 
-Attempts: **233** · applied: **54** · verified on Naukri: **54** · unconfirmed: **2** · external (company site): **0** · skipped: **84** · failed: **3** · generic answers: **73**
+Attempts: **242** · applied: **55** · verified on Naukri: **55** · unconfirmed: **2** · external (company site): **0** · skipped: **89** · failed: **3** · generic answers: **74**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -238,7 +238,16 @@ Attempts: **233** · applied: **54** · verified on Naukri: **54** · unconfirme
 | 230 | 24/10/2026, 10:43:25 am | Head of School | see link | external | — | — | https://www.naukri.com/job-listings-head-of-school-transhr-staffing-solutions-gurugram-10-to-17-years-090726501083 |
 | 231 | 24/10/2026, 10:45:22 am | Deputy Director Ops & Admin | see link | external | — | — | https://www.naukri.com/job-listings-deputy-director-ops-admin-masters-union-gurugram-12-to-17-years-260526506218 |
 | 232 | 24/10/2026, 10:46:50 am | Head - Maintenance | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-head-maintenance-quality-hr-india-pvt-ltd-gurugram-12-to-20-years-240926938437 |
-| 233 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 233 | 24/10/2026, 10:49:01 am | Sr Manager, Safety | see link | external | — | — | https://www.naukri.com/job-listings-sr-manager-safety-airbnb-gurugram-13-to-18-years-191026500456 |
+| 234 | 24/10/2026, 10:50:10 am | India AR Delivery Hub Manager | see link | external | — | — | https://www.naukri.com/job-listings-india-ar-delivery-hub-manager-aristocrat-technologies-india-pvt-ltd-gurugram-16-to-21-years-260826502992 |
+| 235 | 24/10/2026, 10:51:11 am | Senior Manager, Dedicated Managed Services | see link | external | — | — | https://www.naukri.com/job-listings-senior-manager-dedicated-managed-services-cvent-india-pvt-ltd-gurugram-12-to-17-years-070826504376 |
+| 236 | 24/10/2026, 10:52:55 am | Director - Business Consulting PI | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-director-business-consulting-pi-ernst-young-llp-new-delhi-delhi-ncr-new-delhi-delhi-ncr-15-to-20-years-221026921589 |
+| 237 | 24/10/2026, 10:54:26 am | Service Delivery Manager - Talent Acquisition | see link | applied | verified | done | https://www.naukri.com/job-listings-service-delivery-manager-talent-acquisition-bureau-veritas-india-pvt-ltd-noida-15-to-21-years-171026015871 |
+| 238 | 24/10/2026, 10:56:57 am | DDIT- Director | see link | skipped | — | unanswered: How many years of experience do you have in Head AWS Engineering? | https://www.naukri.com/job-listings-ddit-director-novartis-hyderabad-15-to-22-years-121026035732 |
+| 239 | 24/10/2026, 10:58:20 am | Director - Business Consulting PI | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-director-business-consulting-pi-ernst-young-llp-chennai-chennai-15-to-20-years-221026921378 |
+| 240 | 24/10/2026, 11:00:10 am | Logistics Sector India Market Director | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-logistics-sector-india-market-director-capgemini-technology-services-india-limited-gurugram-15-to-20-years-290926934092 |
+| 241 | 24/10/2026, 11:02:16 am | Platform and Digital Enablement Lead | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-platform-and-digital-enablement-lead-maersk-global-service-centres-india-private-limited-pune-15-to-20-years-231026912592 |
+| 242 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -833,3 +842,13 @@ Attempts: **233** · applied: **54** · verified on Naukri: **54** · unconfirme
 ### Head Accounts Payable (see link)
 - **Q:** How many years of experience do you have in GBS?  
   **A:** 16
+
+### Service Delivery Manager - Talent Acquisition (see link)
+- **Q:** How many years of experience do you have in Hr Shared Services?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Hr Service Delivery?  
+  **A:** 16
+
+### DDIT- Director (see link)
+- **Q:** How many years of experience do you have in Head AWS Engineering?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
