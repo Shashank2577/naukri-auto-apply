@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 16/10/2026, 7:24:29 am (IST)
+Generated 24/10/2026, 10:03:19 am (IST)
 
-Attempts: **206** · applied: **52** · verified on Naukri: **52** · unconfirmed: **0** · external (company site): **0** · skipped: **77** · failed: **2** · generic answers: **69**
+Attempts: **208** · applied: **52** · verified on Naukri: **52** · unconfirmed: **1** · external (company site): **0** · skipped: **77** · failed: **2** · generic answers: **69**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -211,7 +211,9 @@ Attempts: **206** · applied: **52** · verified on Naukri: **52** · unconfirme
 | 203 | 16/10/2026, 5:18:46 am | Construction Lead - Semiconductor Projects | see link | skipped | — | unanswered option question: AECOM | https://www.naukri.com/job-listings-construction-lead-semiconductor-projects-aecom-india-private-limited-ahmedabad-11-to-16-years-151026930713 |
 | 204 | 16/10/2026, 5:19:51 am | Sr. EHS Manager | see link | skipped | — | unanswered option question: AECOM | https://www.naukri.com/job-listings-sr-ehs-manager-aecom-india-private-limited-thiruvananthapuram-15-to-20-years-151026930647 |
 | 205 | 16/10/2026, 5:21:16 am | Paid Search Manager | see link | external | — | — | https://www.naukri.com/job-listings-paid-search-manager-wildnet-technologies-pvt-ltd-noida-15-to-20-years-151026503714 |
-| 206 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 206 | 24/10/2026, 10:00:18 am | Manager - Training & Development | see link | unconfirmed | — | done | https://www.naukri.com/job-listings-manager-training-development-swami-rama-himalayan-university-srhu-dehradun-10-to-18-years-121026002206 |
+| 207 | 24/10/2026, 10:02:51 am | R&D Knowledge and Learning Manager (Content Development) | see link | external | — | — | https://www.naukri.com/job-listings-r-d-knowledge-and-learning-manager-content-development-amgen-technology-private-limited-hyderabad-15-to-20-years-221026919941 |
+| 208 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -742,3 +744,7 @@ Attempts: **206** · applied: **52** · verified on Naukri: **52** · unconfirme
 ### Sr. EHS Manager (see link)
 - **Q:** AECOM  
   **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Manager - Training & Development (see link)
+- **Q:** Are you currently residing in Dehradun or willing to relocate to Dehradun?  
+  **A:** Yes

@@ -1,10 +1,11 @@
 {
-  "generated": "16/10/2026, 7:24:29 am",
+  "generated": "24/10/2026, 10:03:19 am",
   "counts": {
     "applied": 52,
-    "external": 75,
+    "external": 76,
     "failed": 2,
-    "skipped": 77
+    "skipped": 77,
+    "unconfirmed": 1
   },
   "verified": 52,
   "unanswered": 69,
@@ -3373,6 +3374,36 @@
       "time": "16/10/2026, 5:21:16 am",
       "title": "Paid Search Manager",
       "url": "https://www.naukri.com/job-listings-paid-search-manager-wildnet-technologies-pvt-ltd-noida-15-to-20-years-151026503714",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:00:18 am",
+      "title": "Manager - Training & Development",
+      "url": "https://www.naukri.com/job-listings-manager-training-development-swami-rama-himalayan-university-srhu-dehradun-10-to-18-years-121026002206",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "unconfirmed",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "Are you currently residing in Dehradun or willing to relocate to Dehradun?",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:02:51 am",
+      "title": "R&D Knowledge and Learning Manager (Content Development)",
+      "url": "https://www.naukri.com/job-listings-r-d-knowledge-and-learning-manager-content-development-amgen-technology-private-limited-hyderabad-15-to-20-years-221026919941",
       "company": "see link",
       "kind": "naukri",
       "outcome": "external",
