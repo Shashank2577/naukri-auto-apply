@@ -1,13 +1,13 @@
 {
-  "generated": "24/10/2026, 11:43:15 am",
+  "generated": "24/10/2026, 11:52:38 am",
   "counts": {
-    "applied": 58,
+    "applied": 60,
     "external": 105,
     "failed": 3,
-    "skipped": 100,
+    "skipped": 103,
     "unconfirmed": 2
   },
-  "verified": 58,
+  "verified": 60,
   "unanswered": 76,
   "jobs": [
     {
@@ -4312,6 +4312,83 @@
       "reason": "Apply click opened nothing (retried on a later run)",
       "qa": [],
       "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:44:23 am",
+      "title": "CSR- Manufacturing(Skill Dev, Livelihood, Education)-Gujarat",
+      "url": "https://www.naukri.com/job-listings-csr-manufacturing-skill-dev-livelihood-education-gujarat-mizizi-management-system-dahej-12-to-20-years-151026017062",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Community Development?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "Are you currently residing in Dahej, Gujarat or willing to relocate to Dahej, Gujarat?",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:46:18 am",
+      "title": "Head Administration",
+      "url": "https://www.naukri.com/job-listings-head-administration-manpower-resources-india-veraval-16-to-25-years-081026049860",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:48:22 am",
+      "title": "Branch Head",
+      "url": "https://www.naukri.com/job-listings-branch-head-konkan-estate-pune-13-to-18-years-311025013617",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:50:48 am",
+      "title": "Interview Opportunity Branch Manager",
+      "url": "https://www.naukri.com/job-listings-interview-opportunity-branch-manager-jana-small-finance-bank-sivasagar-10-to-18-years-221026025055",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:52:00 am",
+      "title": "Branch Head",
+      "url": "https://www.naukri.com/job-listings-branch-head-axis-bank-mumbai-all-areas-10-to-17-years-031026004499",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Heading Branch?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
       "flags": []
     },
     {
