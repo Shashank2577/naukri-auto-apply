@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 10:03:19 am (IST)
+Generated 24/10/2026, 10:18:21 am (IST)
 
-Attempts: **208** · applied: **52** · verified on Naukri: **52** · unconfirmed: **1** · external (company site): **0** · skipped: **77** · failed: **2** · generic answers: **69**
+Attempts: **216** · applied: **52** · verified on Naukri: **52** · unconfirmed: **1** · external (company site): **0** · skipped: **81** · failed: **3** · generic answers: **71**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -213,7 +213,15 @@ Attempts: **208** · applied: **52** · verified on Naukri: **52** · unconfirme
 | 205 | 16/10/2026, 5:21:16 am | Paid Search Manager | see link | external | — | — | https://www.naukri.com/job-listings-paid-search-manager-wildnet-technologies-pvt-ltd-noida-15-to-20-years-151026503714 |
 | 206 | 24/10/2026, 10:00:18 am | Manager - Training & Development | see link | unconfirmed | — | done | https://www.naukri.com/job-listings-manager-training-development-swami-rama-himalayan-university-srhu-dehradun-10-to-18-years-121026002206 |
 | 207 | 24/10/2026, 10:02:51 am | R&D Knowledge and Learning Manager (Content Development) | see link | external | — | — | https://www.naukri.com/job-listings-r-d-knowledge-and-learning-manager-content-development-amgen-technology-private-limited-hyderabad-15-to-20-years-221026919941 |
-| 208 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 208 | 24/10/2026, 10:04:36 am | Chief manager L&D- Learning and Development (Gujarat) | see link | failed | — | page.evaluate: Execution context was destroyed, most likely because of a navigation | https://www.naukri.com/job-listings-chief-manager-l-d-learning-and-development-gujarat-utkarsh-placement-bharuch-14-to-16-years-221026022647 |
+| 209 | 24/10/2026, 10:05:48 am | Learning And Development Manager | see link | skipped | — | unanswered: Are you interested for Navi Mumbai ? | https://www.naukri.com/job-listings-learning-and-development-manager-ciel-hr-navi-mumbai-10-to-17-years-221026019968 |
+| 210 | 24/10/2026, 10:07:44 am | Head Learning & Development | see link | skipped | — | drawer still open after Save (unanswered or disabled) | https://www.naukri.com/job-listings-head-learning-development-hands-on-gurugram-delhi-ncr-15-to-24-years-221026020591 |
+| 211 | 24/10/2026, 10:09:46 am | Learning and Development Manager | see link | skipped | — | unanswered option question: How many years of experience do you have as Learning and Development Manager ? | https://www.naukri.com/job-listings-learning-and-development-manager-sanjeev-chhatrapati-sambhajinagar-8-to-16-years-201026008076 |
+| 212 | 24/10/2026, 10:12:04 am | Head Learning & Development | see link | skipped | — | drawer still open after Save (unanswered or disabled) | https://www.naukri.com/job-listings-head-learning-development-hands-on-gurugram-delhi-ncr-15-to-24-years-221026020591 |
+| 213 | 24/10/2026, 10:13:28 am | Delivery Lead Manager | see link | external | — | — | https://www.naukri.com/job-listings-delivery-lead-manager-accenture-solutions-pvt-ltd-mumbai-13-to-18-years-231026917356 |
+| 214 | 24/10/2026, 10:15:23 am | Sr Specialist Business Consultant | see link | external | — | — | https://www.naukri.com/job-listings-sr-specialist-business-consultant-nice-pune-12-to-18-years-231026504541 |
+| 215 | 24/10/2026, 10:16:41 am | Lead - Analytical Services | see link | external | — | — | https://www.naukri.com/job-listings-lead-analytical-services-venture-center-pune-12-to-17-years-231026504343 |
+| 216 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -748,3 +756,37 @@ Attempts: **208** · applied: **52** · verified on Naukri: **52** · unconfirme
 ### Manager - Training & Development (see link)
 - **Q:** Are you currently residing in Dehradun or willing to relocate to Dehradun?  
   **A:** Yes
+
+### Chief manager L&D- Learning and Development (Gujarat) (see link)
+- **Q:** How many years of experience do you have in Organizational Development?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Learning Management?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Employee Engagement?  
+  **A:** 16
+- **Q:** Are you currently residing in Bharuch, Gujarat or willing to relocate to Bharuch, Gujarat?  
+  **A:** Yes
+
+### Learning And Development Manager (see link)
+- **Q:** How many years of Experience do you have in Learning and Development ?  
+  **A:** 16
+- **Q:** Total years of experience in Manufacturing industry ?  
+  **A:** 16
+- **Q:** How many years of experience at Plant Level ?  
+  **A:** 16
+- **Q:** Are you interested for Navi Mumbai ?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Head Learning & Development (see link)
+- **Q:** Head count Managing  
+  **A:** Skip this question
+
+### Learning and Development Manager (see link)
+- **Q:** Are you currently living in or ready to relocate to Aurangabad ?  
+  **A:** Yes
+- **Q:** How many years of experience do you have as Learning and Development Manager ?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Head Learning & Development (see link)
+- **Q:** Please select the city you are currently residing or willing to relocate to  
+  **A:** Delhi / NCR

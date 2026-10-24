@@ -1,14 +1,14 @@
 {
-  "generated": "24/10/2026, 10:03:19 am",
+  "generated": "24/10/2026, 10:18:21 am",
   "counts": {
     "applied": 52,
-    "external": 76,
-    "failed": 2,
-    "skipped": 77,
+    "external": 79,
+    "failed": 3,
+    "skipped": 81,
     "unconfirmed": 1
   },
   "verified": 52,
-  "unanswered": 69,
+  "unanswered": 71,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -3404,6 +3404,167 @@
       "time": "24/10/2026, 10:02:51 am",
       "title": "R&D Knowledge and Learning Manager (Content Development)",
       "url": "https://www.naukri.com/job-listings-r-d-knowledge-and-learning-manager-content-development-amgen-technology-private-limited-hyderabad-15-to-20-years-221026919941",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:04:36 am",
+      "title": "Chief manager L&D- Learning and Development (Gujarat)",
+      "url": "https://www.naukri.com/job-listings-chief-manager-l-d-learning-and-development-gujarat-utkarsh-placement-bharuch-14-to-16-years-221026022647",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "failed",
+      "reason": "page.evaluate: Execution context was destroyed, most likely because of a navigation",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Organizational Development?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Learning Management?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Employee Engagement?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "Are you currently residing in Bharuch, Gujarat or willing to relocate to Bharuch, Gujarat?",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:05:48 am",
+      "title": "Learning And Development Manager",
+      "url": "https://www.naukri.com/job-listings-learning-and-development-manager-ciel-hr-navi-mumbai-10-to-17-years-221026019968",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: Are you interested for Navi Mumbai ?",
+      "qa": [
+        {
+          "q": "How many years of Experience do you have in Learning and Development ?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "Total years of experience in Manufacturing industry ?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience at Plant Level ?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "Are you interested for Navi Mumbai ?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:07:44 am",
+      "title": "Head Learning & Development",
+      "url": "https://www.naukri.com/job-listings-head-learning-development-hands-on-gurugram-delhi-ncr-15-to-24-years-221026020591",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "drawer still open after Save (unanswered or disabled)",
+      "qa": [
+        {
+          "q": "Head count Managing",
+          "a": "Skip this question",
+          "generic": false
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:09:46 am",
+      "title": "Learning and Development Manager",
+      "url": "https://www.naukri.com/job-listings-learning-and-development-manager-sanjeev-chhatrapati-sambhajinagar-8-to-16-years-201026008076",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: How many years of experience do you have as Learning and Development Manager ?",
+      "qa": [
+        {
+          "q": "Are you currently living in or ready to relocate to Aurangabad ?",
+          "a": "Yes",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have as Learning and Development Manager ?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:12:04 am",
+      "title": "Head Learning & Development",
+      "url": "https://www.naukri.com/job-listings-head-learning-development-hands-on-gurugram-delhi-ncr-15-to-24-years-221026020591",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "drawer still open after Save (unanswered or disabled)",
+      "qa": [
+        {
+          "q": "Please select the city you are currently residing or willing to relocate to",
+          "a": "Delhi / NCR",
+          "generic": false
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:13:28 am",
+      "title": "Delivery Lead Manager",
+      "url": "https://www.naukri.com/job-listings-delivery-lead-manager-accenture-solutions-pvt-ltd-mumbai-13-to-18-years-231026917356",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:15:23 am",
+      "title": "Sr Specialist Business Consultant",
+      "url": "https://www.naukri.com/job-listings-sr-specialist-business-consultant-nice-pune-12-to-18-years-231026504541",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:16:41 am",
+      "title": "Lead - Analytical Services",
+      "url": "https://www.naukri.com/job-listings-lead-analytical-services-venture-center-pune-12-to-17-years-231026504343",
       "company": "see link",
       "kind": "naukri",
       "outcome": "external",
