@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 12:17:26 pm (IST)
+Generated 24/10/2026, 12:26:48 pm (IST)
 
-Attempts: **288** · applied: **62** · verified on Naukri: **62** · unconfirmed: **2** · external (company site): **0** · skipped: **110** · failed: **3** · generic answers: **77**
+Attempts: **293** · applied: **64** · verified on Naukri: **64** · unconfirmed: **2** · external (company site): **0** · skipped: **113** · failed: **3** · generic answers: **77**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -293,7 +293,12 @@ Attempts: **288** · applied: **62** · verified on Naukri: **62** · unconfirme
 | 285 | 24/10/2026, 12:13:41 pm | Hiring For / Sourcing Leader/ Senior Manager / Chennai/Coimbatore | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-hiring-for-sourcing-leader-senior-manager-chennai-coimbatore-contactx-resource-management-pvt-ltd-chennai-coimbatore-15-to-20-years-231026913205 |
 | 286 | 24/10/2026, 12:15:47 pm | Business Manager - Essential & Natural Oils | see link | external | — | — | https://www.naukri.com/job-listings-business-manager-essential-natural-oils-scimplify-bengaluru-12-to-20-years-231026503694 |
 | 287 | 24/10/2026, 12:17:07 pm | Business Manager - Biofuels | see link | external | — | — | https://www.naukri.com/job-listings-business-manager-biofuels-scimplify-bengaluru-12-to-17-years-231026503691 |
-| 288 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 288 | 24/10/2026, 12:19:06 pm | Lead - Financial MIS | see link | applied | verified | done | https://www.naukri.com/job-listings-lead-financial-mis-sterling-oil-exploration-nigeria-10-to-20-years-231026033291 |
+| 289 | 24/10/2026, 12:21:10 pm | Zonal Marketing Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-zonal-marketing-manager-ju-agri-sciences-noida-12-to-18-years-231026027679 |
+| 290 | 24/10/2026, 12:23:01 pm | Project Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-project-manager-global-indian-international-school-giis-mumbai-all-areas-15-to-24-years-231026025680 |
+| 291 | 24/10/2026, 12:24:46 pm | Service Delivery Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-service-delivery-manager-space-inventive-hyderabad-10-to-18-years-231026025331 |
+| 292 | 24/10/2026, 12:26:23 pm | Manager - General Purchase | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-manager-general-purchase-premier-fine-linens-coimbatore-10-to-18-years-231026023796 |
+| 293 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -964,3 +969,13 @@ Attempts: **288** · applied: **62** · verified on Naukri: **62** · unconfirme
 ### Program Manager- Everforth Quinnox (see link)
 - **Q:** Do you have experience in Leading and delivering AI/GenAI programs,  
   **A:** Yes
+
+### Lead - Financial MIS (see link)
+- **Q:** Are you currently residing in Nigeria or willing to relocate to Nigeria?  
+  **A:** Yes
+
+### Service Delivery Manager (see link)
+- **Q:** How many years of experience do you have in Service Delivery Management?  
+  **A:** 16
+- **Q:** How many years of experience do you have in the Life Sciences, Pharmaceutical, or Healthcare domain?  
+  **A:** 16

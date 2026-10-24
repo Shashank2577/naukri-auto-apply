@@ -1,13 +1,13 @@
 {
-  "generated": "24/10/2026, 12:17:26 pm",
+  "generated": "24/10/2026, 12:26:48 pm",
   "counts": {
-    "applied": 62,
+    "applied": 64,
     "external": 111,
     "failed": 3,
-    "skipped": 110,
+    "skipped": 113,
     "unconfirmed": 2
   },
-  "verified": 62,
+  "verified": 64,
   "unanswered": 77,
   "jobs": [
     {
@@ -4616,6 +4616,83 @@
       "kind": "naukri",
       "outcome": "external",
       "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:19:06 pm",
+      "title": "Lead - Financial MIS",
+      "url": "https://www.naukri.com/job-listings-lead-financial-mis-sterling-oil-exploration-nigeria-10-to-20-years-231026033291",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "Are you currently residing in Nigeria or willing to relocate to Nigeria?",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:21:10 pm",
+      "title": "Zonal Marketing Manager",
+      "url": "https://www.naukri.com/job-listings-zonal-marketing-manager-ju-agri-sciences-noida-12-to-18-years-231026027679",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:23:01 pm",
+      "title": "Project Manager",
+      "url": "https://www.naukri.com/job-listings-project-manager-global-indian-international-school-giis-mumbai-all-areas-15-to-24-years-231026025680",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:24:46 pm",
+      "title": "Service Delivery Manager",
+      "url": "https://www.naukri.com/job-listings-service-delivery-manager-space-inventive-hyderabad-10-to-18-years-231026025331",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Service Delivery Management?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in the Life Sciences, Pharmaceutical, or Healthcare domain?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:26:23 pm",
+      "title": "Manager - General Purchase",
+      "url": "https://www.naukri.com/job-listings-manager-general-purchase-premier-fine-linens-coimbatore-10-to-18-years-231026023796",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
       "qa": [],
       "verified": null,
       "flags": []
