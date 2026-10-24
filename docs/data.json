@@ -1,13 +1,13 @@
 {
-  "generated": "24/10/2026, 12:54:16 pm",
+  "generated": "24/10/2026, 1:03:39 pm",
   "counts": {
-    "applied": 66,
-    "external": 114,
+    "applied": 67,
+    "external": 117,
     "failed": 3,
-    "skipped": 123,
+    "skipped": 124,
     "unconfirmed": 2
   },
-  "verified": 66,
+  "verified": 67,
   "unanswered": 80,
   "jobs": [
     {
@@ -4925,6 +4925,82 @@
           "generic": true
         }
       ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:55:58 pm",
+      "title": "Manager - Liaison and Regulatory Affairs Pan India",
+      "url": "https://www.naukri.com/job-listings-manager-liaison-and-regulatory-affairs-pan-india-geofast-industries-hyderabad-14-to-24-years-231026014387",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Corporate Affairs?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Licensing?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "Are you currently residing in Hyderabad or willing to relocate to Hyderabad?",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:58:19 pm",
+      "title": "Senior Consultant",
+      "url": "https://www.naukri.com/job-listings-senior-consultant-transunion-chennai-6-to-19-years-140826502642",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:59:34 pm",
+      "title": "Senior Manager, Business Transformations",
+      "url": "https://www.naukri.com/job-listings-senior-manager-business-transformations-cvent-india-pvt-ltd-gurugram-15-to-17-years-170726504125",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 1:01:11 pm",
+      "title": "Program Manager - Digital Transformation",
+      "url": "https://www.naukri.com/job-listings-program-manager-digital-transformation-capgemini-technology-services-india-limited-gurugram-12-to-18-years-081026946679",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 1:03:19 pm",
+      "title": "Senior Manager - Commercial Forecasting",
+      "url": "https://www.naukri.com/job-listings-senior-manager-commercial-forecasting-amgen-technology-private-limited-hyderabad-12-to-17-years-221026916013",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
       "verified": null,
       "flags": []
     },

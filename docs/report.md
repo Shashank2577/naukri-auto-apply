@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 12:54:16 pm (IST)
+Generated 24/10/2026, 1:03:39 pm (IST)
 
-Attempts: **308** · applied: **66** · verified on Naukri: **66** · unconfirmed: **2** · external (company site): **0** · skipped: **123** · failed: **3** · generic answers: **80**
+Attempts: **313** · applied: **67** · verified on Naukri: **67** · unconfirmed: **2** · external (company site): **0** · skipped: **124** · failed: **3** · generic answers: **80**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -313,7 +313,12 @@ Attempts: **308** · applied: **66** · verified on Naukri: **66** · unconfirme
 | 305 | 24/10/2026, 12:50:21 pm | Program Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-program-manager-careernet-bengaluru-11-to-18-years-220926044082 |
 | 306 | 24/10/2026, 12:51:43 pm | Regional Head - Bhubaneswar | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-regional-head-bhubaneswar-sbicap-securities-bhubaneswar-11-to-16-years-240926015992 |
 | 307 | 24/10/2026, 12:53:52 pm | Segment Lead - Mid Market (Senior Role) | see link | skipped | — | unanswered: How many years of experience in Mid Market Enterprise Sales | https://www.naukri.com/job-listings-segment-lead-mid-market-senior-role-haarvard-management-consultants-gurugram-bengaluru-mumbai-all-areas-13-to-23-years-211026006793 |
-| 308 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 308 | 24/10/2026, 12:55:58 pm | Manager - Liaison and Regulatory Affairs Pan India | see link | applied | verified | done | https://www.naukri.com/job-listings-manager-liaison-and-regulatory-affairs-pan-india-geofast-industries-hyderabad-14-to-24-years-231026014387 |
+| 309 | 24/10/2026, 12:58:19 pm | Senior Consultant | see link | external | — | — | https://www.naukri.com/job-listings-senior-consultant-transunion-chennai-6-to-19-years-140826502642 |
+| 310 | 24/10/2026, 12:59:34 pm | Senior Manager, Business Transformations | see link | external | — | — | https://www.naukri.com/job-listings-senior-manager-business-transformations-cvent-india-pvt-ltd-gurugram-15-to-17-years-170726504125 |
+| 311 | 24/10/2026, 1:01:11 pm | Program Manager - Digital Transformation | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-program-manager-digital-transformation-capgemini-technology-services-india-limited-gurugram-12-to-18-years-081026946679 |
+| 312 | 24/10/2026, 1:03:19 pm | Senior Manager - Commercial Forecasting | see link | external | — | — | https://www.naukri.com/job-listings-senior-manager-commercial-forecasting-amgen-technology-private-limited-hyderabad-12-to-17-years-221026916013 |
+| 313 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -1024,3 +1029,11 @@ Attempts: **308** · applied: **66** · verified on Naukri: **66** · unconfirme
 ### Segment Lead - Mid Market (Senior Role) (see link)
 - **Q:** How many years of experience in Mid Market Enterprise Sales  
   **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Manager - Liaison and Regulatory Affairs Pan India (see link)
+- **Q:** How many years of experience do you have in Corporate Affairs?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Licensing?  
+  **A:** 16
+- **Q:** Are you currently residing in Hyderabad or willing to relocate to Hyderabad?  
+  **A:** Yes
