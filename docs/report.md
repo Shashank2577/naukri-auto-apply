@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 11:52:38 am (IST)
+Generated 24/10/2026, 12:02:41 pm (IST)
 
-Attempts: **273** · applied: **60** · verified on Naukri: **60** · unconfirmed: **2** · external (company site): **0** · skipped: **103** · failed: **3** · generic answers: **76**
+Attempts: **278** · applied: **61** · verified on Naukri: **61** · unconfirmed: **2** · external (company site): **0** · skipped: **107** · failed: **3** · generic answers: **76**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -278,7 +278,12 @@ Attempts: **273** · applied: **60** · verified on Naukri: **60** · unconfirme
 | 270 | 24/10/2026, 11:48:22 am | Branch Head | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-branch-head-konkan-estate-pune-13-to-18-years-311025013617 |
 | 271 | 24/10/2026, 11:50:48 am | Interview Opportunity Branch Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-interview-opportunity-branch-manager-jana-small-finance-bank-sivasagar-10-to-18-years-221026025055 |
 | 272 | 24/10/2026, 11:52:00 am | Branch Head | see link | applied | verified | done | https://www.naukri.com/job-listings-branch-head-axis-bank-mumbai-all-areas-10-to-17-years-031026004499 |
-| 273 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 273 | 24/10/2026, 11:54:09 am | Branch Manager- South Bombay/ Thane/ Navi Mumbai | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-branch-manager-south-bombay-thane-navi-mumbai-yes-bank-mumbai-thane-navi-mumbai-10-to-16-years-190626010943 |
+| 274 | 24/10/2026, 11:55:34 am | Centre Head / Principal | see link | skipped | — | drawer still open after Save (unanswered or disabled) | https://www.naukri.com/job-listings-centre-head-principal-lodha-foundation-thane-dombivli-kalyan-10-to-20-years-101026012182 |
+| 275 | 24/10/2026, 11:57:56 am | Branch HEAD & Dispute Resolutions Practice HEAD | see link | applied | verified | done | https://www.naukri.com/job-listings-branch-head-dispute-resolutions-practice-head-svn-consultancy-coimbatore-15-to-20-years-051026003095 |
+| 276 | 24/10/2026, 12:00:32 pm | Department Director | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-department-director-alstom-transport-india-ltd-bengaluru-15-to-20-years-231026923024 |
+| 277 | 24/10/2026, 12:01:56 pm | Senior Director | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-senior-director-axtria-india-private-limited-gurugram-16-to-25-years-081026947186 |
+| 278 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -923,3 +928,21 @@ Attempts: **273** · applied: **60** · verified on Naukri: **60** · unconfirme
 ### Branch Head (see link)
 - **Q:** How many years of experience do you have in Heading Branch?  
   **A:** 16
+
+### Centre Head / Principal (see link)
+- **Q:** How many years of experience do you have in Soft Skills Training?  
+  **A:** 16
+
+### Branch HEAD & Dispute Resolutions Practice HEAD (see link)
+- **Q:** How many years of experience do you have in Administrative Operations?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Profitability?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Business Strategy?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Client Development?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Business Expansion?  
+  **A:** 16
+- **Q:** Are you currently residing in Coimbatore or willing to relocate to Coimbatore?  
+  **A:** Yes

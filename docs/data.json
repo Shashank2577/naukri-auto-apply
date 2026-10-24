@@ -1,13 +1,13 @@
 {
-  "generated": "24/10/2026, 11:52:38 am",
+  "generated": "24/10/2026, 12:02:41 pm",
   "counts": {
-    "applied": 60,
+    "applied": 61,
     "external": 105,
     "failed": 3,
-    "skipped": 103,
+    "skipped": 107,
     "unconfirmed": 2
   },
-  "verified": 60,
+  "verified": 61,
   "unanswered": 76,
   "jobs": [
     {
@@ -4389,6 +4389,103 @@
         }
       ],
       "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:54:09 am",
+      "title": "Branch Manager- South Bombay/ Thane/ Navi Mumbai",
+      "url": "https://www.naukri.com/job-listings-branch-manager-south-bombay-thane-navi-mumbai-yes-bank-mumbai-thane-navi-mumbai-10-to-16-years-190626010943",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:55:34 am",
+      "title": "Centre Head / Principal",
+      "url": "https://www.naukri.com/job-listings-centre-head-principal-lodha-foundation-thane-dombivli-kalyan-10-to-20-years-101026012182",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "drawer still open after Save (unanswered or disabled)",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Soft Skills Training?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:57:56 am",
+      "title": "Branch HEAD & Dispute Resolutions Practice HEAD",
+      "url": "https://www.naukri.com/job-listings-branch-head-dispute-resolutions-practice-head-svn-consultancy-coimbatore-15-to-20-years-051026003095",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Administrative Operations?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Profitability?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Business Strategy?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Client Development?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Business Expansion?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "Are you currently residing in Coimbatore or willing to relocate to Coimbatore?",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:00:32 pm",
+      "title": "Department Director",
+      "url": "https://www.naukri.com/job-listings-department-director-alstom-transport-india-ltd-bengaluru-15-to-20-years-231026923024",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:01:56 pm",
+      "title": "Senior Director",
+      "url": "https://www.naukri.com/job-listings-senior-director-axtria-india-private-limited-gurugram-16-to-25-years-081026947186",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
       "flags": []
     },
     {
