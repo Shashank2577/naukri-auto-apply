@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 10:18:21 am (IST)
+Generated 24/10/2026, 10:33:23 am (IST)
 
-Attempts: **216** · applied: **52** · verified on Naukri: **52** · unconfirmed: **1** · external (company site): **0** · skipped: **81** · failed: **3** · generic answers: **71**
+Attempts: **224** · applied: **53** · verified on Naukri: **53** · unconfirmed: **2** · external (company site): **0** · skipped: **83** · failed: **3** · generic answers: **73**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -221,7 +221,15 @@ Attempts: **216** · applied: **52** · verified on Naukri: **52** · unconfirme
 | 213 | 24/10/2026, 10:13:28 am | Delivery Lead Manager | see link | external | — | — | https://www.naukri.com/job-listings-delivery-lead-manager-accenture-solutions-pvt-ltd-mumbai-13-to-18-years-231026917356 |
 | 214 | 24/10/2026, 10:15:23 am | Sr Specialist Business Consultant | see link | external | — | — | https://www.naukri.com/job-listings-sr-specialist-business-consultant-nice-pune-12-to-18-years-231026504541 |
 | 215 | 24/10/2026, 10:16:41 am | Lead - Analytical Services | see link | external | — | — | https://www.naukri.com/job-listings-lead-analytical-services-venture-center-pune-12-to-17-years-231026504343 |
-| 216 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 216 | 24/10/2026, 10:18:14 am | Head Learning & Development | see link | unconfirmed | — | done | https://www.naukri.com/job-listings-head-learning-development-hands-on-gurugram-delhi-ncr-15-to-24-years-221026020591 |
+| 217 | 24/10/2026, 10:20:32 am | Strategic Relationship Manager | see link | external | — | — | https://www.naukri.com/job-listings-strategic-relationship-manager-harvard-business-publishing-mumbai-12-to-17-years-231026502863 |
+| 218 | 24/10/2026, 10:21:37 am | Performance Optimization Architect/Manager | see link | external | — | — | https://www.naukri.com/job-listings-performance-optimization-architect-manager-qualcomm-india-pvt-ltd-bengaluru-12-to-17-years-231026929899 |
+| 219 | 24/10/2026, 10:23:31 am | RTL Design (Director) | see link | external | — | — | https://www.naukri.com/job-listings-rtl-design-director-qualcomm-india-pvt-ltd-hyderabad-15-to-20-years-231026922963 |
+| 220 | 24/10/2026, 10:24:55 am | Sr Manager - HR & IR | see link | external | — | — | https://www.naukri.com/job-listings-sr-manager-hr-ir-adani-transmission-mundra-12-to-18-years-231026501525 |
+| 221 | 24/10/2026, 10:26:47 am | Quality Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-quality-manager-uma-polymers-jodhpur-10-to-16-years-231026029175 |
+| 222 | 24/10/2026, 10:28:53 am | F&A - Training Manager - Chennai | see link | skipped | — | unanswered option question: Which area does your current training role primarily focus on? | https://www.naukri.com/job-listings-f-a-training-manager-chennai-wipro-chennai-10-to-20-years-191026005946 |
+| 223 | 24/10/2026, 10:31:37 am | Director Technical Learning | see link | skipped | — | unanswered: How many years of experience do you have in Learning Excellence? | https://www.naukri.com/job-listings-director-technical-learning-coronis-ajuba-solutions-chennai-15-to-24-years-231026023378 |
+| 224 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -790,3 +798,25 @@ Attempts: **216** · applied: **52** · verified on Naukri: **52** · unconfirme
 ### Head Learning & Development (see link)
 - **Q:** Please select the city you are currently residing or willing to relocate to  
   **A:** Delhi / NCR
+
+### Head Learning & Development (see link)
+- **Q:** Comfortable for 6 days working set up  
+  **A:** Yes
+
+### Quality Manager (see link)
+- **Q:** How many years of experience do you have in Flexible Packaging?  
+  **A:** 16
+- **Q:** Are you currently residing in Jodhpur or willing to relocate to Jodhpur?  
+  **A:** Yes
+
+### F&A - Training Manager - Chennai (see link)
+- **Q:** Do you have strong Finance & Accounting domain knowledge across RTR, P2P and/or OTC processes?  
+  **A:** Yes
+- **Q:** Which area does your current training role primarily focus on?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Director Technical Learning (see link)
+- **Q:** How many years of experience do you have in US Healthcare?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Learning Excellence?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_

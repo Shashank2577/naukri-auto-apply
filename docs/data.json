@@ -1,14 +1,14 @@
 {
-  "generated": "24/10/2026, 10:18:21 am",
+  "generated": "24/10/2026, 10:33:23 am",
   "counts": {
-    "applied": 52,
-    "external": 79,
+    "applied": 53,
+    "external": 83,
     "failed": 3,
-    "skipped": 81,
-    "unconfirmed": 1
+    "skipped": 83,
+    "unconfirmed": 2
   },
-  "verified": 52,
-  "unanswered": 71,
+  "verified": 53,
+  "unanswered": 73,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -3570,6 +3570,141 @@
       "outcome": "external",
       "reason": "",
       "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:18:14 am",
+      "title": "Head Learning & Development",
+      "url": "https://www.naukri.com/job-listings-head-learning-development-hands-on-gurugram-delhi-ncr-15-to-24-years-221026020591",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "unconfirmed",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "Comfortable for 6 days working set up",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:20:32 am",
+      "title": "Strategic Relationship Manager",
+      "url": "https://www.naukri.com/job-listings-strategic-relationship-manager-harvard-business-publishing-mumbai-12-to-17-years-231026502863",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:21:37 am",
+      "title": "Performance Optimization Architect/Manager",
+      "url": "https://www.naukri.com/job-listings-performance-optimization-architect-manager-qualcomm-india-pvt-ltd-bengaluru-12-to-17-years-231026929899",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:23:31 am",
+      "title": "RTL Design (Director)",
+      "url": "https://www.naukri.com/job-listings-rtl-design-director-qualcomm-india-pvt-ltd-hyderabad-15-to-20-years-231026922963",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:24:55 am",
+      "title": "Sr Manager - HR & IR",
+      "url": "https://www.naukri.com/job-listings-sr-manager-hr-ir-adani-transmission-mundra-12-to-18-years-231026501525",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:26:47 am",
+      "title": "Quality Manager",
+      "url": "https://www.naukri.com/job-listings-quality-manager-uma-polymers-jodhpur-10-to-16-years-231026029175",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Flexible Packaging?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "Are you currently residing in Jodhpur or willing to relocate to Jodhpur?",
+          "a": "Yes",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:28:53 am",
+      "title": "F&A - Training Manager - Chennai",
+      "url": "https://www.naukri.com/job-listings-f-a-training-manager-chennai-wipro-chennai-10-to-20-years-191026005946",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered option question: Which area does your current training role primarily focus on?",
+      "qa": [
+        {
+          "q": "Do you have strong Finance & Accounting domain knowledge across RTR, P2P and/or OTC processes?",
+          "a": "Yes",
+          "generic": false
+        },
+        {
+          "q": "Which area does your current training role primarily focus on?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 10:31:37 am",
+      "title": "Director Technical Learning",
+      "url": "https://www.naukri.com/job-listings-director-technical-learning-coronis-ajuba-solutions-chennai-15-to-24-years-231026023378",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: How many years of experience do you have in Learning Excellence?",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in US Healthcare?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Learning Excellence?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
       "verified": null,
       "flags": []
     },
