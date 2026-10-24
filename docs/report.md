@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 1:03:39 pm (IST)
+Generated 24/10/2026, 1:13:21 pm (IST)
 
-Attempts: **313** · applied: **67** · verified on Naukri: **67** · unconfirmed: **2** · external (company site): **0** · skipped: **124** · failed: **3** · generic answers: **80**
+Attempts: **318** · applied: **67** · verified on Naukri: **67** · unconfirmed: **2** · external (company site): **0** · skipped: **128** · failed: **3** · generic answers: **81**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -318,7 +318,12 @@ Attempts: **313** · applied: **67** · verified on Naukri: **67** · unconfirme
 | 310 | 24/10/2026, 12:59:34 pm | Senior Manager, Business Transformations | see link | external | — | — | https://www.naukri.com/job-listings-senior-manager-business-transformations-cvent-india-pvt-ltd-gurugram-15-to-17-years-170726504125 |
 | 311 | 24/10/2026, 1:01:11 pm | Program Manager - Digital Transformation | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-program-manager-digital-transformation-capgemini-technology-services-india-limited-gurugram-12-to-18-years-081026946679 |
 | 312 | 24/10/2026, 1:03:19 pm | Senior Manager - Commercial Forecasting | see link | external | — | — | https://www.naukri.com/job-listings-senior-manager-commercial-forecasting-amgen-technology-private-limited-hyderabad-12-to-17-years-221026916013 |
-| 313 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 313 | 24/10/2026, 1:05:11 pm | Program Manager | see link | skipped | — | unanswered: How many years of experience do you have in Java? | https://www.naukri.com/job-listings-program-manager-tekgence-navi-mumbai-chennai-15-to-24-years-231026014976 |
+| 314 | 24/10/2026, 1:06:50 pm | GDS Meetings and Events - M and E Program Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-gds-meetings-and-events-m-and-e-program-manager-ernst-young-llp-bengaluru-bengaluru-10-to-18-years-221026921385 |
+| 315 | 24/10/2026, 1:08:49 pm | Program Manager - Transport | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-program-manager-transport-r1-rcm-global-private-limited-chennai-chennai-12-to-17-years-191026910799 |
+| 316 | 24/10/2026, 1:10:21 pm | Program Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-program-manager-acl-digital-bengaluru-14-to-24-years-130826017033 |
+| 317 | 24/10/2026, 1:12:59 pm | Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-eclerx-services-ltd-pune-15-to-20-years-191026502274 |
+| 318 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -1037,3 +1042,9 @@ Attempts: **313** · applied: **67** · verified on Naukri: **67** · unconfirme
   **A:** 16
 - **Q:** Are you currently residing in Hyderabad or willing to relocate to Hyderabad?  
   **A:** Yes
+
+### Program Manager (see link)
+- **Q:** How many years of experience do you have in Program Manager?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Java?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_

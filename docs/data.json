@@ -1,14 +1,14 @@
 {
-  "generated": "24/10/2026, 1:03:39 pm",
+  "generated": "24/10/2026, 1:13:21 pm",
   "counts": {
     "applied": 67,
-    "external": 117,
+    "external": 118,
     "failed": 3,
-    "skipped": 124,
+    "skipped": 128,
     "unconfirmed": 2
   },
   "verified": 67,
-  "unanswered": 80,
+  "unanswered": 81,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -4996,6 +4996,77 @@
       "time": "24/10/2026, 1:03:19 pm",
       "title": "Senior Manager - Commercial Forecasting",
       "url": "https://www.naukri.com/job-listings-senior-manager-commercial-forecasting-amgen-technology-private-limited-hyderabad-12-to-17-years-221026916013",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 1:05:11 pm",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-tekgence-navi-mumbai-chennai-15-to-24-years-231026014976",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: How many years of experience do you have in Java?",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Program Manager?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Java?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 1:06:50 pm",
+      "title": "GDS Meetings and Events - M and E Program Manager",
+      "url": "https://www.naukri.com/job-listings-gds-meetings-and-events-m-and-e-program-manager-ernst-young-llp-bengaluru-bengaluru-10-to-18-years-221026921385",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 1:08:49 pm",
+      "title": "Program Manager - Transport",
+      "url": "https://www.naukri.com/job-listings-program-manager-transport-r1-rcm-global-private-limited-chennai-chennai-12-to-17-years-191026910799",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 1:10:21 pm",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-acl-digital-bengaluru-14-to-24-years-130826017033",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 1:12:59 pm",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-eclerx-services-ltd-pune-15-to-20-years-191026502274",
       "company": "see link",
       "kind": "naukri",
       "outcome": "external",
