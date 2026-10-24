@@ -1,10 +1,10 @@
 {
-  "generated": "24/10/2026, 11:37:13 am",
+  "generated": "24/10/2026, 11:43:15 am",
   "counts": {
     "applied": 58,
-    "external": 103,
+    "external": 105,
     "failed": 3,
-    "skipped": 97,
+    "skipped": 100,
     "unconfirmed": 2
   },
   "verified": 58,
@@ -4252,6 +4252,66 @@
         }
       ],
       "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:37:37 am",
+      "title": "CSR Manager",
+      "url": "https://www.naukri.com/job-listings-csr-manager-jsw-foundation-mumbai-all-areas-10-to-20-years-161026026582",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:38:55 am",
+      "title": "Sr. Manager - CSR",
+      "url": "https://www.naukri.com/job-listings-sr-manager-csr-rohan-group-pune-15-to-20-years-231026027383",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:40:26 am",
+      "title": "Senior Manager Biostatistics",
+      "url": "https://www.naukri.com/job-listings-senior-manager-biostatistics-amgen-technology-private-limited-hyderabad-12-to-17-years-221026919575",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:41:52 am",
+      "title": "Transition Manager",
+      "url": "https://www.naukri.com/job-listings-transition-manager-orange-mumbai-12-to-17-years-140826503694",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:42:50 am",
+      "title": "Manager -CS",
+      "url": "https://www.naukri.com/job-listings-manager-cs-one-of-the-leading-organization-mumbai-10-to-19-years-230226016572",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
       "flags": []
     },
     {

@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 11:37:13 am (IST)
+Generated 24/10/2026, 11:43:15 am (IST)
 
-Attempts: **263** · applied: **58** · verified on Naukri: **58** · unconfirmed: **2** · external (company site): **0** · skipped: **97** · failed: **3** · generic answers: **76**
+Attempts: **268** · applied: **58** · verified on Naukri: **58** · unconfirmed: **2** · external (company site): **0** · skipped: **100** · failed: **3** · generic answers: **76**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -268,7 +268,12 @@ Attempts: **263** · applied: **58** · verified on Naukri: **58** · unconfirme
 | 260 | 24/10/2026, 11:32:15 am | Mutual Fund Head | see link | external | — | — | https://www.naukri.com/job-listings-mutual-fund-head-miracle-consultancy-jamnagar-ahmedabad-rajkot-surat-vadodara-15-to-18-years-100118500382 |
 | 261 | 24/10/2026, 11:33:28 am | Head- BPHR South India | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-head-bphr-south-india-workoid-consultants-hyderabad-bengaluru-12-to-22-years-201026008422 |
 | 262 | 24/10/2026, 11:35:52 am | Head - Horeca (6 days working) | see link | applied | verified | done | https://www.naukri.com/job-listings-head-horeca-6-days-working-chaudhary-group-gurugram-15-to-24-years-230926033894 |
-| 263 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 263 | 24/10/2026, 11:37:37 am | CSR Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-csr-manager-jsw-foundation-mumbai-all-areas-10-to-20-years-161026026582 |
+| 264 | 24/10/2026, 11:38:55 am | Sr. Manager - CSR | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-sr-manager-csr-rohan-group-pune-15-to-20-years-231026027383 |
+| 265 | 24/10/2026, 11:40:26 am | Senior Manager Biostatistics | see link | external | — | — | https://www.naukri.com/job-listings-senior-manager-biostatistics-amgen-technology-private-limited-hyderabad-12-to-17-years-221026919575 |
+| 266 | 24/10/2026, 11:41:52 am | Transition Manager | see link | external | — | — | https://www.naukri.com/job-listings-transition-manager-orange-mumbai-12-to-17-years-140826503694 |
+| 267 | 24/10/2026, 11:42:50 am | Manager -CS | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-manager-cs-one-of-the-leading-organization-mumbai-10-to-19-years-230226016572 |
+| 268 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
