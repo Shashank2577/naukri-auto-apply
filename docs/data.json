@@ -1,14 +1,14 @@
 {
-  "generated": "24/10/2026, 12:44:53 pm",
+  "generated": "24/10/2026, 12:54:16 pm",
   "counts": {
     "applied": 66,
     "external": 114,
     "failed": 3,
-    "skipped": 118,
+    "skipped": 123,
     "unconfirmed": 2
   },
   "verified": 66,
-  "unanswered": 78,
+  "unanswered": 80,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -4849,6 +4849,83 @@
         }
       ],
       "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:46:30 pm",
+      "title": "Hirin For Program Manager RPO",
+      "url": "https://www.naukri.com/job-listings-hirin-for-program-manager-rpo-careernet-bengaluru-12-to-20-years-101026012989",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:48:46 pm",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-inesh-management-consultancy-hosur-9-to-20-years-250926037732",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: Industries handled?",
+      "qa": [
+        {
+          "q": "Are you currently living in or ready to relocate to Hosur ?",
+          "a": "Yes",
+          "generic": false
+        },
+        {
+          "q": "Industries handled?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:50:21 pm",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-careernet-bengaluru-11-to-18-years-220926044082",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:51:43 pm",
+      "title": "Regional Head - Bhubaneswar",
+      "url": "https://www.naukri.com/job-listings-regional-head-bhubaneswar-sbicap-securities-bhubaneswar-11-to-16-years-240926015992",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:53:52 pm",
+      "title": "Segment Lead - Mid Market (Senior Role)",
+      "url": "https://www.naukri.com/job-listings-segment-lead-mid-market-senior-role-haarvard-management-consultants-gurugram-bengaluru-mumbai-all-areas-13-to-23-years-211026006793",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: How many years of experience in Mid Market Enterprise Sales",
+      "qa": [
+        {
+          "q": "How many years of experience in Mid Market Enterprise Sales",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
       "flags": []
     },
     {

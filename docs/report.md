@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 12:44:53 pm (IST)
+Generated 24/10/2026, 12:54:16 pm (IST)
 
-Attempts: **303** · applied: **66** · verified on Naukri: **66** · unconfirmed: **2** · external (company site): **0** · skipped: **118** · failed: **3** · generic answers: **78**
+Attempts: **308** · applied: **66** · verified on Naukri: **66** · unconfirmed: **2** · external (company site): **0** · skipped: **123** · failed: **3** · generic answers: **80**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -308,7 +308,12 @@ Attempts: **303** · applied: **66** · verified on Naukri: **66** · unconfirme
 | 300 | 24/10/2026, 12:39:57 pm | Program Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-program-manager-alstom-transport-india-ltd-bengaluru-15-to-23-years-121026904471 |
 | 301 | 24/10/2026, 12:42:16 pm | Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-infinite-computer-solutions-india-pvt-ltd-bengaluru-15-to-20-years-161026503663 |
 | 302 | 24/10/2026, 12:44:15 pm | Program Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-program-manager-sasmos-het-technologies-devanahalli-12-to-20-years-131026037846 |
-| 303 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 303 | 24/10/2026, 12:46:30 pm | Hirin For Program Manager RPO | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-hirin-for-program-manager-rpo-careernet-bengaluru-12-to-20-years-101026012989 |
+| 304 | 24/10/2026, 12:48:46 pm | Program Manager | see link | skipped | — | unanswered: Industries handled? | https://www.naukri.com/job-listings-program-manager-inesh-management-consultancy-hosur-9-to-20-years-250926037732 |
+| 305 | 24/10/2026, 12:50:21 pm | Program Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-program-manager-careernet-bengaluru-11-to-18-years-220926044082 |
+| 306 | 24/10/2026, 12:51:43 pm | Regional Head - Bhubaneswar | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-regional-head-bhubaneswar-sbicap-securities-bhubaneswar-11-to-16-years-240926015992 |
+| 307 | 24/10/2026, 12:53:52 pm | Segment Lead - Mid Market (Senior Role) | see link | skipped | — | unanswered: How many years of experience in Mid Market Enterprise Sales | https://www.naukri.com/job-listings-segment-lead-mid-market-senior-role-haarvard-management-consultants-gurugram-bengaluru-mumbai-all-areas-13-to-23-years-211026006793 |
+| 308 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -1009,3 +1014,13 @@ Attempts: **303** · applied: **66** · verified on Naukri: **66** · unconfirme
 ### Program Manager (see link)
 - **Q:** How many years of experience do you have in the Defence, Aerospace, or Manufacturing industry program management?  
   **A:** 16
+
+### Program Manager (see link)
+- **Q:** Are you currently living in or ready to relocate to Hosur ?  
+  **A:** Yes
+- **Q:** Industries handled?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Segment Lead - Mid Market (Senior Role) (see link)
+- **Q:** How many years of experience in Mid Market Enterprise Sales  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
