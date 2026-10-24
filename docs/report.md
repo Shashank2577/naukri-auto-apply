@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 12:26:48 pm (IST)
+Generated 24/10/2026, 12:35:51 pm (IST)
 
-Attempts: **293** · applied: **64** · verified on Naukri: **64** · unconfirmed: **2** · external (company site): **0** · skipped: **113** · failed: **3** · generic answers: **77**
+Attempts: **298** · applied: **65** · verified on Naukri: **65** · unconfirmed: **2** · external (company site): **0** · skipped: **115** · failed: **3** · generic answers: **78**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -298,7 +298,12 @@ Attempts: **293** · applied: **64** · verified on Naukri: **64** · unconfirme
 | 290 | 24/10/2026, 12:23:01 pm | Project Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-project-manager-global-indian-international-school-giis-mumbai-all-areas-15-to-24-years-231026025680 |
 | 291 | 24/10/2026, 12:24:46 pm | Service Delivery Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-service-delivery-manager-space-inventive-hyderabad-10-to-18-years-231026025331 |
 | 292 | 24/10/2026, 12:26:23 pm | Manager - General Purchase | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-manager-general-purchase-premier-fine-linens-coimbatore-10-to-18-years-231026023796 |
-| 293 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 293 | 24/10/2026, 12:28:37 pm | General Manager- Business Development & ESCO | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-general-manager-business-development-esco-bvg-india-bengaluru-15-to-20-years-231026012236 |
+| 294 | 24/10/2026, 12:30:10 pm | Manager, Service Delivery, India | see link | skipped | — | unanswered: How many end to end transitions handled? | https://www.naukri.com/job-listings-manager-service-delivery-india-resource-pro-bengaluru-12-to-20-years-230926018652 |
+| 295 | 24/10/2026, 12:32:00 pm | Fire Safety Systems Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-fire-safety-systems-manager-mrf-chennai-10-to-20-years-230926009529 |
+| 296 | 24/10/2026, 12:34:20 pm | Senior Manager, Incentive Compensation Administration Lead | see link | external | — | — | https://www.naukri.com/job-listings-senior-manager-incentive-compensation-administration-lead-amgen-technology-private-limited-hyderabad-12-to-17-years-221026919696 |
+| 297 | 24/10/2026, 12:35:27 pm | Senior Manager- Identity and Access Management | see link | external | — | — | https://www.naukri.com/job-listings-senior-manager-identity-and-access-management-amgen-technology-private-limited-hyderabad-12-to-17-years-221026916146 |
+| 298 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -978,4 +983,16 @@ Attempts: **293** · applied: **64** · verified on Naukri: **64** · unconfirme
 - **Q:** How many years of experience do you have in Service Delivery Management?  
   **A:** 16
 - **Q:** How many years of experience do you have in the Life Sciences, Pharmaceutical, or Healthcare domain?  
+  **A:** 16
+
+### Manager, Service Delivery, India (see link)
+- **Q:** How many end to end transitions handled?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
+
+### Fire Safety Systems Manager (see link)
+- **Q:** Do you have expertise in Fire Safety? (Please do not apply if you have only general safety experience)  
+  **A:** Yes
+- **Q:** Are you currently residing in Chennai, Tamil Nadu or willing to relocate to Chennai, Tamil Nadu?  
+  **A:** Yes
+- **Q:** How many years of experience do you have in Fire Safety?  
   **A:** 16

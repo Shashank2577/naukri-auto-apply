@@ -1,14 +1,14 @@
 {
-  "generated": "24/10/2026, 12:26:48 pm",
+  "generated": "24/10/2026, 12:35:51 pm",
   "counts": {
-    "applied": 64,
-    "external": 111,
+    "applied": 65,
+    "external": 113,
     "failed": 3,
-    "skipped": 113,
+    "skipped": 115,
     "unconfirmed": 2
   },
-  "verified": 64,
-  "unanswered": 77,
+  "verified": 65,
+  "unanswered": 78,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -4693,6 +4693,88 @@
       "kind": "naukri",
       "outcome": "skipped",
       "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:28:37 pm",
+      "title": "General Manager- Business Development & ESCO",
+      "url": "https://www.naukri.com/job-listings-general-manager-business-development-esco-bvg-india-bengaluru-15-to-20-years-231026012236",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:30:10 pm",
+      "title": "Manager, Service Delivery, India",
+      "url": "https://www.naukri.com/job-listings-manager-service-delivery-india-resource-pro-bengaluru-12-to-20-years-230926018652",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: How many end to end transitions handled?",
+      "qa": [
+        {
+          "q": "How many end to end transitions handled?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:32:00 pm",
+      "title": "Fire Safety Systems Manager",
+      "url": "https://www.naukri.com/job-listings-fire-safety-systems-manager-mrf-chennai-10-to-20-years-230926009529",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "Do you have expertise in Fire Safety? (Please do not apply if you have only general safety experience)",
+          "a": "Yes",
+          "generic": false
+        },
+        {
+          "q": "Are you currently residing in Chennai, Tamil Nadu or willing to relocate to Chennai, Tamil Nadu?",
+          "a": "Yes",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Fire Safety?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:34:20 pm",
+      "title": "Senior Manager, Incentive Compensation Administration Lead",
+      "url": "https://www.naukri.com/job-listings-senior-manager-incentive-compensation-administration-lead-amgen-technology-private-limited-hyderabad-12-to-17-years-221026919696",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:35:27 pm",
+      "title": "Senior Manager- Identity and Access Management",
+      "url": "https://www.naukri.com/job-listings-senior-manager-identity-and-access-management-amgen-technology-private-limited-hyderabad-12-to-17-years-221026916146",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
       "qa": [],
       "verified": null,
       "flags": []
