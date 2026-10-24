@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 1:13:21 pm (IST)
+Generated 24/10/2026, 1:22:04 pm (IST)
 
-Attempts: **318** · applied: **67** · verified on Naukri: **67** · unconfirmed: **2** · external (company site): **0** · skipped: **128** · failed: **3** · generic answers: **81**
+Attempts: **323** · applied: **67** · verified on Naukri: **67** · unconfirmed: **2** · external (company site): **0** · skipped: **131** · failed: **3** · generic answers: **81**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -323,7 +323,12 @@ Attempts: **318** · applied: **67** · verified on Naukri: **67** · unconfirme
 | 315 | 24/10/2026, 1:08:49 pm | Program Manager - Transport | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-program-manager-transport-r1-rcm-global-private-limited-chennai-chennai-12-to-17-years-191026910799 |
 | 316 | 24/10/2026, 1:10:21 pm | Program Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-program-manager-acl-digital-bengaluru-14-to-24-years-130826017033 |
 | 317 | 24/10/2026, 1:12:59 pm | Program Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-manager-eclerx-services-ltd-pune-15-to-20-years-191026502274 |
-| 318 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 318 | 24/10/2026, 1:15:00 pm | Program Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-program-manager-naukri-assist-noida-bengaluru-15-to-20-years-141026024293 |
+| 319 | 24/10/2026, 1:16:50 pm | Program Cybersecurity Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-program-cybersecurity-manager-alstom-transport-india-ltd-bengaluru-15-to-23-years-161026915219 |
+| 320 | 24/10/2026, 1:19:08 pm | Manager - HR | see link | external | — | — | https://www.naukri.com/job-listings-manager-hr-sun-pharma-industries-mohali-15-to-20-years-231026501239 |
+| 321 | 24/10/2026, 1:20:13 pm | Team Manager | see link | external | — | — | https://www.naukri.com/job-listings-team-manager-broadridge-financial-solutions-india-pvt-ltd-hyderabad-14-to-20-years-231026501068 |
+| 322 | 24/10/2026, 1:21:20 pm | Maintenance Manager | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-maintenance-manager-dmart-mumbai-all-areas-15-to-20-years-231026029535 |
+| 323 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 

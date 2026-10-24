@@ -1,10 +1,10 @@
 {
-  "generated": "24/10/2026, 1:13:21 pm",
+  "generated": "24/10/2026, 1:22:04 pm",
   "counts": {
     "applied": 67,
-    "external": 118,
+    "external": 120,
     "failed": 3,
-    "skipped": 128,
+    "skipped": 131,
     "unconfirmed": 2
   },
   "verified": 67,
@@ -5071,6 +5071,66 @@
       "kind": "naukri",
       "outcome": "external",
       "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 1:15:00 pm",
+      "title": "Program Manager",
+      "url": "https://www.naukri.com/job-listings-program-manager-naukri-assist-noida-bengaluru-15-to-20-years-141026024293",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 1:16:50 pm",
+      "title": "Program Cybersecurity Manager",
+      "url": "https://www.naukri.com/job-listings-program-cybersecurity-manager-alstom-transport-india-ltd-bengaluru-15-to-23-years-161026915219",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 1:19:08 pm",
+      "title": "Manager - HR",
+      "url": "https://www.naukri.com/job-listings-manager-hr-sun-pharma-industries-mohali-15-to-20-years-231026501239",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 1:20:13 pm",
+      "title": "Team Manager",
+      "url": "https://www.naukri.com/job-listings-team-manager-broadridge-financial-solutions-india-pvt-ltd-hyderabad-14-to-20-years-231026501068",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 1:21:20 pm",
+      "title": "Maintenance Manager",
+      "url": "https://www.naukri.com/job-listings-maintenance-manager-dmart-mumbai-all-areas-15-to-20-years-231026029535",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
       "qa": [],
       "verified": null,
       "flags": []
