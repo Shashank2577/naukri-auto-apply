@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 12:02:41 pm (IST)
+Generated 24/10/2026, 12:09:23 pm (IST)
 
-Attempts: **278** · applied: **61** · verified on Naukri: **61** · unconfirmed: **2** · external (company site): **0** · skipped: **107** · failed: **3** · generic answers: **76**
+Attempts: **283** · applied: **61** · verified on Naukri: **61** · unconfirmed: **2** · external (company site): **0** · skipped: **109** · failed: **3** · generic answers: **77**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -283,7 +283,12 @@ Attempts: **278** · applied: **61** · verified on Naukri: **61** · unconfirme
 | 275 | 24/10/2026, 11:57:56 am | Branch HEAD & Dispute Resolutions Practice HEAD | see link | applied | verified | done | https://www.naukri.com/job-listings-branch-head-dispute-resolutions-practice-head-svn-consultancy-coimbatore-15-to-20-years-051026003095 |
 | 276 | 24/10/2026, 12:00:32 pm | Department Director | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-department-director-alstom-transport-india-ltd-bengaluru-15-to-20-years-231026923024 |
 | 277 | 24/10/2026, 12:01:56 pm | Senior Director | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-senior-director-axtria-india-private-limited-gurugram-16-to-25-years-081026947186 |
-| 278 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 278 | 24/10/2026, 12:03:15 pm | Program Director- Mumbai | see link | skipped | — | unanswered: Passing year and percentage from 10th to MBA | https://www.naukri.com/job-listings-program-director-mumbai-ey-mumbai-15-to-24-years-221026019635 |
+| 279 | 24/10/2026, 12:04:20 pm | Sr Facilities Manager - Technical Services | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-sr-facilities-manager-technical-services-jones-lang-lasalle-property-consultants-gurugram-15-to-20-years-230926033209 |
+| 280 | 24/10/2026, 12:06:33 pm | Manager-Security Services | see link | external | — | — | https://www.naukri.com/job-listings-manager-security-services-american-express-india-gurugram-12-to-17-years-030726502416 |
+| 281 | 24/10/2026, 12:07:35 pm | API Practice Head | see link | external | — | — | https://www.naukri.com/job-listings-api-practice-head-krazy-mantra-group-of-companies-pune-chennai-bengaluru-15-to-25-years-250325500948 |
+| 282 | 24/10/2026, 12:09:12 pm | Boomi Practice Head | see link | external | — | — | https://www.naukri.com/job-listings-boomi-practice-head-krazy-mantra-group-of-companies-pune-chennai-bengaluru-15-to-25-years-250325500527 |
+| 283 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -946,3 +951,7 @@ Attempts: **278** · applied: **61** · verified on Naukri: **61** · unconfirme
   **A:** 16
 - **Q:** Are you currently residing in Coimbatore or willing to relocate to Coimbatore?  
   **A:** Yes
+
+### Program Director- Mumbai (see link)
+- **Q:** Passing year and percentage from 10th to MBA  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_

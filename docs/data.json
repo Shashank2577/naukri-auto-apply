@@ -1,14 +1,14 @@
 {
-  "generated": "24/10/2026, 12:02:41 pm",
+  "generated": "24/10/2026, 12:09:23 pm",
   "counts": {
     "applied": 61,
-    "external": 105,
+    "external": 108,
     "failed": 3,
-    "skipped": 107,
+    "skipped": 109,
     "unconfirmed": 2
   },
   "verified": 61,
-  "unanswered": 76,
+  "unanswered": 77,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -4484,6 +4484,72 @@
       "kind": "naukri",
       "outcome": "skipped",
       "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:03:15 pm",
+      "title": "Program Director- Mumbai",
+      "url": "https://www.naukri.com/job-listings-program-director-mumbai-ey-mumbai-15-to-24-years-221026019635",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: Passing year and percentage from 10th to MBA",
+      "qa": [
+        {
+          "q": "Passing year and percentage from 10th to MBA",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:04:20 pm",
+      "title": "Sr Facilities Manager - Technical Services",
+      "url": "https://www.naukri.com/job-listings-sr-facilities-manager-technical-services-jones-lang-lasalle-property-consultants-gurugram-15-to-20-years-230926033209",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:06:33 pm",
+      "title": "Manager-Security Services",
+      "url": "https://www.naukri.com/job-listings-manager-security-services-american-express-india-gurugram-12-to-17-years-030726502416",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:07:35 pm",
+      "title": "API Practice Head",
+      "url": "https://www.naukri.com/job-listings-api-practice-head-krazy-mantra-group-of-companies-pune-chennai-bengaluru-15-to-25-years-250325500948",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 12:09:12 pm",
+      "title": "Boomi Practice Head",
+      "url": "https://www.naukri.com/job-listings-boomi-practice-head-krazy-mantra-group-of-companies-pune-chennai-bengaluru-15-to-25-years-250325500527",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
       "qa": [],
       "verified": null,
       "flags": []
