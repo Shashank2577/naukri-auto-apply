@@ -1,14 +1,14 @@
 {
-  "generated": "24/10/2026, 11:18:30 am",
+  "generated": "24/10/2026, 11:33:32 am",
   "counts": {
-    "applied": 56,
-    "external": 96,
+    "applied": 57,
+    "external": 103,
     "failed": 3,
-    "skipped": 94,
+    "skipped": 96,
     "unconfirmed": 2
   },
-  "verified": 56,
-  "unanswered": 75,
+  "verified": 57,
+  "unanswered": 76,
   "jobs": [
     {
       "time": "15/10/2026, 11:58:21 pm",
@@ -4073,6 +4073,153 @@
       "kind": "naukri",
       "outcome": "skipped",
       "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:18:57 am",
+      "title": "Senior Manager, Marketing",
+      "url": "https://www.naukri.com/job-listings-senior-manager-marketing-mongodb-software-india-private-limited-gurugram-12-to-17-years-211026919138",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "Apply click opened nothing (retried on a later run)",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:20:49 am",
+      "title": "Delivery Lead Senior Manager",
+      "url": "https://www.naukri.com/job-listings-delivery-lead-senior-manager-accenture-solutions-pvt-ltd-gurugram-16-to-25-years-191026914652",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:22:27 am",
+      "title": "Delivery Lead Manager",
+      "url": "https://www.naukri.com/job-listings-delivery-lead-manager-accenture-solutions-pvt-ltd-gurugram-13-to-18-years-191026914608",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:23:30 am",
+      "title": "Delivery Lead Manager",
+      "url": "https://www.naukri.com/job-listings-delivery-lead-manager-accenture-solutions-pvt-ltd-gurugram-13-to-18-years-191026914108",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:24:33 am",
+      "title": "Network Manager",
+      "url": "https://www.naukri.com/job-listings-network-manager-nlb-services-noida-gurugram-13-to-23-years-221026018324",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "applied",
+      "reason": "done",
+      "qa": [
+        {
+          "q": "How many years of experience do you have in Sonicwall?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Firewall?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Switching?",
+          "a": "16",
+          "generic": false
+        },
+        {
+          "q": "How many years of experience do you have in Routing?",
+          "a": "16",
+          "generic": false
+        }
+      ],
+      "verified": "verified",
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:27:12 am",
+      "title": "Program & Project Mgmt Senior Manager",
+      "url": "https://www.naukri.com/job-listings-program-project-mgmt-senior-manager-accenture-solutions-pvt-ltd-gurugram-16-to-25-years-231026917214",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:28:44 am",
+      "title": "Associate Director - AI Marketing. Transformation Lead",
+      "url": "https://www.naukri.com/job-listings-associate-director-ai-marketing-transformation-lead-optum-global-solutions-india-private-limited-gurugram-15-to-20-years-231026919234",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:30:09 am",
+      "title": "COCO Head _Automobile Dealership",
+      "url": "https://www.naukri.com/job-listings-coco-head-automobile-dealership-xpheno-bengaluru-15-to-20-years-201026007112",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "skipped",
+      "reason": "unanswered: Are you comfortable working on a third-party payroll?",
+      "qa": [
+        {
+          "q": "Are you comfortable working on a third-party payroll?",
+          "a": "(no rule: skipped)",
+          "generic": true
+        }
+      ],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:31:25 am",
+      "title": "IBT Head",
+      "url": "https://www.naukri.com/job-listings-ibt-head-miracle-consultancy-jamnagar-ahmedabad-rajkot-surat-vadodara-15-to-18-years-100118500384",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
+      "qa": [],
+      "verified": null,
+      "flags": []
+    },
+    {
+      "time": "24/10/2026, 11:32:15 am",
+      "title": "Mutual Fund Head",
+      "url": "https://www.naukri.com/job-listings-mutual-fund-head-miracle-consultancy-jamnagar-ahmedabad-rajkot-surat-vadodara-15-to-18-years-100118500382",
+      "company": "see link",
+      "kind": "naukri",
+      "outcome": "external",
+      "reason": "",
       "qa": [],
       "verified": null,
       "flags": []

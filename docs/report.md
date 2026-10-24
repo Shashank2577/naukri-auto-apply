@@ -1,8 +1,8 @@
 # Naukri application report
 
-Generated 24/10/2026, 11:18:30 am (IST)
+Generated 24/10/2026, 11:33:32 am (IST)
 
-Attempts: **251** · applied: **56** · verified on Naukri: **56** · unconfirmed: **2** · external (company site): **0** · skipped: **94** · failed: **3** · generic answers: **75**
+Attempts: **261** · applied: **57** · verified on Naukri: **57** · unconfirmed: **2** · external (company site): **0** · skipped: **96** · failed: **3** · generic answers: **76**
 
 | # | Time | Job | Company | Outcome | Verified | Reason | Link |
 |---|---|---|---|---|---|---|---|
@@ -256,7 +256,17 @@ Attempts: **251** · applied: **56** · verified on Naukri: **56** · unconfirme
 | 248 | 24/10/2026, 11:13:03 am | Lead - Project P&M | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-lead-project-p-m-hg-infra-engineering-gurugram-india-14-to-18-years-011026028329 |
 | 249 | 24/10/2026, 11:15:21 am | Head- Anti Money Laundering | see link | applied | verified | done | https://www.naukri.com/job-listings-head-anti-money-laundering-indypay-technologies-mumbai-all-areas-15-to-22-years-231026025968 |
 | 250 | 24/10/2026, 11:17:28 am | Associate Director - Applied AI and Analytics | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-associate-director-applied-ai-and-analytics-ernst-young-llp-gurugram-15-to-20-years-221026915772 |
-| 251 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
+| 251 | 24/10/2026, 11:18:57 am | Senior Manager, Marketing | see link | skipped | — | Apply click opened nothing (retried on a later run) | https://www.naukri.com/job-listings-senior-manager-marketing-mongodb-software-india-private-limited-gurugram-12-to-17-years-211026919138 |
+| 252 | 24/10/2026, 11:20:49 am | Delivery Lead Senior Manager | see link | external | — | — | https://www.naukri.com/job-listings-delivery-lead-senior-manager-accenture-solutions-pvt-ltd-gurugram-16-to-25-years-191026914652 |
+| 253 | 24/10/2026, 11:22:27 am | Delivery Lead Manager | see link | external | — | — | https://www.naukri.com/job-listings-delivery-lead-manager-accenture-solutions-pvt-ltd-gurugram-13-to-18-years-191026914608 |
+| 254 | 24/10/2026, 11:23:30 am | Delivery Lead Manager | see link | external | — | — | https://www.naukri.com/job-listings-delivery-lead-manager-accenture-solutions-pvt-ltd-gurugram-13-to-18-years-191026914108 |
+| 255 | 24/10/2026, 11:24:33 am | Network Manager | see link | applied | verified | done | https://www.naukri.com/job-listings-network-manager-nlb-services-noida-gurugram-13-to-23-years-221026018324 |
+| 256 | 24/10/2026, 11:27:12 am | Program & Project Mgmt Senior Manager | see link | external | — | — | https://www.naukri.com/job-listings-program-project-mgmt-senior-manager-accenture-solutions-pvt-ltd-gurugram-16-to-25-years-231026917214 |
+| 257 | 24/10/2026, 11:28:44 am | Associate Director - AI Marketing. Transformation Lead | see link | external | — | — | https://www.naukri.com/job-listings-associate-director-ai-marketing-transformation-lead-optum-global-solutions-india-private-limited-gurugram-15-to-20-years-231026919234 |
+| 258 | 24/10/2026, 11:30:09 am | COCO Head _Automobile Dealership | see link | skipped | — | unanswered: Are you comfortable working on a third-party payroll? | https://www.naukri.com/job-listings-coco-head-automobile-dealership-xpheno-bengaluru-15-to-20-years-201026007112 |
+| 259 | 24/10/2026, 11:31:25 am | IBT Head | see link | external | — | — | https://www.naukri.com/job-listings-ibt-head-miracle-consultancy-jamnagar-ahmedabad-rajkot-surat-vadodara-15-to-18-years-100118500384 |
+| 260 | 24/10/2026, 11:32:15 am | Mutual Fund Head | see link | external | — | — | https://www.naukri.com/job-listings-mutual-fund-head-miracle-consultancy-jamnagar-ahmedabad-rajkot-surat-vadodara-15-to-18-years-100118500382 |
+| 261 |  | Manager - Learning & Development | Max Healthcare | applied | verified | Application Sent (15 Oct 2026, Naukri applied history) | https://www.naukri.com/job-listings-manager-learning-development-max-healthcare-new-delhi-15-to-20-years-13102601 |
 
 ## Questions and answers
 
@@ -873,3 +883,17 @@ Attempts: **251** · applied: **56** · verified on Naukri: **56** · unconfirme
   **A:** 16
 - **Q:** How many years of experience do you have in Compliance Management?  
   **A:** 16
+
+### Network Manager (see link)
+- **Q:** How many years of experience do you have in Sonicwall?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Firewall?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Switching?  
+  **A:** 16
+- **Q:** How many years of experience do you have in Routing?  
+  **A:** 16
+
+### COCO Head _Automobile Dealership (see link)
+- **Q:** Are you comfortable working on a third-party payroll?  
+  **A:** (no rule: skipped) _(no bank match, generic line used)_
