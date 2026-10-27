@@ -29,6 +29,24 @@ const LINE = /^\[([^\]]+)\] \[naukri\]\s+(.*)$/;
 
 for (const file of files) {
   if (!fs.existsSync(file)) continue;
+  if (file.endsWith('.jsonl')) {
+    for (const raw of fs.readFileSync(file, 'utf8').split(/\r?\n/).filter(Boolean)) {
+      let r; try { r = JSON.parse(raw); } catch (e) { continue; }
+      const stopped = /^stopped:/.test(r.outcome);
+      let outcome = r.outcome;
+      if (r.verified === 'verified') outcome = 'applied';
+      else if (r.outcome === 'submitted' || r.outcome === 'clicked') outcome = r.verified === 'missing' ? 'failed' : 'unconfirmed';
+      else if (stopped || r.outcome === 'no_apply_button' || r.outcome === 'apply_click_no_response') outcome = 'skipped';
+      else if (r.outcome === 'error') outcome = 'failed';
+      jobs.push({
+        time: new Date(r.time).toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' }), title: r.title, url: r.url, company: 'see link', kind: 'naukri', outcome,
+        reason: stopped ? r.outcome.replace(/^stopped: /, '') : (r.outcome === 'no_apply_button' ? 'no Apply button (already applied or page changed)' : (r.outcome === 'apply_click_no_response' ? 'Apply click opened nothing (retried on a later run)' : (r.note || ''))),
+        qa: (r.questions || []).map((x) => ({ q: x.q, a: x.a === null ? '(no rule: skipped)' : x.a, generic: x.a === null })),
+        verified: r.verified || null, flags: [],
+      });
+    }
+    continue;
+  }
   const lines = fs.readFileSync(file, 'utf8').split(/\r?\n/);
   for (const raw of lines) {
     const m = raw.match(LINE);
@@ -101,8 +119,9 @@ function companyFromUrl() {
 const CONFIRMED = path.join(__dirname, 'confirmed.json');
 if (fs.existsSync(CONFIRMED)) {
   for (const c of JSON.parse(fs.readFileSync(CONFIRMED, 'utf8'))) {
-    const j = jobs.find((x) => x.url === c.url);
-    if (j) { j.outcome = 'applied'; j.verified = 'verified'; j.reason = c.status; }
+    let j = jobs.find((x) => x.url === c.url);
+    if (!j) { j = { time: c.time || '', title: c.title, url: c.url, company: c.company || 'see link', kind: 'naukri', outcome: 'applied', reason: '', qa: [], verified: null, flags: [] }; jobs.push(j); }
+    j.outcome = 'applied'; j.verified = 'verified'; j.reason = c.status;
   }
 }
 
